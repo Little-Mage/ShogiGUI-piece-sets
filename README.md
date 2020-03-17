@@ -12,4 +12,5 @@ https://preview.redd.it/rjpex8xjogx21.png?width=648&format=png&auto=webp&s=9cc6b
 CouchTomato's latest international sets
 
 Also boards and piece stands.
+
 #Note: All the pieces where made by CouchTomato, but I arranged them into the ShogiGUI format so enjoy. :)
