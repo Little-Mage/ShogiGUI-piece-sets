@@ -6,7 +6,7 @@ kanji with guides
 
 Hidetchi made by CouchTomato, but I made many fixes such as symmetry, remade the L & +L from scratch, etc.
 
-A Custom Hidetchi set with filled in pieces made by me with a little inspiration of this set made by CouchTomato
+A Custom Hidetchi set with filled in pieces made by me with a little inspiration of this set made by CouchTomato.
 https://preview.redd.it/rjpex8xjogx21.png?width=648&format=png&auto=webp&s=9cc6b1e1ef606683a91f5da92a86767be1c2ed81
 
 CouchTomato's latest international sets
@@ -17,4 +17,6 @@ The SVG.zip contains all the sets but in svg format so you make your own custom 
 
 The PNG.zip is all mentioned above and more in picture format.
 
-# Note: All the pieces where made by CouchTomato, but I arranged them into the ShogiGUI format so enjoy. :)
+The Rook and Bishop from some sets were editted by me but taken from the lichess github.
+
+## Note: All the pieces where made by CouchTomato, but I arranged and editted them into the ShogiGUI format so enjoy. :)
