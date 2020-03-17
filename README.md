@@ -11,14 +11,14 @@ https://preview.redd.it/rjpex8xjogx21.png?width=648&format=png&auto=webp&s=9cc6b
 
 CouchTomato's latest international sets
 
-Also boards and piece stands.
+Also boards and piece stand.
 
-The SVG.zip contains all the sets but in svg format so you make your own custom sets and share them please.
+The SVG folder contains all the sets but in SVG format so you make your own custom sets and share them please.
 
-The PNG.zip is all mentioned above and more in picture format.
+The PNG folder contains is all mentioned above and more in picture format.
 
-#### Note: All the pieces where made by CouchTomato, but I arranged and editted them onto the ShogiGUI format so enjoy. :)
+#### Note: All the pieces were made by CouchTomato, but I arranged and edited them onto the ShogiGUI format so enjoy. :)
 
-The Rook and Bishop from some sets were editted slightly by me but taken from the Lichess github.
+The Rook and Bishop from some sets were edited slightly by me but taken from the Lichess Github.
 
-The bona pngs where made by Shogiban.
+The bona pngs were made by Shogiban.
