@@ -1,5 +1,5 @@
 # ShogiGUI-piece-sets
-## All types of sets are included: kanji 
+## All types of sets are included:
 2kanji & 1kanji
 
 kanji with guides
