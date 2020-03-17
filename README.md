@@ -17,6 +17,6 @@ The SVG.zip contains all the sets but in svg format so you make your own custom 
 
 The PNG.zip is all mentioned above and more in picture format.
 
-The Rook and Bishop from some sets were editted by me but taken from the lichess github.
+The Rook and Bishop from some sets were editted slightly by me but taken from the Lichess github.
 
 ## Note: All the pieces where made by CouchTomato, but I arranged and editted them into the ShogiGUI format so enjoy. :)
