@@ -1,5 +1,5 @@
-## ShogiGUI-piece-sets
-# All types of sets are included: kanji 
+# ShogiGUI-piece-sets
+## All types of sets are included: kanji 
 2kanji
 kanji with guides
 Hidetchi made by CouchTomato, but I made many fixes such as symmetry, remade the L & +L from scratch, etc.
