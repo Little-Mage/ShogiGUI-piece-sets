@@ -13,4 +13,8 @@ CouchTomato's latest international sets
 
 Also boards and piece stands.
 
-#Note: All the pieces where made by CouchTomato, but I arranged them into the ShogiGUI format so enjoy. :)
+The SVG.zip contains all the sets but in svg format so you make your own custom sets and share them please.
+
+The PNG.zip is all mentioned above and more in picture format.
+
+# Note: All the pieces where made by CouchTomato, but I arranged them into the ShogiGUI format so enjoy. :)
