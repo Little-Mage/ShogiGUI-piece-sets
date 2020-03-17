@@ -13,7 +13,7 @@ CouchTomato's latest international sets
 
 Also boards and piece stand.
 
-The SVG folder contains all the sets but in SVG format so you make your own custom sets and share them please.
+The SVG folder contains all the sets but in SVG format so you can make your own custom sets and share them please.
 
 The PNG folder contains is all mentioned above and more in picture format.
 
@@ -21,4 +21,4 @@ The PNG folder contains is all mentioned above and more in picture format.
 
 The Rook and Bishop from some sets were edited slightly by me but taken from the Lichess Github.
 
-The bona pngs were made by Shogiban.
+The bona PNGs were made by Shogiban.
