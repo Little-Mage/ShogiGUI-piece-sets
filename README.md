@@ -15,7 +15,7 @@ Also boards and piece stand.
 
 The SVG folder contains all the sets but in SVG format so you can make your own custom sets and share them please.
 
-The PNG folder contains is all mentioned above and more in picture format.
+The PNG folder contains all mentioned above and more in picture format.
 
 #### Note: All the pieces were made by CouchTomato, but I arranged and edited them onto the ShogiGUI format so enjoy. :)
 
