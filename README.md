@@ -19,6 +19,8 @@ The PNG folder contains all mentioned above and more in picture format.
 
 #### Credit: All the pieces were made by CouchTomato, but I arranged and edited them onto the ShogiGUI format so enjoy. :)
 
+##### More pieces designed by peanatsu https://github.com/peanatsu/shogi_printout/releases
+
 The Rook and Bishop from some sets were edited slightly by me but taken from the Lichess Github.
 
 The bona PNGs were shared by Shogiban.
