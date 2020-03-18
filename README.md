@@ -21,4 +21,4 @@ The PNG folder contains is all mentioned above and more in picture format.
 
 The Rook and Bishop from some sets were edited slightly by me but taken from the Lichess Github.
 
-The bona PNGs were made by Shogiban.
+The bona PNGs were shared by Shogiban.
