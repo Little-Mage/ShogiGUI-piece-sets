@@ -22,3 +22,5 @@ The PNG folder contains all mentioned above and more in picture format.
 The Rook and Bishop from some sets were edited slightly by me but taken from the Lichess Github.
 
 The bona PNGs were shared by Shogiban.
+
+The international plastic set was arraged and completely made by CouchTomato.
