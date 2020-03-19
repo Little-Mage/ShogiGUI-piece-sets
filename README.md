@@ -21,6 +21,8 @@ The PNG folder contains all mentioned above and more in picture format.
 
 ##### More pieces designed by peanatsu https://github.com/peanatsu/shogi_printout/releases
 
+##### CouchTomato's old pieces this repository contains wood pieces that are unfilled and the lance is also different. https://github.com/CouchTomato87/InternationalizedPieces
+
 The Rook, Bishop, and King from some sets were edited slightly by me but taken from the Lichess Github.
 
 The bona PNGs were shared by Shogiban.
