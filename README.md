@@ -21,7 +21,7 @@ The PNG folder contains all mentioned above and more in picture format.
 
 ##### More pieces designed by peanatsu https://github.com/peanatsu/shogi_printout/releases
 
-The Rook and Bishop from some sets were edited slightly by me but taken from the Lichess Github.
+The Rook, Bishop, and King from some sets were edited slightly by me but taken from the Lichess Github.
 
 The bona PNGs were shared by Shogiban.
 
