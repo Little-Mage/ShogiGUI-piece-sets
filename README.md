@@ -19,9 +19,9 @@ The PNG folder contains all mentioned above and more in picture format.
 
 #### Credit: All the pieces were made by CouchTomato, but I arranged and edited them onto the ShogiGUI format so enjoy. :)
 
-##### More pieces designed by peanatsu https://github.com/peanatsu/shogi_printout/releases
+#### More pieces designed by peanatsu https://github.com/peanatsu/shogi_printout/releases
 
-##### CouchTomato's old pieces. This repository contains wood pieces that are unfilled and the lance is also different. https://github.com/CouchTomato87/InternationalizedPieces
+#### CouchTomato's old pieces. This repository contains wood pieces that are unfilled and the lance is also different. https://github.com/CouchTomato87/InternationalizedPieces
 
 The pieces titled 2kanji were grabbed from here https://github.com/orangain/shogi-piece-images 
 
