@@ -23,8 +23,10 @@ The PNG folder contains all mentioned above and more in picture format.
 
 ##### CouchTomato's old pieces. This repository contains wood pieces that are unfilled and the lance is also different. https://github.com/CouchTomato87/InternationalizedPieces
 
+The pieces titled 2kanji were grabbed from here https://github.com/orangain/shogi-piece-images 
+
 The Rook, Bishop, and King from some sets were edited slightly by me but taken from the Lichess Github.
 
-The bona PNGs were shared by Shogiban.
+The kanji PNGs were shared by Shogiban.
 
 The international plastic set was arraged and completely made by CouchTomato.
