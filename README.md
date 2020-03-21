@@ -6,7 +6,7 @@ kanji with guides
 
 Hidetchi made by CouchTomato, but I made many fixes such as symmetry, remade the L & +L from scratch, etc.
 
-A Custom Hidetchi set with filled in pieces made by me with a little inspiration of this set made by CouchTomato.
+A Custom Hidetchi set with filled in pieces made by me with a little inspiration from this set made by CouchTomato.
 https://preview.redd.it/rjpex8xjogx21.png?width=648&format=png&auto=webp&s=9cc6b1e1ef606683a91f5da92a86767be1c2ed81
 
 CouchTomato's latest international sets
@@ -21,7 +21,7 @@ The PNG folder contains all mentioned above and more in picture format.
 
 #### More pieces designed by peanatsu https://github.com/peanatsu/shogi_printout/releases
 
-#### CouchTomato's old pieces. This repository contains wood pieces that are unfilled and the lance is also different. https://github.com/CouchTomato87/InternationalizedPieces
+#### This repository contains CouchTomato's old wood pieces that are unfilled and the lance is also different. https://github.com/CouchTomato87/InternationalizedPieces
 
 The kanji titled 2kanji were grabbed from here https://github.com/orangain/shogi-piece-images 
 
