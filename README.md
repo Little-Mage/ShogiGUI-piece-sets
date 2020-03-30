@@ -13,7 +13,7 @@ CouchTomato's latest international sets
 
 Also boards and piece stand.
 
-The SVG folder contains all the sets but in SVG format so you can make your own custom sets and share them please.
+The SVG folder contains all the sets but in SVG format so you can make your own custom sets and share them please. You can use inkscape a free vector graphics software.
 
 The PNG folder contains all mentioned above and more in picture format.
 
