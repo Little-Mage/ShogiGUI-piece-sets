@@ -12,7 +12,7 @@
    height="360"
    version="1.1"
    id="svg1717"
-   sodipodi:docname="tomato2Kanji.svg"
+   sodipodi:docname="2Kanji.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    inkscape:export-filename="C:\Users\Alan\Documents\Shogi\Pieces\tomato2Kanji.png"
    inkscape:export-xdpi="96"
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -9984,7 +9984,7 @@
     </filter>
   </defs>
   <sodipodi:namedview
-     pagecolor="#000000"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"

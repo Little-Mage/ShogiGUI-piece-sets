@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2155,7 +2155,7 @@
        gradientTransform="translate(-0.25736402,0.02339673)" />
   </defs>
   <sodipodi:namedview
-     pagecolor="#000000"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -2167,9 +2167,9 @@
      inkscape:window-height="705"
      id="namedview1719"
      showgrid="false"
-     inkscape:zoom="5.8247109"
-     inkscape:cx="525.49439"
-     inkscape:cy="137.2365"
+     inkscape:zoom="1.3222222"
+     inkscape:cx="324"
+     inkscape:cy="180"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
