@@ -14,7 +14,7 @@
    id="svg1717"
    sodipodi:docname="Ctomato.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="C:\Users\Alan\Documents\Shogi\Pieces\Ctomato.png"
+   inkscape:export-filename="C:\Users\Alan\Documents\GitHub\ShogiGUI-piece-sets\PNG\Ctomato.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2649,8 +2649,8 @@
      inkscape:window-height="705"
      id="namedview1719"
      showgrid="false"
-     inkscape:zoom="2.5618055"
-     inkscape:cx="257.44538"
+     inkscape:zoom="1.3222222"
+     inkscape:cx="324"
      inkscape:cy="180"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -5883,11 +5883,6 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
           </g>
         </g>
         <path
-           inkscape:connector-curvature="0"
-           id="path5961-5-0"
-           d="m 91.11214,149.79332 -1.538428,1.17946 v 1.79483 l 1.435865,-1.28202 z"
-           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
            id="path5963-0-5"
@@ -6167,11 +6162,6 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
                style="fill:none;stroke:#ffffff;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           </g>
         </g>
-        <path
-           inkscape:connector-curvature="0"
-           id="path5961-5-0-4"
-           d="m 91.11214,149.79332 -1.538428,1.17946 v 1.79483 l 1.435865,-1.28202 z"
-           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
