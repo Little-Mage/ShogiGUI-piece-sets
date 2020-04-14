@@ -1,7 +1,7 @@
 # ShogiGUI-piece-sets
 ## All types of sets are included:
 
-## Para Español has click en el documento Descripción Español.txt
+### Para Español has click en el documento Descripción Español.txt
 
 2kanji & 1kanji
 
