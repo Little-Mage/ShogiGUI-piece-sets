@@ -13,7 +13,7 @@ CouchTomato sets más recientes.
 
 También tableros y estantes.
 
-El folder SVG contiene todos los sets en formato SVG para que puedas hacer tus propios sets y compartirlos por favor.
+El folder SVG contiene todos los sets en formato SVG para que puedas hacer tus propios sets y compartirlos por favor. Para editar los SVG puedes usar el progarma Inkscape es gratis.
 
 El folder PNG contiene todos los sets mencionados arriba en formato PNG.
 
