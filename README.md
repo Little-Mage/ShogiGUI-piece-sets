@@ -1,5 +1,5 @@
-# ShogiGUI-piezas
-## Todos los tipos de sets incluidos
+# Sets para ShogiGUI (piezas)
+## Todos los tipos de sets entán incluidos
 
 #### In English https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/Descripci%C3%B3n%20Espa%C3%B1ol.md
 
@@ -7,16 +7,16 @@
 
 kanji con guías
 
-Hidetchi hecho por CouchTomato, pero yo hice muchos ajustes como simetría y rehíce unos símbolos desde cero.
+Hidetchi hecho por CouchTomato, pero se hicieron muchos ajustes como la simetría y rehíce unos símbolos desde cero.
 
-Un set de Hidetchi personalizado con símbolos rellenos hecho por mí con un poco de inspiración de este set hecho por CouchTomato.
+Un set de Hidetchi personalizado con símbolos rellenados hechas por mí con un poco de inspiración de este set hecho por CouchTomato.
 https://preview.redd.it/rjpex8xjogx21.png?width=648&format=png&auto=webp&s=9cc6b1e1ef606683a91f5da92a86767be1c2ed81
 
-CouchTomato sets más recientes.
+Sets internacionales más recientes de CouchTomato.
 
 También tableros y estantes.
 
-El folder SVG contiene todos los sets en formato SVG para que puedas hacer tus propios sets y compartirlos por favor. Para editar los SVG puedes usar el programa gratis Inkscape de vectores.
+La carpeta SVG contiene los sets en formato SVG así que puedes personalizar tus propios sets con el programa gráfico de vectores gratuito llamado Inkscape.
 
 El folder PNG contiene todos los sets mencionados arriba en formato PNG.
 
