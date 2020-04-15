@@ -24,9 +24,9 @@ The PNG folder contains all mentioned above in picture format.
 
 #### Pieces designed by peanatsu https://github.com/peanatsu/shogi_printout/releases
 
-#### This repository contains CouchTomato's old wood pieces that are unfilled and the lance is also different. https://github.com/CouchTomato87/InternationalizedPieces
-
 #### Pieces designed by Ka-Hu https://github.com/Ka-hu/shogi-pieces
+
+#### This repository contains CouchTomato's old wood pieces that are unfilled and the lance is also different. https://github.com/CouchTomato87/InternationalizedPieces
 
 The set titled 2kanji were grabbed from here https://github.com/orangain/shogi-piece-images 
 
@@ -34,4 +34,4 @@ The Rook, Bishop, and King from some sets were edited slightly by me but taken f
 
 The kanji PNGs were shared by Shogiban.
 
-The international plastic set was arraged and completely made by CouchTomato.
+The international plastic set was arraged and made by CouchTomato.
