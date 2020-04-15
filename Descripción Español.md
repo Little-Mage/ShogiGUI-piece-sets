@@ -1,34 +1,35 @@
-# ShogiGUI-piezas
-## Todos los tipos de sets incluidos
+# ShogiGUI-piece-sets
+## All types of sets are included:
+
 2kanji & 1kanji
 
-kanji con guías
+kanji with guides
 
-Hidetchi hecho por CouchTomato, pero yo hice muchos ajustes como simetría y rehíce unos símbolos desde cero.
+Hidetchi made by CouchTomato, but I made many fixes such as symmetry and remade some symbols from scratch.
 
-Un set de Hidetchi personalizado con símbolos rellenos hecho por mí con un poco de inspiración de este set hecho por CouchTomato.
+A Custom Hidetchi set with filled in pieces made by me with a little inspiration from this set made by CouchTomato.
 https://preview.redd.it/rjpex8xjogx21.png?width=648&format=png&auto=webp&s=9cc6b1e1ef606683a91f5da92a86767be1c2ed81
 
-CouchTomato sets más recientes.
+CouchTomato's latest international sets
 
-También tableros y estantes.
+Also boards and piece stand.
 
-El folder SVG contiene todos los sets en formato SVG para que puedas hacer tus propios sets y compartirlos por favor. Para editar los SVG puedes usar el programa gratis Inkscape de vectores.
+The SVG folder contains the sets but in SVG format so you can make your own custom sets and share them please. You can use Inkscape a free vector graphics software.
 
-El folder PNG contiene todos los sets mencionados arriba en formato PNG.
+The PNG folder contains all mentioned above in picture format.
 
-#### Crédito: Todas las piezas fueron hechas por CouchTomato, pero yo las acomode en el formato de ShogiGUI.
+#### Credit: All the pieces were made by CouchTomato, but I arranged and edited them onto the ShogiGUI format so enjoy. :)
 
-#### Piezas diseñadas por peanatsu https://github.com/peanatsu/shogi_printout/releases
+#### Pieces designed by peanatsu https://github.com/peanatsu/shogi_printout/releases
 
-#### Este repositorio contiene las piezas de madera, no-actuales de CouchTomato que son no-rellenas y también la lanza es diferente. https://github.com/CouchTomato87/InternationalizedPieces
+#### Pieces designed by Ka-Hu https://github.com/Ka-hu/shogi-pieces
 
-#### Piezas diseñadas por Ka-Hu https://github.com/Ka-hu/shogi-pieces
+#### This repository contains CouchTomato's old wood pieces that are unfilled and the lance is also different. https://github.com/CouchTomato87/InternationalizedPieces
 
-El set nombrado 2kanji fueron agarradas de aquí https://github.com/orangain/shogi-piece-images 
+The set titled 2kanji were grabbed from here https://github.com/orangain/shogi-piece-images 
 
-La Torre, Alfil, y Rey de algunos sets fueron editados por mí, pero son del Repositorio de Lichess
+The Rook, Bishop, and King from some sets were edited slightly by me but taken from the Lichess Github.
 
-Los PNGs de kanji fueron compartidos por Shogiban.
+The kanji PNGs were shared by Shogiban.
 
-El set Internacional de plástico fue acomodado y hecho por CouchTomato.
+The international plastic set was arraged and made by CouchTomato.
