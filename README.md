@@ -1,7 +1,7 @@
 # ShogiGUI-piece-sets
 ## All types of sets are included:
 
-### Para Español has click en el documento Descripción Español.txt
+### Para Español has click aquí https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/Descripci%C3%B3n%20Espa%C3%B1ol.txt
 
 2kanji & 1kanji
 
