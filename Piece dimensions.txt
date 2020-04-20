@@ -39,6 +39,11 @@ Knight ....................... 29mm 25.5mm 8.3mm  81° 85°
 Lance ........................ 28mm 23.5mm 8.0mm  81° 85°
 Pawn ......................... 27mm 22.5mm 7.75mm 81° 85
 
+The golden proportion (with 20 pawns) for Shogi piece is determined by each angular of pentagon. Let’s put any Shogi piece on a board correctly. If your piece has the shape with the top at an angle of 144 degrees, the middles at an angle of 117 degrees, and the bottoms of 81 degrees, it means you got ideal pieces. 
+Those angles have also a good reason. 
+
+Bottom to top 9° and top to middle 18°
+
 Did you ever figure out at what angle or height the "tip" of the piece is? I see that the general angle along the side is 81 degrees, but at a certain point, that angle changes to meet together at the top of the piece.
 
 I think that's the second angle I put there. I'm not sure.
