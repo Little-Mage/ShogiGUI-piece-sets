@@ -24,9 +24,11 @@ El folder PNG contiene todos los sets mencionados arriba en formato PNG.
 
 #### Piezas diseñadas por peanatsu https://github.com/peanatsu/shogi_printout/releases
 
-#### Este repositorio contiene las piezas de madera, no-actuales de CouchTomato que son no-rellenas y también la lanza es diferente. https://github.com/CouchTomato87/InternationalizedPieces
-
 #### Piezas diseñadas por Ka-Hu https://github.com/Ka-hu/shogi-pieces
+
+#### Varios typos de piezas https://github.com/yagu0/vchess
+
+#### Este repositorio contiene las piezas de madera, no-actuales de CouchTomato que son no-rellenas y también la lanza es diferente. https://github.com/CouchTomato87/InternationalizedPieces
 
 El set nombrado 2kanji fueron agarradas de aquí https://github.com/orangain/shogi-piece-images 
 
