@@ -1,7 +1,7 @@
 # Sets para ShogiGUI (piezas)
 ## Todos los tipos de sets entán incluidos
 
-#### In English https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/Descripci%C3%B3n%20Espa%C3%B1ol.md
+#### In English https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/Description%20English.md
 
 2kanji & 1kanji
 
