@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -15866,9 +15866,9 @@
      inkscape:window-height="705"
      id="namedview1719"
      showgrid="false"
-     inkscape:zoom="1.3222222"
-     inkscape:cx="324"
-     inkscape:cy="180"
+     inkscape:zoom="2.0758555"
+     inkscape:cx="607.42425"
+     inkscape:cy="41.024826"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -16520,7 +16520,8 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g4133"
-       style="filter:url(#filter4375)">
+       style="filter:url(#filter4375)"
+       transform="translate(0,-4)">
       <g
          style="opacity:1"
          transform="matrix(1.0735153,0,0,1.0678358,-43.482165,-17.590581)"
@@ -17505,7 +17506,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        style="opacity:1"
        id="g19811-6-6"
-       transform="matrix(1.3519299,0,0,-1.3519299,572.14179,360.0693)">
+       transform="matrix(1.3519299,0,0,-1.3519299,572.14179,356.0693)">
       <g
          id="g2182-3-5-0"
          transform="matrix(0.49492926,0,0,0.6024127,37.296007,-6.4786265)"
