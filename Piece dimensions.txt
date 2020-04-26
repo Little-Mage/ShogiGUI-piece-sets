@@ -2,22 +2,22 @@ This is a related question in boardgames.stackexchange.com:
 http://boardgames.stackexchange.com/q/10836/4779
 
 Nekomado board measurements:
-
-Size: 351mm x 297mm
+Size: 351 mm x 297 mm
 
 The measurements for the board:
+Length	33.66 cm
+Width	33.33 cm
 
-Length	33.66cm
-Width	33.33cm
-Sun(japanese unit for thickness)	30.3mm
+Hidetchi https://www.youtube.com/watch?v=h9zb5udfeWo
+Sun	1/33m	3.0303 cm
+Length	12 sun	36.3636 cm
+Width	11 sun	33.333 cm
 
 Measurements for the squares in the board:
-
-Length	36mm
-Width	33mm
+Length	36 mm
+Width	33 mm
 
 The number of pieces in a set:
-
 King	2
 Rook	2
 Bishop	2
@@ -54,11 +54,11 @@ Manufacturing method 2 (sham material)
 26.5 mm	21.0 mm	6.5 mm	Pawn
 
 Other dimensions:
-32mm	28.7mm	9.7mm	81° 85°	King
-31mm	27.7mm	9.3mm	81° 85°	Rook & Bishop
-30mm	26.7mm	8.8mm	81° 85°	Gold & Silver
-29mm	25.5mm	8.3mm	81° 85°	Knight
-28mm	23.5mm	8.0mm	81° 85°	Lance
-27mm	22.5mm	7.75mm	81° 85°	Pawn
+32mm	28.7 mm	9.7 mm	81° 85°	King
+31mm	27.7 mm	9.3 mm	81° 85°	Rook & Bishop
+30mm	26.7 mm	8.8 mm	81° 85°	Gold & Silver
+29mm	25.5 mm	8.3 mm	81° 85°	Knight
+28mm	23.5 mm	8.0 mm	81° 85°	Lance
+27mm	22.5 mm	7.75 mm	81° 85°	Pawn
 
 The golden proportion (with 20 pawns) for the Shogi piece is determined by each angular of the pentagon. Let’s put any Shogi piece on the board correctly. If your piece has the shape with the top at an angle of 144 degrees, the middles at an angle of 117 degrees, and the bottoms of 81 degrees, it means you got ideal pieces. Those angles have also a good reason.
