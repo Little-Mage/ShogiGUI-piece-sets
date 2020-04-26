@@ -1,20 +1,22 @@
 This is a related question in boardgames.stackexchange.com:
 http://boardgames.stackexchange.com/q/10836/4779
 
-===============================================================================
+Nekomado board measurements:
+
+Size: 351mm x 297mm
+
 The measurements for the board:
 
 Length	33.66cm
 Width	33.33cm
-Height 	30.3mm
+Sun(japanese unit for thickness)	30.3mm
 
 Measurements for the squares in the board:
 
 Length	36mm
 Width	33mm
 
-===============================================================================
-The amount of pieces in a set:
+The number of pieces in a set:
 
 King	2
 Rook	2
@@ -25,44 +27,38 @@ Knight	4
 Lance	4
 Pawn	19
 
-===============================================================================
 The exact measurements for each piece.
 Measurements provided in this order:
 
 Height, width (bottom), thickness, angle (general, bottom > top),
 angle (thickness, bottom > top).
 
+My angles Bottom to top 81° and top to middle 18°
+
 Manufacturing method 1 (Mikura, Yunnan wood)
 
-31.5 mm 	28 mm	9.5 mm	King
-30.5 mm	27 mm 	9.0 mm	Flying / Corner 
-29.5 mm	26 mm 	8.75 mm	G & S
-28.5 mm 	25 mm 	8.25mm	Knight
-28 mm 	23 mm 	8.0 mm	Incense
-27 mm 	22.5 mm 	7.75 mm	Step
+31.5 mm	28 mm	9.5 mm	King
+30.5 mm	27 mm	9.0 mm	Rook & Bishop 
+29.5 mm	26 mm	8.75 mm	Gold & Silver
+28.5 mm	25 mm	8.25mm	Knight
+28 mm	23 mm	8.0 mm	Lance
+27 mm	22.5 mm	7.75 mm	Pawn
 
 Manufacturing method 2 (sham material)
 
-30.5 mm 	26.5 mm 	8.5 mm	King
-29.5 mm 	25.5 mm 	8.3 mm	Flying / Corner
-28.5 mm 	24.5 mm 	8.0 mm	G & S
-27.5 mm 	23.0 mm 	7.5 mm	Knight
-27.5 mm 	22.0 mm 	7.5 mm	Incense
-26.5 mm 	21.0 mm 	6.5 mm	Step
+30.5 mm	26.5 mm	8.5 mm	King
+29.5 mm	25.5 mm	8.3 mm	Rook & Bishop
+28.5 mm	24.5 mm	8.0 mm	Gold & Silver
+27.5 mm	23.0 mm	7.5 mm	Knight
+27.5 mm	22.0 mm	7.5 mm	Lance
+26.5 mm	21.0 mm	6.5 mm	Pawn
 
 Other dimensions:
-32mm	28.7mm	9.7mm 	81° 85° King
-31mm	27.7mm	9.3mm	81° 85° R & B
-30mm	26.7mm	8.8mm	81° 85° G & S
-29mm	25.5mm	8.3mm	81° 85° Knight
-28mm	23.5mm	8.0mm	81° 85° Lance
-27mm	22.5mm	7.75mm	81° 85° Pawn
+32mm	28.7mm	9.7mm	81° 85°	King
+31mm	27.7mm	9.3mm	81° 85°	Rook & Bishop
+30mm	26.7mm	8.8mm	81° 85°	Gold & Silver
+29mm	25.5mm	8.3mm	81° 85°	Knight
+28mm	23.5mm	8.0mm	81° 85°	Lance
+27mm	22.5mm	7.75mm	81° 85°	Pawn
 
-The golden proportion (with 20 pawns) for Shogi piece is determined by each angular of pentagon. Let’s put any Shogi piece on a board correctly. If your piece has the shape with the top at an angle of 144 degrees, the middles at an angle of 117 degrees, and the bottoms of 81 degrees, it means you got ideal pieces. 
-Those angles have also a good reason. 
-
-Bottom to top 9° and top to middle 18°
-
-Did you ever figure out at what angle or height the "tip" of the piece is? I see that the general angle along the side is 81 degrees, but at a certain point, that angle changes to meet together at the top of the piece.
-
-I think that's the second angle I put there. I'm not sure.
+The golden proportion (with 20 pawns) for the Shogi piece is determined by each angular of the pentagon. Let’s put any Shogi piece on the board correctly. If your piece has the shape with the top at an angle of 144 degrees, the middles at an angle of 117 degrees, and the bottoms of 81 degrees, it means you got ideal pieces. Those angles have also a good reason.
