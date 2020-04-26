@@ -4,26 +4,26 @@ http://boardgames.stackexchange.com/q/10836/4779
 ===============================================================================
 The measurements for the board:
 
-Length . 33.66cm
-Width .. 33.33cm
-Height . 30.3mm
+Length	33.66cm
+Width	33.33cm
+Height 	30.3mm
 
 Measurements for the squares in the board:
 
-Length . 36mm
-Width .. 33mm
+Length	36mm
+Width	33mm
 
 ===============================================================================
-The amount of pieces that I will manufacture:
+The amount of pieces in a set:
 
-King ........... 2
-Rook ........... 2
-Bishop ......... 2
-Gold General ... 4
-Silver General . 4
-Knight ......... 4
-Lance .......... 4
-Pawn ........... 19
+King	2
+Rook	2
+Bishop	2
+Gold	4
+Silver	4
+Knight	4
+Lance	4
+Pawn	19
 
 ===============================================================================
 The exact measurements for each piece.
