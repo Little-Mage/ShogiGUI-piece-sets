@@ -29,8 +29,9 @@ Pawn	19
 
 The exact measurements for each piece.
 Measurements provided in this order:
+Height, width(bottom), thickness
 
-Height, width (bottom), thickness
+http://shogi-koma.jp/shop/koma.html
 
 My angles Bottom to top 81° and top to middle 18°
 
