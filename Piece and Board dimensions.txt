@@ -14,8 +14,8 @@ Length	33.66 cm
 Width	33.33 cm
 
 Measurements for the squares in the board:
-Length	36 mm
-Width	33 mm
+Length	3.6 cm	(36.36 - 4)/9 = 3.59555
+Width	3.3 cm	(33.333 - 4)/9 = 3.25888
 
 The number of pieces in a set:
 King	2
