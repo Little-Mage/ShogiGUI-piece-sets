@@ -3,6 +3,7 @@
 
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/CtomatoKanjiP.png">
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2Kanji.png">
+<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/ValdiviaKanjiG.png">
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/CtomatoKanjiGP.png">
 
 A Custom Hidetchi set with filled in pieces made by me with a little inspiration from this set made by CouchTomato.
