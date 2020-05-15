@@ -4,7 +4,9 @@
 #### In English https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/Description%20English.md
 
 2kanji & 1kanji
+
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2Kanji.png">
+
 kanji con guías
 
 Hidetchi hecho por CouchTomato, pero yo hice muchos ajustes como la simetría y rehíce unos símbolos desde cero.
