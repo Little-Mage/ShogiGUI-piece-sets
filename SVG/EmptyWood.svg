@@ -16834,16 +16834,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="699"
-     inkscape:window-height="696"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview1719"
      showgrid="false"
-     inkscape:zoom="0.87808642"
+     inkscape:zoom="1.3222222"
      inkscape:cx="324"
      inkscape:cy="180"
-     inkscape:window-x="658"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      units="px"
      inkscape:snap-global="true"
@@ -16960,47 +16960,47 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g3841"
-       style="filter:url(#filter4179)">
+       style="filter:url(#filter4179)"
+       transform="translate(0,-2)">
       <g
-         style=""
          id="g4058">
         <path
            sodipodi:nodetypes="ccccc"
            inkscape:connector-curvature="0"
            id="path1890-5-3"
            d="m 87.999999,170.04913 v 5.66852 l 63.779521,-3e-5 v -5.66875 z"
-           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:0.29999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:0.29999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <path
          sodipodi:nodetypes="cccccc"
          d="m 119.88868,97.999374 -21.70198,7.117806 -10.18796,64.93132 63.77953,-2.6e-4 -10.18873,-64.93021 z"
          id="path5763-6-4-6"
          inkscape:connector-curvature="0"
-         style="opacity:0.98999999;fill:url(#linearGradient54948-6-7);fill-opacity:1;stroke-width:1.66307735;" />
+         style="opacity:0.98999999;fill:url(#linearGradient54948-6-7);fill-opacity:1;stroke-width:1.66307735" />
     </g>
     <g
        id="g3965"
-       style="filter:url(#filter4371)">
+       style="filter:url(#filter4371)"
+       transform="translate(0,-2)">
       <g
-         style=""
          id="g4173">
         <g
            id="g11448"
            transform="matrix(1.05,0,0,1.05,-5.8953719,-12.597057)"
-           style="opacity:1;">
+           style="opacity:1">
           <g
              id="g7764-07"
              transform="matrix(1.5650044,0,0,1.4114902,-80.398119,236.45273)"
-             style="fill:url(#linearGradient27692);fill-opacity:1;stroke-width:1.02386975;">
+             style="fill:url(#linearGradient27692);fill-opacity:1;stroke-width:1.02386975">
             <g
-               style="fill:url(#linearGradient27690);fill-opacity:1;stroke-width:1.02386975;"
+               style="fill:url(#linearGradient27690);fill-opacity:1;stroke-width:1.02386975"
                id="g7762-32"
                transform="rotate(180,45.578499,23.8125)" />
           </g>
         </g>
         <path
            sodipodi:nodetypes="ccccccc"
-           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 98.188329,348.88243 v -3.77953 l 21.701511,7.11757 21.70138,-7.11753 v 3.77954 L 119.88984,356 Z"
            id="path9418-4-6-3-8-9-6-5-9"
            inkscape:connector-curvature="0" />
@@ -17010,7 +17010,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          id="path7760-2-0"
          d="m 119.88858,352.22173 21.70138,-7.11752 10.18831,-64.93145 -63.77953,-1.7e-4 10.18832,64.93157 z"
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:url(#linearGradient27688);fill-opacity:1;stroke-width:1.59783053;" />
+         style="opacity:1;fill:url(#linearGradient27688);fill-opacity:1;stroke-width:1.59783053" />
     </g>
     <g
        id="g3836"
@@ -17270,24 +17270,24 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g4011"
-       style="filter:url(#filter4323)">
+       style="filter:url(#filter4323)"
+       transform="translate(0,-3.9997862)">
       <g
-         id="g4133"
-         style="">
+         id="g4133">
         <g
            id="g8974"
            transform="matrix(1.0735153,0,0,1.0678358,-43.482165,-17.590581)"
-           style="opacity:1;">
+           style="opacity:1">
           <g
              id="g8644-0"
-             style="display:inline;fill:url(#linearGradient43536);fill-opacity:1;"
+             style="display:inline;fill:url(#linearGradient43536);fill-opacity:1"
              transform="matrix(1.5,0,0,1.5,5.295755,43.942185)">
             <g
-               style="display:inline;fill:url(#linearGradient43534);fill-opacity:1;"
+               style="display:inline;fill:url(#linearGradient43534);fill-opacity:1"
                transform="matrix(0.82775565,0,0,0.82775565,294.36509,136.51088)"
                id="g6832-4-7-50-8">
               <g
-                 style="fill:url(#linearGradient43532);fill-opacity:1;"
+                 style="fill:url(#linearGradient43532);fill-opacity:1"
                  transform="rotate(180,45.578499,23.8125)"
                  id="g6830-3-9-2-2" />
             </g>
@@ -17295,7 +17295,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
         </g>
         <path
            sodipodi:nodetypes="ccccccc"
-           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 589.49107,350.83309 v -3.77953 l 17.93365,5.16691 17.53331,-5.56608 v 3.77953 L 607.42472,356 Z"
            id="path9418-4-64"
            inkscape:connector-curvature="0" />
@@ -17305,7 +17305,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          id="path9381-0-2"
          d="m 624.95863,346.65565 9.04199,-58.21345 h -53.15149 l 8.64257,58.61262 17.93357,5.16691 z"
          inkscape:connector-curvature="0"
-         style="display:inline;opacity:1;fill:url(#linearGradient30688-0);fill-opacity:1;stroke-width:1.32829523;" />
+         style="display:inline;opacity:1;fill:url(#linearGradient30688-0);fill-opacity:1;stroke-width:1.32829523" />
     </g>
     <g
        id="g3867"
@@ -17452,24 +17452,23 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g3790"
-       style="filter:url(#filter4059)">
+       style="filter:url(#filter4059)"
+       transform="translate(0,-2)">
       <g
-         style=""
          id="g3995">
         <g
            id="g15615"
            transform="matrix(1.05,0,0,1.05,-10.233486,-5.1033343)"
-           style="opacity:1;">
+           style="opacity:1">
           <g
-             style="fill:#75581b;fill-opacity:1;"
+             style="fill:#75581b;fill-opacity:1"
              id="g55026-9"
              transform="matrix(1.5910743,0,0,1.5559871,218.84728,1.0953731)" />
           <g
-             style=""
              transform="matrix(2.1214323,0,0,-2.0746493,47.173919,584.51084)"
              id="g31120">
             <g
-               style="fill:#ffd5e5;fill-opacity:1;"
+               style="fill:#ffd5e5;fill-opacity:1"
                id="g5765"
                transform="matrix(0.75000002,0,0,-0.75000002,80.451421,282.088)" />
           </g>
@@ -17479,34 +17478,33 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
            inkscape:connector-curvature="0"
            id="path1890-5-62"
            d="m 168.26651,80.049134 v 5.66852 l 63.77953,-3.7e-5 v -5.668749 z"
-           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:0.29999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:0.29999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <path
          sodipodi:nodetypes="cccccc"
          d="m 200.15828,8.0012637 -21.70197,7.1178103 -10.18796,64.93132 63.77953,-2.6e-4 -10.18873,-64.93022 z"
          id="path5763-6-7-6"
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:url(#linearGradient54948-6-5);fill-opacity:1;stroke-width:1.66307735;" />
+         style="opacity:1;fill:url(#linearGradient54948-6-5);fill-opacity:1;stroke-width:1.66307735" />
     </g>
     <g
        id="g3850"
-       style="filter:url(#filter4047)">
+       style="filter:url(#filter4047)"
+       transform="translate(0,-2)">
       <g
-         style=""
          id="g4054">
         <g
            id="g15654"
            transform="matrix(1.05,0,0,1.05,-10.504781,-8.7700256)"
-           style="opacity:1;">
+           style="opacity:1">
           <g
-             style=""
              id="g15661">
             <g
                transform="matrix(1.5730346,0,0,1.4630283,219.52087,92.577445)"
                id="g55026-924"
-               style="fill:#75581b;fill-opacity:1;" />
+               style="fill:#75581b;fill-opacity:1" />
             <g
-               style="fill:#ffd5e5;fill-opacity:1;"
+               style="fill:#ffd5e5;fill-opacity:1"
                id="g5765-2"
                transform="matrix(1.5730346,0,0,1.4630283,218.5311,90.867848)" />
           </g>
@@ -17516,10 +17514,10 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
            inkscape:connector-curvature="0"
            id="path1890-5-9"
            d="m 168.00001,170.04913 v 5.66852 l 63.77953,-3e-5 v -5.66875 z"
-           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:0.29999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:0.29999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <path
-         style="opacity:1;fill:url(#linearGradient54948-22);fill-opacity:1;stroke-width:1.59275889;"
+         style="opacity:1;fill:url(#linearGradient54948-22);fill-opacity:1;stroke-width:1.59275889"
          inkscape:connector-curvature="0"
          id="path5763-72-5"
          d="M 199.89152,97.999374 178.80344,104.57626 168,170.0485 l 63.77953,-2.6e-4 -10.8036,-65.47313 z"
@@ -17527,37 +17525,37 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g3781"
-       style="filter:url(#filter4035)">
+       style="filter:url(#filter4035)"
+       transform="translate(0,-2)">
       <g
-         style=""
          id="g3987">
         <g
            id="g1896"
            transform="matrix(1.0235727,0,0,0.98789764,-3.5321295,0.8780241)"
-           style="stroke-width:1.04417658;">
+           style="stroke-width:1.04417658">
           <g
-             style="fill:#75581b;fill-opacity:1;stroke-width:1.04417658;"
+             style="fill:#75581b;fill-opacity:1;stroke-width:1.04417658"
              id="g55026-5"
              transform="matrix(1.6135915,0,0,1.5547221,140.21712,-2.4569376)" />
           <g
              transform="matrix(2.1514553,0,0,-2.0729627,-33.885794,580.48422)"
              id="g26064"
-             style="stroke-width:1.04417658;">
+             style="stroke-width:1.04417658">
             <g
-               style="fill:#ffd5e5;fill-opacity:1;stroke-width:1.04417658;"
+               style="fill:#ffd5e5;fill-opacity:1;stroke-width:1.04417658"
                id="g5765-5"
                transform="matrix(0.75000002,0,0,-0.75000002,80.451421,282.088)" />
           </g>
         </g>
         <path
-           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:0.29999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:0.29999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 88,80.049134 v 5.66852 l 63.77953,-3.6e-5 v -5.668749 z"
            id="path1890-5"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccc" />
       </g>
       <path
-         style="opacity:1;fill:url(#linearGradient54948-6);fill-opacity:1;stroke-width:1.66307735;"
+         style="opacity:1;fill:url(#linearGradient54948-6);fill-opacity:1;stroke-width:1.66307735"
          inkscape:connector-curvature="0"
          id="path5763-6-6"
          d="M 119.88994,7.99986 98.187959,15.11767 87.999999,80.049 151.77953,80.04873 141.59081,15.11851 Z"
@@ -17565,27 +17563,27 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g3908"
-       style="filter:url(#filter4311)">
+       style="filter:url(#filter4311)"
+       transform="translate(0,-2)">
       <g
-         style=""
          id="g4086">
         <g
            id="g15677"
            transform="matrix(1.05,0,0,1.05,-6.4998283,-10.779525)"
-           style="opacity:1;">
+           style="opacity:1">
           <g
              id="g7764-75"
              transform="matrix(1.5650264,0,0,1.4114884,-79.824834,149.00761)"
-             style="fill:url(#linearGradient21737);fill-opacity:1;stroke-width:1.04317677;">
+             style="fill:url(#linearGradient21737);fill-opacity:1;stroke-width:1.04317677">
             <g
-               style="fill:url(#linearGradient21735);fill-opacity:1;stroke-width:1.04317677;"
+               style="fill:url(#linearGradient21735);fill-opacity:1;stroke-width:1.04317677"
                id="g7762-8"
                transform="rotate(180,45.578499,23.8125)" />
           </g>
         </g>
         <path
            sodipodi:nodetypes="ccccccc"
-           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 98.17594,258.76554 v -3.77953 l 21.7139,7.23446 21.70138,-7.11752 v 3.77954 L 119.88984,266 Z"
            id="path9418-4-6-3-8-9-6-5"
            inkscape:connector-curvature="0" />
@@ -17595,39 +17593,39 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          id="path7760-88-7"
          d="m 119.88985,262.22 21.70138,-7.11752 10.1883,-64.93145 L 88,190.17087 98.17594,254.98555 Z"
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:url(#linearGradient16099);fill-opacity:1;stroke-width:1.62797093;" />
+         style="opacity:1;fill:url(#linearGradient16099);fill-opacity:1;stroke-width:1.62797093" />
     </g>
     <g
        id="g3917"
-       style="filter:url(#filter4299)">
+       style="filter:url(#filter4299)"
+       transform="translate(0,-2)">
       <g
          id="g3890">
         <g
-           id="g4093"
-           style="">
+           id="g4093">
           <g
-             style="opacity:1;"
+             style="opacity:1"
              transform="matrix(1.0403371,0,0,1.0102223,-8.6420546,-2.1920241)"
              id="g14367">
             <g
-               style="fill:url(#linearGradient2259-3);fill-opacity:1;"
+               style="fill:url(#linearGradient2259-3);fill-opacity:1"
                transform="matrix(1.5768407,0,0,1.4961557,-1.0573934,144.08674)"
                id="g7764">
               <g
                  transform="rotate(180,45.578499,23.8125)"
                  id="g7762"
-                 style="fill:url(#linearGradient14807);fill-opacity:1;" />
+                 style="fill:url(#linearGradient14807);fill-opacity:1" />
             </g>
           </g>
           <path
              inkscape:connector-curvature="0"
              id="path9418-4-6-3-8-9-6"
              d="m 178.81047,259.20188 v -3.77953 l 21.34598,6.79812 21.34565,-6.79801 V 259.202 L 200.15645,266 Z"
-             style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+             style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              sodipodi:nodetypes="ccccccc" />
         </g>
         <path
-           style="opacity:1;fill:url(#linearGradient14805);fill-opacity:1;stroke-width:1.57525122;"
+           style="opacity:1;fill:url(#linearGradient14805);fill-opacity:1;stroke-width:1.57525122"
            inkscape:connector-curvature="0"
            d="m 200.15829,262.21984 21.34565,-6.79801 10.54394,-65.25095 -63.77953,-1.7e-4 10.54396,65.25101 z"
            id="path7760-8"
@@ -17636,27 +17634,27 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g3973"
-       style="filter:url(#filter4287)">
+       style="filter:url(#filter4287)"
+       transform="translate(0,-2)">
       <g
-         style=""
          id="g4166">
         <g
            id="g15689"
            transform="matrix(1.05,0,0,1.05,-10.550134,-15.281045)"
-           style="opacity:1;">
+           style="opacity:1">
           <g
              id="g7764-6"
              transform="matrix(1.562947,0,0,1.4406593,0.44872194,236.7152)"
-             style="fill:url(#linearGradient31972);fill-opacity:1;">
+             style="fill:url(#linearGradient31972);fill-opacity:1">
             <g
-               style="fill:url(#linearGradient31970);fill-opacity:1;"
+               style="fill:url(#linearGradient31970);fill-opacity:1"
                id="g7762-1"
                transform="rotate(180,45.578499,23.8125)" />
           </g>
         </g>
         <path
            sodipodi:nodetypes="ccccccc"
-           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 178.82239,349.43947 v -3.77953 l 21.06721,6.56053 21.06744,-6.5606 v 3.77954 L 199.8896,356 Z"
            id="path9418-4-6-3-8-9-6-6"
            inkscape:connector-curvature="0" />
@@ -17666,7 +17664,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          id="path7760-29-9"
          d="m 199.8896,352.22173 21.06743,-6.56059 10.8225,-65.48838 -63.77953,-1.7e-4 10.82238,65.48862 z"
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:url(#linearGradient31968);fill-opacity:1;stroke-width:1.57523978;" />
+         style="opacity:1;fill:url(#linearGradient31968);fill-opacity:1;stroke-width:1.57523978" />
     </g>
     <g
        id="g3882"

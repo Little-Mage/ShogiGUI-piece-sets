@@ -10789,7 +10789,7 @@
      id="namedview1719"
      showgrid="false"
      inkscape:zoom="1.3222222"
-     inkscape:cx="324"
+     inkscape:cx="303.95798"
      inkscape:cy="180"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -12674,7 +12674,8 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g4133"
-       style="filter:url(#filter4375)">
+       style="filter:url(#filter4375)"
+       transform="translate(0,-3.9999099)">
       <g
          style="opacity:1"
          transform="matrix(1.0735153,0,0,1.0678358,-43.482165,-17.590581)"
@@ -12709,7 +12710,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          sodipodi:nodetypes="ccccccc" />
     </g>
     <g
-       transform="matrix(1,0,0,-1,0.53844732,452.93379)"
+       transform="matrix(1,0,0,-1,0.53844732,448.93388)"
        id="g2987-4"
        style="stroke:#ff0000;stroke-opacity:1;filter:url(#filter7671)">
       <g
