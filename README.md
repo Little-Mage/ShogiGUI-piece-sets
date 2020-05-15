@@ -3,20 +3,18 @@
 
 #### In English https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/Description%20English.md
 
-2kanji & 1kanji
+<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/CtomatoKanjiP.png">
 
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2Kanji.png">
 
-kanji con guías
-
-Hidetchi hecho por CouchTomato, pero yo hice muchos ajustes como la simetría y rehíce unos símbolos desde cero.
+<img scr="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/CtomatoKanjiGP.png">
 
 Un set de Hidetchi personalizado con símbolos rellenados hechas por mí con un poco de inspiración de este set hecho por CouchTomato.
 https://preview.redd.it/rjpex8xjogx21.png?width=648&format=png&auto=webp&s=9cc6b1e1ef606683a91f5da92a86767be1c2ed81
 
-Sets internacionales más recientes de CouchTomato.
+Hidetchi hecho por CouchTomato, pero yo hice muchos ajustes como la simetría y rehíce unos símbolos desde cero.
 
-También tableros y estantes.
+Sets internacionales más recientes de CouchTomato.
 
 La carpeta SVG contiene los sets en formato SVG así que puedes personalizar tus propios sets con el programa gráfico de vectores gratuito llamado Inkscape.
 
