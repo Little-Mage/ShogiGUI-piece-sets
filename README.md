@@ -8,6 +8,8 @@
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/ValdiviaKanjiG.png">
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/CtomatoKanjiGP.png">
 
+Los sets entan hechos a escala de 5/8 del tamaño de piezas físicas.
+
 Un set de Hidetchi personalizado con símbolos rellenados hechas por mí con un poco de inspiración de este set hecho por CouchTomato.
 https://preview.redd.it/rjpex8xjogx21.png?width=648&format=png&auto=webp&s=9cc6b1e1ef606683a91f5da92a86767be1c2ed81
 
