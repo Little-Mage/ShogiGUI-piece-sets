@@ -1,14 +1,14 @@
 # ShogiGUI-piece-sets
 ## All types of sets are included:
 
-2kanji & 1kanji
-
-kanji with guides
-
-Hidetchi made by CouchTomato, but I made many fixes such as symmetry and remade some symbols from scratch.
+<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/CtomatoKanjiP.png">
+<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2Kanji.png">
+<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/CtomatoKanjiGP.png">
 
 A Custom Hidetchi set with filled in pieces made by me with a little inspiration from this set made by CouchTomato.
 https://preview.redd.it/rjpex8xjogx21.png?width=648&format=png&auto=webp&s=9cc6b1e1ef606683a91f5da92a86767be1c2ed81
+
+Hidetchi made by CouchTomato, but I made many fixes such as symmetry and remade some symbols from scratch.
 
 CouchTomato's latest international sets
 
