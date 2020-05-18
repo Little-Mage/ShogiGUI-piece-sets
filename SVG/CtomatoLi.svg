@@ -230,133 +230,6 @@
        discard_orig_path="false"
        fuse_paths="false"
        oposite_fuse="false" />
-    <filter
-       id="drop-shadow-2-84-1-6">
-      <feGaussianBlur
-         in="SourceAlpha"
-         result="blur"
-         stdDeviation="2"
-         id="feGaussianBlur6807-9-0-1" />
-      <feOffset
-         result="offsetBlur"
-         dx="2"
-         dy="2"
-         id="feOffset6809-5-3-12" />
-      <feBlend
-         in="SourceGraphic"
-         in2="offsetBlur"
-         mode="normal"
-         id="feBlend6811-1-0-6" />
-    </filter>
-    <filter
-       id="drop-shadow-2-84-42">
-      <feGaussianBlur
-         in="SourceAlpha"
-         result="blur"
-         stdDeviation="2"
-         id="feGaussianBlur6807-9-7" />
-      <feOffset
-         result="offsetBlur"
-         dx="2"
-         dy="2"
-         id="feOffset6809-5-9-9" />
-      <feBlend
-         in="SourceGraphic"
-         in2="offsetBlur"
-         mode="normal"
-         id="feBlend6811-1-9-9" />
-    </filter>
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="275.14301,98.12006"
-       end_point="275.14301,350.07326"
-       center_point="275.14301,224.09666"
-       id="path-effect4547-0-2-6-9"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="true"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="274.67636,240.21573"
-       end_point="274.67636,418.88419"
-       center_point="274.67636,329.54996"
-       id="path-effect4551-7-2-7"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="false"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="273.50283,331.40861"
-       end_point="273.50283,476.78997"
-       center_point="273.50283,404.09929"
-       id="path-effect4557-0-7-1"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="false"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="315.67341,90.311359"
-       end_point="315.6155,96.047457"
-       center_point="315.64446,93.179408"
-       id="path-effect4669-0-7"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="false"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       oposite_fuse="false"
-       fuse_paths="false"
-       discard_orig_path="false"
-       mode="free"
-       is_visible="true"
-       id="path-effect4802-2-4"
-       center_point="316.91112,93.060013"
-       end_point="316.91112,96.060013"
-       start_point="316.91112,90.060013"
-       effect="mirror_symmetry" />
-    <filter
-       id="drop-shadow-2-84-1-0-0-5">
-      <feGaussianBlur
-         in="SourceAlpha"
-         result="blur"
-         stdDeviation="2"
-         id="feGaussianBlur6807-9-0-9-8" />
-      <feOffset
-         result="offsetBlur"
-         dx="2"
-         dy="2"
-         id="feOffset6809-5-3-1-5" />
-      <feBlend
-         in="SourceGraphic"
-         in2="offsetBlur"
-         mode="normal"
-         id="feBlend6811-1-0-0-3" />
-    </filter>
-    <filter
-       id="drop-shadow-2-84-46">
-      <feGaussianBlur
-         in="SourceAlpha"
-         result="blur"
-         stdDeviation="2"
-         id="feGaussianBlur6807-9-13" />
-      <feOffset
-         result="offsetBlur"
-         dx="2"
-         dy="2"
-         id="feOffset6809-5-9-4" />
-      <feBlend
-         in="SourceGraphic"
-         in2="offsetBlur"
-         mode="normal"
-         id="feBlend6811-1-9-4" />
-    </filter>
     <inkscape:path-effect
        effect="mirror_symmetry"
        start_point="284.18608,120.29265"
@@ -401,114 +274,6 @@
        discard_orig_path="false"
        fuse_paths="false"
        oposite_fuse="false" />
-    <filter
-       id="drop-shadow-2-84-1-3">
-      <feGaussianBlur
-         in="SourceAlpha"
-         result="blur"
-         stdDeviation="2"
-         id="feGaussianBlur6807-9-0-97" />
-      <feOffset
-         result="offsetBlur"
-         dx="2"
-         dy="2"
-         id="feOffset6809-5-3-67" />
-      <feBlend
-         in="SourceGraphic"
-         in2="offsetBlur"
-         mode="normal"
-         id="feBlend6811-1-0-9" />
-    </filter>
-    <filter
-       id="drop-shadow-2-84-1-0-0-6">
-      <feGaussianBlur
-         in="SourceAlpha"
-         result="blur"
-         stdDeviation="2"
-         id="feGaussianBlur6807-9-0-9-7" />
-      <feOffset
-         result="offsetBlur"
-         dx="2"
-         dy="2"
-         id="feOffset6809-5-3-1-59" />
-      <feBlend
-         in="SourceGraphic"
-         in2="offsetBlur"
-         mode="normal"
-         id="feBlend6811-1-0-0-8" />
-    </filter>
-    <filter
-       id="drop-shadow-2-8-0">
-      <feGaussianBlur
-         in="SourceAlpha"
-         result="blur"
-         stdDeviation="2"
-         id="feGaussianBlur6807-2-2" />
-      <feOffset
-         result="offsetBlur"
-         dx="2"
-         dy="2"
-         id="feOffset6809-8-5" />
-      <feBlend
-         in="SourceGraphic"
-         in2="offsetBlur"
-         mode="normal"
-         id="feBlend6811-0-1" />
-    </filter>
-    <filter
-       id="drop-shadow-2-88-1">
-      <feGaussianBlur
-         in="SourceAlpha"
-         result="blur"
-         stdDeviation="2"
-         id="feGaussianBlur6807-1-0" />
-      <feOffset
-         result="offsetBlur"
-         dx="2"
-         dy="2"
-         id="feOffset6809-5-1" />
-      <feBlend
-         in="SourceGraphic"
-         in2="offsetBlur"
-         mode="normal"
-         id="feBlend6811-7-0" />
-    </filter>
-    <filter
-       id="drop-shadow-2-88-0">
-      <feGaussianBlur
-         in="SourceAlpha"
-         result="blur"
-         stdDeviation="2"
-         id="feGaussianBlur6807-1-23" />
-      <feOffset
-         result="offsetBlur"
-         dx="2"
-         dy="2"
-         id="feOffset6809-5-91" />
-      <feBlend
-         in="SourceGraphic"
-         in2="offsetBlur"
-         mode="normal"
-         id="feBlend6811-7-5" />
-    </filter>
-    <filter
-       id="drop-shadow-2-84-1-4-1">
-      <feGaussianBlur
-         in="SourceAlpha"
-         result="blur"
-         stdDeviation="2"
-         id="feGaussianBlur6807-9-0-2-0" />
-      <feOffset
-         result="offsetBlur"
-         dx="2"
-         dy="2"
-         id="feOffset6809-5-3-5-9" />
-      <feBlend
-         in="SourceGraphic"
-         in2="offsetBlur"
-         mode="normal"
-         id="feBlend6811-1-0-4-0" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient12530"
@@ -595,24 +360,6 @@
        x2="-11.017649"
        y2="30.266771"
        spreadMethod="repeat" />
-    <filter
-       id="drop-shadow-5-1-1-7-4">
-      <feGaussianBlur
-         in="SourceAlpha"
-         result="blur"
-         stdDeviation="2"
-         id="feGaussianBlur5056-6-9-88-3-4" />
-      <feOffset
-         result="offsetBlur"
-         dx="2"
-         dy="2"
-         id="feOffset5058-2-6-1-6-3-2" />
-      <feBlend
-         in="SourceGraphic"
-         in2="offsetBlur"
-         mode="normal"
-         id="feBlend5060-8-9-5-43-0" />
-    </filter>
     <filter
        id="drop-shadow-22-0">
       <feGaussianBlur
@@ -1591,24 +1338,6 @@
        x2="130.3233"
        y2="49.825951"
        spreadMethod="repeat" />
-    <filter
-       id="drop-shadow-2-88-2">
-      <feGaussianBlur
-         in="SourceAlpha"
-         result="blur"
-         stdDeviation="2"
-         id="feGaussianBlur6807-1-22" />
-      <feOffset
-         result="offsetBlur"
-         dx="2"
-         dy="2"
-         id="feOffset6809-5-4" />
-      <feBlend
-         in="SourceGraphic"
-         in2="offsetBlur"
-         mode="normal"
-         id="feBlend6811-7-52" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient11760"
@@ -1751,130 +1480,6 @@
        x2="130.3233"
        y2="49.825951"
        spreadMethod="repeat" />
-    <filter
-       id="drop-shadow-2-84">
-      <feGaussianBlur
-         in="SourceAlpha"
-         result="blur"
-         stdDeviation="2"
-         id="feGaussianBlur6807-9" />
-      <feOffset
-         result="offsetBlur"
-         dx="2"
-         dy="2"
-         id="feOffset6809-5-9" />
-      <feBlend
-         in="SourceGraphic"
-         in2="offsetBlur"
-         mode="normal"
-         id="feBlend6811-1-9" />
-    </filter>
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="284.18608,120.29265"
-       end_point="284.18608,137.98161"
-       center_point="284.18608,129.13713"
-       id="path-effect4724-5-1-1"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="true"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="275.14301,98.12006"
-       end_point="275.14301,350.07326"
-       center_point="275.14301,224.09666"
-       id="path-effect4547-0-6-5-9"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="true"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="273.50283,331.92091"
-       end_point="273.50283,477.30227"
-       center_point="273.50283,404.61159"
-       id="path-effect4557-0-4-1"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="false"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="317.75072,94.839412"
-       end_point="317.75072,96.970714"
-       center_point="317.75072,95.905063"
-       id="path-effect4680-1-0"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="false"
-       oposite_fuse="false" />
-    <filter
-       id="drop-shadow-2-84-3">
-      <feGaussianBlur
-         in="SourceAlpha"
-         result="blur"
-         stdDeviation="2"
-         id="feGaussianBlur6807-9-6" />
-      <feOffset
-         result="offsetBlur"
-         dx="2"
-         dy="2"
-         id="feOffset6809-5-9-3" />
-      <feBlend
-         in="SourceGraphic"
-         in2="offsetBlur"
-         mode="normal"
-         id="feBlend6811-1-9-6" />
-    </filter>
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="284.18608,120.29265"
-       end_point="284.18608,137.98161"
-       center_point="284.18608,129.13713"
-       id="path-effect4724-5-1-7"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="true"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="275.14301,98.12006"
-       end_point="275.14301,350.07326"
-       center_point="275.14301,224.09666"
-       id="path-effect4547-0-6-5-7"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="true"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="273.50283,331.92091"
-       end_point="273.50283,477.30227"
-       center_point="273.50283,404.61159"
-       id="path-effect4557-0-4-1-4"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="false"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="317.75072,94.839412"
-       end_point="317.75072,96.970714"
-       center_point="317.75072,95.905063"
-       id="path-effect4680-1-0-7"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="false"
-       oposite_fuse="false" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient29773"
@@ -1912,61 +1517,6 @@
          mode="normal"
          id="feBlend6811-1-9-7" />
     </filter>
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="275.14301,98.12006"
-       end_point="275.14301,350.07326"
-       center_point="275.14301,224.09666"
-       id="path-effect4547-0-2-5"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="true"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="274.67636,240.21573"
-       end_point="274.67636,418.88419"
-       center_point="274.67636,329.54996"
-       id="path-effect4551-7-2-1"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="false"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="273.50283,331.40861"
-       end_point="273.50283,476.78997"
-       center_point="273.50283,404.09929"
-       id="path-effect4557-0-7-0-9"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="false"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="315.67341,90.311359"
-       end_point="315.6155,96.047457"
-       center_point="315.64446,93.179408"
-       id="path-effect4669-0-1"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="false"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       oposite_fuse="false"
-       fuse_paths="false"
-       discard_orig_path="false"
-       mode="free"
-       is_visible="true"
-       id="path-effect4802-2-5"
-       center_point="316.91112,93.060013"
-       end_point="316.91112,96.060013"
-       start_point="316.91112,90.060013"
-       effect="mirror_symmetry" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient11760"
@@ -2106,50 +1656,6 @@
          mode="normal"
          id="feBlend6811-1-9-2" />
     </filter>
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="284.18608,120.29265"
-       end_point="284.18608,137.98161"
-       center_point="284.18608,129.13713"
-       id="path-effect4724-5-6-1"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="true"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="275.14301,98.12006"
-       end_point="275.14301,350.07326"
-       center_point="275.14301,224.09666"
-       id="path-effect4547-0-6-0-8"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="true"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="273.50283,331.92091"
-       end_point="273.50283,477.30227"
-       center_point="273.50283,404.61159"
-       id="path-effect4557-0-4-6"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="false"
-       oposite_fuse="false" />
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="317.75072,94.839412"
-       end_point="317.75072,96.970714"
-       center_point="317.75072,95.905063"
-       id="path-effect4680-1-1-1"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="false"
-       oposite_fuse="false" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient11760"
@@ -2427,35 +1933,6 @@
        y2="132.60106"
        spreadMethod="repeat" />
     <filter
-       id="drop-shadow-2-84-1-4">
-      <feGaussianBlur
-         in="SourceAlpha"
-         result="blur"
-         stdDeviation="2"
-         id="feGaussianBlur6807-9-0-2" />
-      <feOffset
-         result="offsetBlur"
-         dx="2"
-         dy="2"
-         id="feOffset6809-5-3-5" />
-      <feBlend
-         in="SourceGraphic"
-         in2="offsetBlur"
-         mode="normal"
-         id="feBlend6811-1-0-4" />
-    </filter>
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="275.14301,98.12006"
-       end_point="275.14301,350.07326"
-       center_point="275.14301,224.09666"
-       id="path-effect4547-0-1-2-5-8"
-       is_visible="true"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="true"
-       oposite_fuse="false" />
-    <filter
        id="drop-shadow-5-1-1">
       <feGaussianBlur
          in="SourceAlpha"
@@ -2674,8 +2151,8 @@
      inkscape:window-height="705"
      id="namedview1719"
      showgrid="false"
-     inkscape:zoom="1.3222222"
-     inkscape:cx="324"
+     inkscape:zoom="2.5618055"
+     inkscape:cx="317.16888"
      inkscape:cy="180"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
