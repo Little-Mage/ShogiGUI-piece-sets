@@ -12,8 +12,8 @@
    version="1.1"
    id="svg1717"
    sodipodi:docname="HidetchiFDP.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="C:\Users\Alan\Documents\GitHub\ShogiGUI-piece-sets\PNG\HidetchiFDP.png"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-filename="C:\Users\ninja\OneDrive\Documentos\GitHub\ShogiGUI-piece-sets\PNG\HidetchiFDP.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -9499,22 +9499,23 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="681"
-     inkscape:window-height="696"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview1719"
      showgrid="false"
-     inkscape:zoom="0.60125901"
-     inkscape:cx="324"
-     inkscape:cy="180"
-     inkscape:window-x="676"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:zoom="7.8489738"
+     inkscape:cx="445.47244"
+     inkscape:cy="133.66236"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      units="px"
      inkscape:snap-global="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:lockguides="false" />
+     inkscape:lockguides="false"
+     inkscape:document-rotation="0" />
   <!--
 Created by Hari Seldon and modified by orangain, licensed under Creative Commons Attribution-Share Alike 3.0 Unported.
 See: https://creativecommons.org/licenses/by-sa/3.0/deed.en
@@ -11290,8 +11291,8 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
         <path
            sodipodi:nodetypes="cccccccccccccccccccc"
            id="path1876"
-           d="m 447.96401,120.26197 h -7.03995 l -3.65838,-2.55989 -5.73819,-0.37466 v -1.55636 l 6.43659,-0.069 -4.2984,-4.54923 1.22181,-1.05086 5.62546,4.30909 0.46909,-7.79641 h 1.40364 l 0.54909,7.79641 5.53454,-4.21822 1.14182,0.95999 -3.94545,4.45823 6.25454,0.16 v 1.55636 l -5.4762,0.45466 1.51999,2.47999 v 3.62171"
-           style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.63636363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7018)"
+           d="m 447.96401,120.26197 h -7.03995 l -3.65838,-2.37825 -5.73819,-0.5563 v -1.55636 l 6.43659,-0.069 -4.2984,-4.54923 1.22181,-1.05086 5.62546,4.30909 0.46909,-7.79641 h 1.40364 l 0.54909,7.79641 5.53454,-4.21822 1.14182,0.95999 -3.94545,4.45823 6.25454,0.16 v 1.55636 l -5.4762,0.45466 1.51999,2.47999 v 3.62171"
+           style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.636364;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7018)"
            inkscape:connector-curvature="0" />
         <path
            sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccc"
@@ -11581,8 +11582,8 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
              sodipodi:nodetypes="aaaccaaa"
              inkscape:connector-curvature="0"
              id="path6981"
-             d="m 194.1334,136.885 c -0.34306,-0.245 -0.56464,-0.66955 -0.6564,-1.081 -0.0966,-0.43321 -0.0324,-0.9158 0.142,-1.32396 0.67213,-1.57325 3.309,-3.92332 3.309,-3.92332 l 1.78,2.83614 c 0,0 -1.2509,2.34209 -2.217,3.21428 -0.29181,0.26345 -0.64495,0.51111 -1.03407,0.56723 -0.44697,0.0645 -0.95603,-0.0269 -1.32353,-0.28937 z"
-             style="fill:#fee572;fill-opacity:1;stroke:#fee572;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+             d="m 194.22418,136.48605 c -0.24111,-0.21012 -0.36842,-0.55639 -0.39304,-0.87526 -0.0318,-0.41181 0.14526,-0.8245 0.32808,-1.19487 0.65578,-1.32852 2.68661,-3.5408 2.68661,-3.5408 l 1.60645,2.55962 c 0,0 -1.44584,2.02619 -2.40048,2.80135 -0.27544,0.22365 -0.58052,0.47353 -0.93325,0.51192 -0.30882,0.0336 -0.66017,-0.0579 -0.89437,-0.26196 z"
+             style="fill:#fee572;fill-opacity:1;stroke:#fee572;stroke-width:0.361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <path
              sodipodi:nodetypes="cc"
              inkscape:connector-curvature="0"
