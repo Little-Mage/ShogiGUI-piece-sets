@@ -29,7 +29,7 @@ Pawn	19
 
 The exact measurements for each piece.
 Measurements provided in this order:
-Height, width(bottom), thickness
+width(middle), length, thickness
 
 http://shogi-koma.jp/shop/koma.html
 
