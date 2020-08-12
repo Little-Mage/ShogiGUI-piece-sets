@@ -1,40 +1,42 @@
-# Sets para ShogiGUI (piezas)
-## Todos los tipos de sets entán incluidos
+# ShogiGUI-piece-sets
+## All types of sets are included:
 
-#### In English https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/Description%20English.md
+#### En Español https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/Description%20Español.md
 
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/CtomatoKanjiP.png">
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2Kanji.png">
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/ValdiviaKanjiG.png">
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/CtomatoKanjiGP.png">
 
-Los sets entan hechos a escala de 5/8 del tamaño de piezas físicas.
+The sets are scaled down 5/8 the size of physical pieces.
 
-Un set de Hidetchi personalizado con símbolos rellenados hechas por mí con un poco de inspiración de este set hecho por CouchTomato.
+A Custom Hidetchi set with filled in pieces made by me with a little inspiration from this set made by CouchTomato.
 https://preview.redd.it/rjpex8xjogx21.png?width=648&format=png&auto=webp&s=9cc6b1e1ef606683a91f5da92a86767be1c2ed81
 
-Hidetchi hecho por CouchTomato, pero yo hice muchos ajustes como la simetría y rehíce unos símbolos desde cero.
+Hidetchi made by CouchTomato, but I made many fixes such as symmetry and remade some symbols from scratch.
 
-Sets internacionales más recientes de CouchTomato.
+CouchTomato's latest international sets
 
-La carpeta SVG contiene los sets en formato SVG así que puedes personalizar tus propios sets con el programa gráfico de vectores gratuito llamado Inkscape.
+Also boards and piece stand.
 
-El folder PNG contiene todos los sets mencionados arriba en formato PNG.
+The SVG folder contains the sets but in SVG format so you can make your own custom sets and share them please. You can use Inkscape a free vector graphics software.
 
-#### Crédito: Todas las piezas fueron hechas por CouchTomato, pero yo las acomode en el formato de ShogiGUI.
+The PNG folder contains all mentioned above in picture format.
 
-#### Piezas diseñadas por peanatsu https://github.com/peanatsu/shogi_printout/releases
+#### Credit: All the pieces were made by CouchTomato, but I arranged and edited them onto the ShogiGUI format so enjoy. :)
 
-#### Piezas diseñadas por Ka-Hu https://github.com/Ka-hu/shogi-pieces
+#### Pieces designed by peanatsu https://github.com/peanatsu/shogi_printout/releases
 
-#### Varios typos de piezas https://github.com/yagu0/vchess
+#### Pieces designed by Ka-Hu https://github.com/Ka-hu/shogi-pieces
 
-#### Este repositorio contiene las piezas de madera, no-actuales de CouchTomato que son no-rellenas y también la lanza es diferente. https://github.com/CouchTomato87/InternationalizedPieces
+#### Varios types of pieces https://github.com/yagu0/vchess
 
-El set nombrado 2kanji fueron agarradas de aquí https://github.com/orangain/shogi-piece-images 
+#### This repository contains CouchTomato's old wood pieces that are unfilled and the lance is also different. https://github.com/CouchTomato87/InternationalizedPieces
 
-La Torre, Alfil, y Rey de algunos sets fueron editados por mí, pero son del Repositorio de Lichess
+The set titled 2kanji were grabbed from here https://github.com/orangain/shogi-piece-images 
 
-Los PNGs de kanji fueron compartidos por Shogiban.
+The Rook, Bishop, and King from some sets were edited slightly by me but taken from the Lichess Github.
 
-El set Internacional de plástico fue acomodado y hecho por CouchTomato.
+The kanji PNGs were shared by Shogiban.
+
+The international plastic set was arraged and made by CouchTomato.
