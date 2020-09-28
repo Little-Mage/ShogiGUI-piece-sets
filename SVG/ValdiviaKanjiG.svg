@@ -13,8 +13,8 @@
    version="1.1"
    id="svg1717"
    sodipodi:docname="ValdiviaKanjiG.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="C:\Users\Alan\Documents\GitHub\ShogiGUI-piece-sets\PNG\ValdiviaKanjiG.png"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="C:\Users\ninja\Documents\GitHub\ShogiGUI-piece-sets\PNG\ValdiviaKanjiG.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -6604,22 +6604,23 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="683"
+     inkscape:window-width="1366"
      inkscape:window-height="705"
      id="namedview1719"
      showgrid="false"
-     inkscape:zoom="0.60344144"
-     inkscape:cx="324"
+     inkscape:zoom="1.4305556"
+     inkscape:cx="204.46602"
      inkscape:cy="180"
-     inkscape:window-x="675"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      units="px"
      inkscape:snap-global="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:lockguides="false" />
+     inkscape:lockguides="false"
+     inkscape:document-rotation="0" />
   <!--
 Created by Hari Seldon and modified by orangain, licensed under Creative Commons Attribution-Share Alike 3.0 Unported.
 See: https://creativecommons.org/licenses/by-sa/3.0/deed.en
@@ -6888,7 +6889,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g3995"
        style="filter:url(#filter4339)"
-       transform="translate(0,-2)">
+       transform="translate(0.75,-2)">
       <g
          style="opacity:1"
          transform="matrix(1.05,0,0,1.05,-10.233486,-5.1033343)"
@@ -6898,7 +6899,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
            id="g55026-9"
            style="fill:#75581b;fill-opacity:1" />
         <path
-           style="opacity:1;fill:#fee572;fill-opacity:1;stroke-width:1.58388317"
+           style="opacity:1;fill:#fee572;fill-opacity:1;stroke-width:1.58388"
            inkscape:connector-curvature="0"
            id="path5763-6-7"
            d="M 200.37136,12.479366 179.70281,19.258229 170,81.097589 l 60.74241,-2.54e-4 -9.70355,-61.838304 z"
@@ -6913,7 +6914,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
         </g>
       </g>
       <path
-         style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:0.29999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#c3983c;fill-opacity:0.992157;stroke:none;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 168.26651,80.049134 v 5.66852 l 63.77953,-3.7e-5 v -5.668749 z"
          id="path1890-5-62"
          inkscape:connector-curvature="0"
@@ -6922,7 +6923,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g4093"
        style="filter:url(#filter4483)"
-       transform="translate(0,-2)">
+       transform="translate(0.75,-2)">
       <g
          style="opacity:1"
          transform="matrix(1.0403371,0,0,1.0102223,-8.6420546,-2.1920241)"
@@ -6936,7 +6937,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
              id="g7762"
              style="fill:url(#linearGradient14807);fill-opacity:1">
             <path
-               style="fill:#feec99;fill-opacity:1;stroke-width:1.00039613"
+               style="fill:#feec99;fill-opacity:1;stroke-width:1.0004"
                inkscape:connector-curvature="0"
                d="m -36.795138,-31.009999 -13.012101,4.497677 -6.427485,43.171101 38.879385,1.1e-4 -6.427492,-43.171141 z"
                id="path7760"
@@ -6948,7 +6949,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          inkscape:connector-curvature="0"
          id="path9418-4-6-3-8-9-6"
          d="m 178.81047,259.20188 v -3.77953 l 21.34598,6.79812 21.34565,-6.79801 V 259.202 L 200.15645,266 Z"
-         style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:1;fill:#c3983c;fill-opacity:0.992157;stroke:none;stroke-width:1.58881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          sodipodi:nodetypes="ccccccc" />
     </g>
     <g
@@ -7187,7 +7188,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g4054"
        style="filter:url(#filter4219)"
-       transform="translate(0,-2)">
+       transform="translate(0.75,-2)">
       <g
          style="opacity:1"
          transform="matrix(1.05,0,0,1.05,-10.504781,-8.7700256)"
@@ -7207,12 +7208,12 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
                d="M -11.540536,7.3941764 -24.308143,11.675504 -30.848998,54.295677 7.765796,54.295504 1.2248496,11.67476 Z"
                id="path5763-72"
                inkscape:connector-curvature="0"
-               style="fill:#fee572;fill-opacity:1;stroke-width:0.99991995" />
+               style="fill:#fee572;fill-opacity:1;stroke-width:0.99992" />
           </g>
         </g>
       </g>
       <path
-         style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:0.29999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#c3983c;fill-opacity:0.992157;stroke:none;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 168.00001,170.04913 v 5.66852 l 63.77953,-3e-5 v -5.66875 z"
          id="path1890-5-9"
          inkscape:connector-curvature="0"
@@ -7338,7 +7339,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g4166"
        style="filter:url(#filter4423)"
-       transform="translate(0,-2)">
+       transform="translate(0.75,-2)">
       <g
          style="opacity:1"
          transform="matrix(1.05,0,0,1.05,-10.550134,-15.281045)"
@@ -7352,7 +7353,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
              id="g7762-1"
              style="fill:url(#linearGradient31970);fill-opacity:1">
             <path
-               style="fill:#feec99;fill-opacity:1;stroke-width:0.99978024"
+               style="fill:#feec99;fill-opacity:1;stroke-width:0.99978"
                inkscape:connector-curvature="0"
                d="m -36.787248,-31.009997 -12.837434,4.33703 -6.594679,43.292596 38.864022,1.11e-4 -6.594615,-43.292753 z"
                id="path7760-29"
@@ -7364,7 +7365,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          inkscape:connector-curvature="0"
          id="path9418-4-6-3-8-9-6-6"
          d="m 178.82239,349.43947 v -3.77953 l 21.06721,6.56053 21.06744,-6.5606 v 3.77954 L 199.8896,356 Z"
-         style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:1;fill:#c3983c;fill-opacity:0.992157;stroke:none;stroke-width:1.58881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          sodipodi:nodetypes="ccccccc" />
     </g>
     <g
@@ -7787,54 +7788,54 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
       </g>
     </g>
     <g
-       style="opacity:0.98999999"
+       style="opacity:0.99"
        id="g5699"
-       transform="translate(0.40160194,-2.6800294)">
+       transform="translate(1.1516019,-2.6800294)">
       <g
          transform="matrix(0.80796188,0,0,0.83193791,-159.69084,-118.81718)"
          id="text1615-5"
-         style="font-size:0.42519981px;visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:36.7177124;stroke-linejoin:round;filter:url(#filter5206)">
+         style="font-size:0.4252px;visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:36.7177;stroke-linejoin:round;filter:url(#filter5206)">
         <path
            id="path4597"
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:36.7177124"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:36.7177"
            d="m 461.27099,174.61868 q -0.13184,0.43946 -1.09864,1.27443 -0.92286,0.79102 -1.18654,1.23047 -0.13183,1.14259 -0.13183,2.63674 0,2.24123 0.30762,6.72368 0.35156,4.43851 0.35156,6.67974 0,1.40626 -0.17578,3.07619 -0.17578,0.21973 -1.27442,2.76857 -0.79102,1.80177 -1.88967,2.19728 -1.36231,-0.30762 -2.54884,-1.49415 -0.70313,-0.9668 -2.19728,-2.76857 -1.0547,-1.01075 -2.10939,-2.06545 -1.36232,-1.36231 -1.40626,-2.417 2.5049,1.09864 4.5264,1.09864 0.79102,0 1.49415,-0.17579 0.0439,-1.40626 0.0439,-2.76857 0,-1.36231 -0.0439,-2.76857 -2.9883,-1.40626 -5.84477,-1.40626 -6.32817,0 -12.56845,3.16408 l -0.74707,-0.21973 q -0.30762,5.97661 -1.23048,8.12994 -0.39551,0.92286 -1.4502,1.84572 -1.97756,-0.17579 -1.97756,-3.99905 0,-0.92286 0.92286,-6.85552 0.92286,-5.9766 0.87891,-9.75593 v -1.14258 l -1.40626,-2.28518 0.17579,-0.39551 1.75782,0.30762 q 5.18558,-1.09864 8.04205,-2.81252 3.03225,-1.80177 6.24028,-5.84476 -0.61524,-0.52735 -1.36232,-1.5381 -7.9981,6.5479 -11.03035,6.85552 -1.36231,0.13183 -3.25197,0.13183 -1.80177,0 -2.59279,-0.65918 7.69048,-3.03225 13.4913,-10.10749 0.0879,-0.30762 0.0879,-0.61524 0,-0.4834 -0.17578,-0.96681 l 0.30762,-0.39551 q 0.79102,-0.26367 1.49415,-0.26367 1.14259,0 2.85646,0.87891 1.75783,0.87891 2.19729,1.84572 l -0.96681,1.31837 q 0.65919,0.43945 3.12014,0.43945 1.18653,0 3.29592,2.24123 -0.0879,1.58204 -0.83496,2.0215 -0.79103,0.26367 -2.24123,0.79102 -2.37306,1.01075 -3.29592,2.72463 1.53809,-0.39551 3.03224,-0.79102 1.88967,-0.43946 3.0762,-0.43946 0.79102,0 2.94435,1.0547 1.84572,0.87891 2.85647,1.58204 1.05469,0.70313 1.5381,1.9336 z m -7.25103,2.28518 v -2.32912 q -0.35157,-0.83497 -1.80177,-0.83497 -1.97755,0 -5.84477,0.96681 1.14259,0.79102 0.96681,1.62598 1.84571,-0.39551 2.417,-0.39551 1.88967,0 4.26273,0.96681 z m -0.21973,6.50395 q -0.0439,-2.63674 0,-4.70218 -0.61524,0.83496 -2.0215,1.01075 -0.30762,0 -2.32911,0 h -1.01075 q -1.23048,0 -1.93361,0.65918 l -0.13184,2.68068 q 1.84572,-0.4834 3.99905,-0.4834 2.0215,0 3.42776,0.83497 z m -11.20613,-5.62504 q 0,-0.39551 -0.52735,-1.01075 -0.4834,-0.61524 -0.57129,-0.9668 -3.77932,1.53809 -6.15239,2.15333 l 0.0879,1.84572 h 0.21973 q 1.62599,0.0879 6.89946,-1.66994 0.044,-0.21972 0.044,-0.35156 z m 0.17578,5.75687 v -2.28517 q -1.09864,0.30762 -2.19728,0.5713 -1.40626,0.43945 -2.06544,0.92285 -1.5381,-0.83496 -3.20803,-2.10939 0,2.54885 -0.26368,5.22953 4.043,-1.09864 7.73443,-2.32912 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
-         style="stroke-width:1.06382978"
+         style="stroke-width:1.06383"
          transform="matrix(0.94,0,0,0.94,12.011888,7.6311156)"
          id="g4738">
         <g
-           style="stroke-width:1.06382978;filter:url(#filter5206)"
+           style="stroke-width:1.06383;filter:url(#filter5206)"
            id="g4440"
            transform="translate(0,0.4196601)">
           <path
              d="m 204.53867,54.342402 7.23521,-7.474669"
              id="path2656-2"
              inkscape:connector-curvature="0"
-             style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.72340417;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+             style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.7234;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
           <path
              d="m 194.6896,65.880204 -7.06696,7.449922"
              id="path2663-2"
              inkscape:connector-curvature="0"
-             style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.72340417;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+             style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.7234;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
           <path
              d="m 195.62465,54.342402 -7.11503,-7.474669"
              id="path2670-0"
              inkscape:connector-curvature="0"
-             style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.72340417;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+             style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.7234;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
           <path
              d="m 205.5384,65.880204 7.23521,7.449922"
              id="path2677-3"
              inkscape:connector-curvature="0"
-             style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.72340417;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+             style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.7234;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
         </g>
         <path
            sodipodi:nodetypes="cccccc"
            d="m 200.1563,55.071404 -2.98402,0.978699 -1.40084,8.928057 8.76968,-3.6e-5 -1.40095,-8.927906 z"
            id="path5763-6-1"
            inkscape:connector-curvature="0"
-           style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke-width:1.7692312;filter:url(#filter5206)" />
+           style="opacity:0.99;fill:#000000;fill-opacity:1;stroke-width:1.76923;filter:url(#filter5206)" />
       </g>
     </g>
     <g
@@ -8414,38 +8415,38 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
       </g>
     </g>
     <g
-       style="opacity:0.98999999"
+       style="opacity:0.99"
        id="g4739-4"
-       transform="translate(0.01593494,-0.7457924)">
+       transform="translate(0.76593494,-0.7457924)">
       <path
          d="m 207.53044,152.02477 v 0 -0.12043 l 0.0241,-0.12044 v -0.12043 l 0.0241,-0.12044 0.0241,-0.12043 0.0481,-0.12043 0.0481,-0.12044 0.0241,-0.12042 0.0722,-0.0964 0.0481,-0.12043 0.0722,-0.0964 0.0722,-0.12042 0.0722,-0.0964 0.0722,-0.0964 0.0963,-0.0723 0.0722,-0.0964 0.0963,-0.0723 0.0963,-0.0722 0.12039,-0.0723 0.0963,-0.0723 0.12038,-0.0482 0.0963,-0.0722 0.12039,-0.0241 0.12038,-0.0481 0.12039,-0.0481 0.12039,-0.0241 0.12038,-0.0241 h 0.12039 l 0.12039,-0.0241 h 0.12039 v 0 h 0.12039 l 0.12038,0.0241 h 0.12039 l 0.12038,0.0241 0.12039,0.0241 0.1204,0.0481 0.12039,0.0481 0.12038,0.0241 0.0963,0.0722 0.12038,0.0482 0.0963,0.0723 0.1204,0.0723 0.0963,0.0722 0.0963,0.0723 0.0722,0.0964 0.0963,0.0723 0.0722,0.0964 0.0722,0.0964 0.0722,0.12042 0.0722,0.0964 0.0482,0.12043 0.0722,0.0964 0.0241,0.12042 0.0481,0.12044 0.0481,0.12043 0.0241,0.12043 0.0241,0.12044 v 0.12043 l 0.0241,0.12044 v 0.12043 h -0.0241 v 0.12044 l -0.0241,0.12043 v 0.12043 l -0.0241,0.12043 -0.0241,0.12045 -0.0481,0.12043 -0.0241,0.12042 -0.0481,0.12044 -0.0722,0.0963 -0.0481,0.12044 -0.0722,0.0963 -0.0481,0.0964 -0.0963,0.0963 -0.0722,0.0964 -0.0722,0.0964 -0.0963,0.0723 -0.0963,0.0963 -0.0963,0.0723 -0.0963,0.0722 -0.0963,0.0723 -0.12038,0.0481 -0.0963,0.0481 -0.12038,0.0482 -0.12039,0.0481 -0.12039,0.0241 -0.12039,0.0481 -0.12038,0.0241 h -0.12039 l -0.12039,0.0241 h -0.12039 v -0.0241 h -0.12039 l -0.12038,-0.0241 h -0.12039 l -0.12038,-0.0241 -0.1204,-0.0241 -0.12038,-0.0481 -0.12039,-0.0241 -0.12039,-0.0482 -0.0963,-0.0723 -0.12038,-0.0481 -0.0963,-0.0723 -0.0963,-0.0481 -0.0963,-0.0964 -0.0963,-0.0723 -0.0963,-0.0723 -0.0722,-0.0964 -0.0963,-0.0964 -0.0722,-0.0963 -0.0722,-0.0964 -0.0722,-0.0963 -0.0481,-0.12045 -0.0482,-0.0963 -0.0481,-0.12043 -0.0481,-0.12043 -0.0241,-0.12043 -0.0481,-0.12045 -0.0241,-0.12043 v -0.12043 l -0.0241,-0.12043 v -0.12043 0 z"
          id="path2544-2"
          inkscape:connector-curvature="0"
-         style="visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.68031979;stroke-linejoin:round;filter:url(#filter6863)" />
+         style="visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.68032;stroke-linejoin:round;filter:url(#filter6863)" />
       <path
          d="m 187.53044,152.02477 v 0 -0.12043 l 0.0241,-0.12044 v -0.12043 l 0.0241,-0.12044 0.0241,-0.12043 0.0481,-0.12043 0.0481,-0.12044 0.0241,-0.12042 0.0722,-0.0964 0.0482,-0.12043 0.0722,-0.0964 0.0722,-0.12042 0.0722,-0.0964 0.0722,-0.0964 0.0963,-0.0723 0.0722,-0.0964 0.0963,-0.0723 0.0963,-0.0722 0.12039,-0.0723 0.0963,-0.0723 0.12038,-0.0482 0.0963,-0.0722 0.12038,-0.0241 0.1204,-0.0481 0.12038,-0.0481 0.12039,-0.0241 0.12039,-0.0241 h 0.12038 l 0.1204,-0.0241 h 0.12038 v 0 h 0.12039 l 0.12038,0.0241 h 0.12039 l 0.12039,0.0241 0.12039,0.0241 0.12038,0.0481 0.12039,0.0481 0.12038,0.0241 0.0963,0.0722 0.12039,0.0482 0.0963,0.0723 0.1204,0.0723 0.0963,0.0722 0.0963,0.0723 0.0722,0.0964 0.0963,0.0723 0.0722,0.0964 0.0722,0.0964 0.0722,0.12042 0.0722,0.0964 0.0481,0.12043 0.0722,0.0964 0.0241,0.12042 0.0481,0.12044 0.0481,0.12043 0.0241,0.12043 0.0241,0.12044 v 0.12043 l 0.0241,0.12044 v 0.12043 h -0.0241 v 0.12044 l -0.0241,0.12043 v 0.12043 l -0.0241,0.12043 -0.0241,0.12045 -0.0481,0.12043 -0.0241,0.12042 -0.0481,0.12044 -0.0722,0.0963 -0.0481,0.12044 -0.0722,0.0963 -0.0481,0.0964 -0.0963,0.0963 -0.0722,0.0964 -0.0722,0.0964 -0.0963,0.0723 -0.0963,0.0963 -0.0963,0.0723 -0.0963,0.0722 -0.0963,0.0723 -0.12038,0.0481 -0.0963,0.0481 -0.12039,0.0482 -0.12039,0.0481 -0.12038,0.0241 -0.12039,0.0481 -0.12039,0.0241 h -0.12039 l -0.12038,0.0241 h -0.12039 v -0.0241 h -0.12038 l -0.1204,-0.0241 h -0.12039 l -0.12038,-0.0241 -0.12039,-0.0241 -0.12038,-0.0481 -0.1204,-0.0241 -0.12038,-0.0482 -0.0963,-0.0723 -0.12038,-0.0481 -0.0963,-0.0723 -0.0963,-0.0481 -0.0963,-0.0964 -0.0963,-0.0723 -0.0963,-0.0723 -0.0722,-0.0964 -0.0963,-0.0964 -0.0722,-0.0963 -0.0722,-0.0964 -0.0722,-0.0963 -0.0482,-0.12045 -0.0481,-0.0963 -0.0481,-0.12043 -0.0481,-0.12043 -0.0241,-0.12043 -0.0481,-0.12045 -0.0241,-0.12043 v -0.12043 l -0.0241,-0.12043 v -0.12043 0 z"
          id="path2553-9"
          inkscape:connector-curvature="0"
-         style="visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.68031979;stroke-linejoin:round;filter:url(#filter6863)" />
+         style="visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.68032;stroke-linejoin:round;filter:url(#filter6863)" />
       <path
-         style="visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.68031979;stroke-linejoin:round;filter:url(#filter6863)"
+         style="visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.68032;stroke-linejoin:round;filter:url(#filter6863)"
          inkscape:connector-curvature="0"
          id="path2562-13"
          d="m 197.53046,141.02445 v 0 -0.12043 l 0.0241,-0.12044 v -0.12042 l 0.0241,-0.12044 0.0241,-0.12043 0.0481,-0.12043 0.0481,-0.12043 0.0241,-0.12044 0.0722,-0.0963 0.0481,-0.12042 0.0722,-0.0964 0.0722,-0.12043 0.0722,-0.0964 0.0722,-0.0963 0.0963,-0.0723 0.0722,-0.0964 0.0963,-0.0723 0.0963,-0.0723 0.1204,-0.0722 0.0963,-0.0723 0.12038,-0.0481 0.0963,-0.0723 0.12037,-0.0241 0.1204,-0.0482 0.12037,-0.0482 0.1204,-0.0241 0.12039,-0.0241 h 0.12039 l 0.12038,-0.0241 h 0.12039 v 0 h 0.12039 l 0.12038,0.0241 h 0.12039 l 0.12038,0.0241 0.12039,0.0241 0.12039,0.0482 0.12039,0.0482 0.12038,0.0241 0.0963,0.0723 0.12038,0.0481 0.0963,0.0723 0.12038,0.0722 0.0963,0.0723 0.0963,0.0723 0.0722,0.0964 0.0963,0.0723 0.0722,0.0963 0.0722,0.0964 0.0722,0.12043 0.0722,0.0964 0.0482,0.12042 0.0722,0.0963 0.0241,0.12044 0.0481,0.12043 0.0481,0.12043 0.0241,0.12043 0.0241,0.12044 v 0.12042 l 0.0241,0.12044 v 0.12043 h -0.0241 v 0.12044 l -0.0241,0.12043 v 0.12043 l -0.0241,0.12042 -0.0241,0.12043 -0.0481,0.12044 -0.0241,0.12043 -0.0481,0.12044 -0.0722,0.0963 -0.0482,0.12043 -0.0722,0.0964 -0.0481,0.0963 -0.0963,0.0964 -0.0722,0.0963 -0.0722,0.0964 -0.0963,0.0722 -0.0963,0.0964 -0.0963,0.0722 -0.0963,0.0723 -0.0963,0.0723 -0.12039,0.0481 -0.0963,0.0481 -0.12038,0.0482 -0.12039,0.0481 -0.12039,0.0241 -0.12038,0.0482 -0.12039,0.0241 h -0.12038 l -0.12039,0.0241 h -0.12039 v -0.0241 h -0.12039 l -0.12039,-0.0241 h -0.12039 l -0.12038,-0.0241 -0.1204,-0.0241 -0.12039,-0.0481 -0.12038,-0.0241 -0.12039,-0.0482 -0.0963,-0.0723 -0.1204,-0.0481 -0.0963,-0.0723 -0.0963,-0.0482 -0.0963,-0.0963 -0.0963,-0.0723 -0.0963,-0.0722 -0.0722,-0.0964 -0.0963,-0.0963 -0.0722,-0.0964 -0.0722,-0.0963 -0.0722,-0.0963 -0.0481,-0.12044 -0.0481,-0.0963 -0.0481,-0.12044 -0.0481,-0.12042 -0.0241,-0.12045 -0.0481,-0.12042 -0.0241,-0.12043 v -0.12043 l -0.0241,-0.12043 v -0.12044 0 z" />
       <path
-         style="visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.68031979;stroke-linejoin:round;filter:url(#filter6863)"
+         style="visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.68032;stroke-linejoin:round;filter:url(#filter6863)"
          inkscape:connector-curvature="0"
          id="path2571-4"
          d="m 197.53045,163.02444 v 0 -0.12044 l 0.0241,-0.12044 v -0.12043 l 0.0241,-0.12043 0.0241,-0.12043 0.0481,-0.12044 0.0481,-0.12043 0.0241,-0.12043 0.0722,-0.0964 0.0481,-0.12044 0.0722,-0.0963 0.0722,-0.12043 0.0722,-0.0964 0.0722,-0.0964 0.0963,-0.0722 0.0722,-0.0964 0.0963,-0.0723 0.0963,-0.0722 0.1204,-0.0723 0.0963,-0.0723 0.12039,-0.0481 0.0963,-0.0723 0.12037,-0.0241 0.1204,-0.0482 0.12037,-0.0481 0.1204,-0.0241 0.12039,-0.0241 h 0.12038 l 0.12038,-0.0241 h 0.12039 v 0 h 0.12039 l 0.12038,0.0241 h 0.12039 l 0.12038,0.0241 0.12039,0.0241 0.12039,0.0481 0.12039,0.0482 0.12038,0.0241 0.0963,0.0723 0.12038,0.0481 0.0963,0.0723 0.12039,0.0723 0.0963,0.0722 0.0963,0.0723 0.0722,0.0964 0.0963,0.0722 0.0722,0.0964 0.0722,0.0964 0.0722,0.12043 0.0722,0.0963 0.0482,0.12044 0.0722,0.0964 0.0241,0.12043 0.0481,0.12043 0.0481,0.12044 0.0241,0.12043 0.0241,0.12043 v 0.12043 l 0.0241,0.12044 v 0.12044 h -0.0241 v 0.12043 l -0.0241,0.12043 v 0.12043 l -0.0241,0.12044 -0.0241,0.12043 -0.0481,0.12044 -0.0241,0.12043 -0.0481,0.12044 -0.0722,0.0963 -0.0482,0.12043 -0.0722,0.0964 -0.0481,0.0963 -0.0963,0.0964 -0.0722,0.0964 -0.0722,0.0964 -0.0963,0.0723 -0.0963,0.0964 -0.0963,0.0723 -0.0963,0.0722 -0.0963,0.0723 -0.12039,0.0481 -0.0963,0.0481 -0.12038,0.0481 -0.12039,0.0481 -0.12039,0.0241 -0.12038,0.0481 -0.12039,0.0241 h -0.12038 l -0.12039,0.0241 h -0.12038 v -0.0241 h -0.12039 l -0.12039,-0.0241 h -0.12039 l -0.12038,-0.0241 -0.1204,-0.0241 -0.12039,-0.0482 -0.12038,-0.0241 -0.12039,-0.0482 -0.0963,-0.0723 -0.1204,-0.0481 -0.0963,-0.0723 -0.0963,-0.0481 -0.0963,-0.0963 -0.0963,-0.0723 -0.0963,-0.0723 -0.0722,-0.0963 -0.0963,-0.0964 -0.0722,-0.0964 -0.0722,-0.0963 -0.0722,-0.0964 -0.0481,-0.12044 -0.0481,-0.0963 -0.0481,-0.12043 -0.0481,-0.12043 -0.0241,-0.12044 -0.0481,-0.12044 -0.0241,-0.12043 v -0.12043 l -0.0241,-0.12044 v -0.12043 0 z" />
       <g
          transform="matrix(0.73725938,0,0,0.73537578,-125.41374,-231.06999)"
          id="text2754-6"
-         style="font-size:0.42519981px;visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:40.88384628;stroke-linejoin:round;filter:url(#filter6863)">
+         style="font-size:0.4252px;visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:40.8838;stroke-linejoin:round;filter:url(#filter6863)">
         <path
            sodipodi:nodetypes="cscsccsscccccccccccssscccccscccccccccsscccccccccccccccccccccscccccszssaacccccccccccccccccccccscccccccccccsccccccccccsccccccccccccc"
            inkscape:connector-curvature="0"
            id="path29602"
-           style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.40743324;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.407433;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 447.70789,496.38638 c -0.25223,-1.71114 0.0829,-2.90785 0.26264,-3.44563 0.12826,-0.38384 0.0606,-1.28199 0.0606,-1.28199 0,0 0.25363,-0.97017 0.69315,-1.32663 1.69144,-1.3718 5.87739,-2.49005 5.87739,-2.49005 0.4419,-0.74865 0.72178,-1.59494 0.83962,-2.53888 0.11784,-0.97649 0.23569,-1.93671 0.35353,-2.88066 0.11784,-0.94394 0.17676,-1.90416 0.17676,-2.88065 v -2.92948 l -2.3863,-2.83183 h -9.63362 c -1.38465,0.22785 -2.71038,0.40688 -3.97718,0.53707 -1.23734,0.0976 -2.48942,0.27668 -3.75623,0.53708 -1.26681,0.22785 -2.47469,0.65099 -3.62366,1.26944 -1.14896,0.58589 -2.41577,0.87884 -3.80041,0.87884 v -1.07414 l 0.66286,-2.53888 -0.30934,-3.22243 0.70706,-5.02893 c -0.47137,-0.2604 -0.76598,-0.56962 -0.88382,-0.92767 l -0.35352,-1.07414 c -0.11784,-0.35805 -0.17677,-0.7161 -0.17677,-1.07415 v -1.26944 l 0.70705,-2.49005 2.73984,-1.07414 c 0.23569,0.45569 0.51556,0.86256 0.83963,1.22061 0.35352,0.35805 0.58921,0.78119 0.70705,1.26944 0.14731,0.48825 0.22096,1.04159 0.22096,1.66004 v 1.56239 h 0.66286 l 5.47968,-1.07414 0.35352,-2.49006 -2.38631,-0.73237 -3.09336,1.07414 -0.35353,-3.27125 1.01639,-1.75768 9.98714,-0.73237 c 0.47138,0.22785 0.98694,0.34177 1.54669,0.34177 0.55975,0 1.07531,0.0651 1.54668,0.1953 0.47137,0.1302 0.86908,0.30922 1.19315,0.53707 0.35353,0.22785 0.75125,0.60217 1.19316,1.12297 l 0.35352,2.14828 h -4.8168 l -1.0164,-0.3906 -1.06058,0.3906 v 0.68354 l 0.35353,2.14829 5.8774,0.73237 0.30933,1.46473 -1.32573,0.34178 -4.861,-0.34178 -1.36991,0.34178 v 2.88065 l 2.43049,0.3906 1.0164,-0.3906 4.10975,1.07414 0.35352,1.46474 -8.21951,0.68354 v 1.85534 h 4.28652 4.46329 c 1.50249,0 2.93133,0.11392 4.28651,0.34177 1.38465,0.22785 2.63673,0.69983 3.75623,1.41592 l 0.75124,2.14828 c -0.50083,1.69259 -0.86908,3.38517 -1.10477,5.07776 -0.20623,1.69259 -0.42718,3.3689 -0.66286,5.02894 -0.20622,1.66003 -0.42718,3.38517 -0.66286,5.17541 -0.23569,1.79023 -1.147,2.41929 -2.0669,3.04792 -0.91989,0.62864 -0.87493,0.56711 -2.74991,1.44394 -0.47381,0.22157 -0.94365,0.40293 -1.41412,0.53707 -0.44284,0.12626 -0.91043,0.16268 -1.36991,0.1953 -0.4557,0.0324 -0.91609,-0.0559 -1.36991,0 -0.46526,0.0573 -0.89856,0.11392 -1.36993,0.34177 z m -23.37699,-5.32188 -1.01639,-1.46474 h -0.66286 l -0.70705,-3.95479 0.35353,-2.19711 -0.35353,-1.07414 3.04917,-0.29295 1.10477,2.49006 z m 9.63362,-0.73237 v -0.34177 l -1.72344,-1.07414 v -0.7812 h -0.66287 l -1.72344,-6.83544 0.35352,-0.68355 h 1.36992 l 2.07697,1.07414 c 0.20622,0.2604 0.36826,0.56962 0.4861,0.92767 0.11784,0.35805 0.23568,0.65099 0.35353,0.87884 0.11784,0.22785 0.17676,0.5859 0.17676,1.07415 v 1.07414 z m 14.45042,-1.80651 -3.09336,-3.61302 -1.06058,-5.76131 h 1.41411 l 2.73983,3.22243 0.30934,6.1519 z m -9.63361,-0.3906 c -0.23569,-0.45569 -0.58922,-0.97649 -1.06058,-1.56238 -0.44192,-0.61845 -0.66287,-1.28572 -0.66287,-2.00181 0,-0.74865 -0.11784,-1.41592 -0.35353,-2.00181 -0.23568,-0.5859 -0.35352,-1.2369 -0.35352,-1.95299 l 1.4141,-0.3906 2.03279,1.07415 1.01639,3.61302 -1.32573,3.22242 z m 1.72344,-17.28391 0.30934,-0.34178 c -0.20623,-0.22785 -0.42718,-0.45569 -0.66287,-0.68354 -0.23568,-0.2604 -0.47136,-0.3906 -0.70705,-0.3906 h -0.83963 -0.83963 l -4.50747,1.41592 -0.66286,2.53888 h 1.36992 z m -1.36991,-5.02894 0.66286,-1.41591 h -1.36992 l -4.10976,1.80651 -0.35352,1.07414 h 1.06058 z" />
       </g>
       <path
@@ -8453,11 +8454,11 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          d="m 199.88979,147.07119 -2.98402,0.97869 -1.40085,8.92807 8.76969,-4e-5 -1.40096,-8.92791 z"
          id="path5763-6-6-2-4"
          inkscape:connector-curvature="0"
-         style="opacity:0.98999999;fill:#ff0000;fill-opacity:1;stroke-width:1.66307735;filter:url(#filter6863)" />
+         style="opacity:0.99;fill:#ff0000;fill-opacity:1;stroke-width:1.66308;filter:url(#filter6863)" />
       <g
          transform="translate(-0.3012336,91.924595)"
          id="g4440-8"
-         style="opacity:0.98999999;stroke:#ff0000;stroke-opacity:1;filter:url(#filter6863)">
+         style="opacity:0.99;stroke:#ff0000;stroke-opacity:1;filter:url(#filter6863)">
         <path
            style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            inkscape:connector-curvature="0"
@@ -8692,54 +8693,54 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
       </g>
     </g>
     <g
-       style="opacity:0.98999999"
+       style="opacity:0.99"
        id="g5699-4"
-       transform="rotate(-180,199.95546,134.45043)">
+       transform="rotate(180,200.33046,134.45043)">
       <g
          transform="matrix(0.80796188,0,0,0.83193791,-159.69084,-118.81718)"
          id="text1615-5-11"
-         style="font-size:0.42519981px;visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:36.7177124;stroke-linejoin:round;filter:url(#filter5206-1)">
+         style="font-size:0.4252px;visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:36.7177;stroke-linejoin:round;filter:url(#filter5206-1)">
         <path
            id="path4597-3"
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:36.7177124"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:36.7177"
            d="m 461.27099,174.61868 q -0.13184,0.43946 -1.09864,1.27443 -0.92286,0.79102 -1.18654,1.23047 -0.13183,1.14259 -0.13183,2.63674 0,2.24123 0.30762,6.72368 0.35156,4.43851 0.35156,6.67974 0,1.40626 -0.17578,3.07619 -0.17578,0.21973 -1.27442,2.76857 -0.79102,1.80177 -1.88967,2.19728 -1.36231,-0.30762 -2.54884,-1.49415 -0.70313,-0.9668 -2.19728,-2.76857 -1.0547,-1.01075 -2.10939,-2.06545 -1.36232,-1.36231 -1.40626,-2.417 2.5049,1.09864 4.5264,1.09864 0.79102,0 1.49415,-0.17579 0.0439,-1.40626 0.0439,-2.76857 0,-1.36231 -0.0439,-2.76857 -2.9883,-1.40626 -5.84477,-1.40626 -6.32817,0 -12.56845,3.16408 l -0.74707,-0.21973 q -0.30762,5.97661 -1.23048,8.12994 -0.39551,0.92286 -1.4502,1.84572 -1.97756,-0.17579 -1.97756,-3.99905 0,-0.92286 0.92286,-6.85552 0.92286,-5.9766 0.87891,-9.75593 v -1.14258 l -1.40626,-2.28518 0.17579,-0.39551 1.75782,0.30762 q 5.18558,-1.09864 8.04205,-2.81252 3.03225,-1.80177 6.24028,-5.84476 -0.61524,-0.52735 -1.36232,-1.5381 -7.9981,6.5479 -11.03035,6.85552 -1.36231,0.13183 -3.25197,0.13183 -1.80177,0 -2.59279,-0.65918 7.69048,-3.03225 13.4913,-10.10749 0.0879,-0.30762 0.0879,-0.61524 0,-0.4834 -0.17578,-0.96681 l 0.30762,-0.39551 q 0.79102,-0.26367 1.49415,-0.26367 1.14259,0 2.85646,0.87891 1.75783,0.87891 2.19729,1.84572 l -0.96681,1.31837 q 0.65919,0.43945 3.12014,0.43945 1.18653,0 3.29592,2.24123 -0.0879,1.58204 -0.83496,2.0215 -0.79103,0.26367 -2.24123,0.79102 -2.37306,1.01075 -3.29592,2.72463 1.53809,-0.39551 3.03224,-0.79102 1.88967,-0.43946 3.0762,-0.43946 0.79102,0 2.94435,1.0547 1.84572,0.87891 2.85647,1.58204 1.05469,0.70313 1.5381,1.9336 z m -7.25103,2.28518 v -2.32912 q -0.35157,-0.83497 -1.80177,-0.83497 -1.97755,0 -5.84477,0.96681 1.14259,0.79102 0.96681,1.62598 1.84571,-0.39551 2.417,-0.39551 1.88967,0 4.26273,0.96681 z m -0.21973,6.50395 q -0.0439,-2.63674 0,-4.70218 -0.61524,0.83496 -2.0215,1.01075 -0.30762,0 -2.32911,0 h -1.01075 q -1.23048,0 -1.93361,0.65918 l -0.13184,2.68068 q 1.84572,-0.4834 3.99905,-0.4834 2.0215,0 3.42776,0.83497 z m -11.20613,-5.62504 q 0,-0.39551 -0.52735,-1.01075 -0.4834,-0.61524 -0.57129,-0.9668 -3.77932,1.53809 -6.15239,2.15333 l 0.0879,1.84572 h 0.21973 q 1.62599,0.0879 6.89946,-1.66994 0.044,-0.21972 0.044,-0.35156 z m 0.17578,5.75687 v -2.28517 q -1.09864,0.30762 -2.19728,0.5713 -1.40626,0.43945 -2.06544,0.92285 -1.5381,-0.83496 -3.20803,-2.10939 0,2.54885 -0.26368,5.22953 4.043,-1.09864 7.73443,-2.32912 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
-         style="stroke-width:1.06382978"
+         style="stroke-width:1.06383"
          transform="matrix(0.94,0,0,0.94,12.011888,7.6311156)"
          id="g4738-7">
         <g
-           style="stroke-width:1.06382978;filter:url(#filter5206-1)"
+           style="stroke-width:1.06383;filter:url(#filter5206-1)"
            id="g4440-6"
            transform="translate(0,0.4196601)">
           <path
              d="m 204.53867,54.342402 7.23521,-7.474669"
              id="path2656-2-4"
              inkscape:connector-curvature="0"
-             style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.72340417;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+             style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.7234;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
           <path
              d="m 194.6896,65.880204 -7.06696,7.449922"
              id="path2663-2-0"
              inkscape:connector-curvature="0"
-             style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.72340417;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+             style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.7234;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
           <path
              d="m 195.62465,54.342402 -7.11503,-7.474669"
              id="path2670-0-7"
              inkscape:connector-curvature="0"
-             style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.72340417;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+             style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.7234;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
           <path
              d="m 205.5384,65.880204 7.23521,7.449922"
              id="path2677-3-5"
              inkscape:connector-curvature="0"
-             style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.72340417;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+             style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.7234;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
         </g>
         <path
            sodipodi:nodetypes="cccccc"
            d="m 200.1563,55.071404 -2.98402,0.978699 -1.40084,8.928057 8.76968,-3.6e-5 -1.40095,-8.927906 z"
            id="path5763-6-1-4"
            inkscape:connector-curvature="0"
-           style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke-width:1.7692312;filter:url(#filter5206-1)" />
+           style="opacity:0.99;fill:#000000;fill-opacity:1;stroke-width:1.76923;filter:url(#filter5206-1)" />
       </g>
     </g>
     <g
@@ -9206,38 +9207,38 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
       </g>
     </g>
     <g
-       style="opacity:0.98999999"
+       style="opacity:0.99"
        id="g4739-6"
-       transform="rotate(-180,199.88178,223.48333)">
+       transform="rotate(180,200.25678,223.48333)">
       <path
          d="m 207.53044,152.02477 v 0 -0.12043 l 0.0241,-0.12044 v -0.12043 l 0.0241,-0.12044 0.0241,-0.12043 0.0481,-0.12043 0.0481,-0.12044 0.0241,-0.12042 0.0722,-0.0964 0.0481,-0.12043 0.0722,-0.0964 0.0722,-0.12042 0.0722,-0.0964 0.0722,-0.0964 0.0963,-0.0723 0.0722,-0.0964 0.0963,-0.0723 0.0963,-0.0722 0.12039,-0.0723 0.0963,-0.0723 0.12038,-0.0482 0.0963,-0.0722 0.12039,-0.0241 0.12038,-0.0481 0.12039,-0.0481 0.12039,-0.0241 0.12038,-0.0241 h 0.12039 l 0.12039,-0.0241 h 0.12039 v 0 h 0.12039 l 0.12038,0.0241 h 0.12039 l 0.12038,0.0241 0.12039,0.0241 0.1204,0.0481 0.12039,0.0481 0.12038,0.0241 0.0963,0.0722 0.12038,0.0482 0.0963,0.0723 0.1204,0.0723 0.0963,0.0722 0.0963,0.0723 0.0722,0.0964 0.0963,0.0723 0.0722,0.0964 0.0722,0.0964 0.0722,0.12042 0.0722,0.0964 0.0482,0.12043 0.0722,0.0964 0.0241,0.12042 0.0481,0.12044 0.0481,0.12043 0.0241,0.12043 0.0241,0.12044 v 0.12043 l 0.0241,0.12044 v 0.12043 h -0.0241 v 0.12044 l -0.0241,0.12043 v 0.12043 l -0.0241,0.12043 -0.0241,0.12045 -0.0481,0.12043 -0.0241,0.12042 -0.0481,0.12044 -0.0722,0.0963 -0.0481,0.12044 -0.0722,0.0963 -0.0481,0.0964 -0.0963,0.0963 -0.0722,0.0964 -0.0722,0.0964 -0.0963,0.0723 -0.0963,0.0963 -0.0963,0.0723 -0.0963,0.0722 -0.0963,0.0723 -0.12038,0.0481 -0.0963,0.0481 -0.12038,0.0482 -0.12039,0.0481 -0.12039,0.0241 -0.12039,0.0481 -0.12038,0.0241 h -0.12039 l -0.12039,0.0241 h -0.12039 v -0.0241 h -0.12039 l -0.12038,-0.0241 h -0.12039 l -0.12038,-0.0241 -0.1204,-0.0241 -0.12038,-0.0481 -0.12039,-0.0241 -0.12039,-0.0482 -0.0963,-0.0723 -0.12038,-0.0481 -0.0963,-0.0723 -0.0963,-0.0481 -0.0963,-0.0964 -0.0963,-0.0723 -0.0963,-0.0723 -0.0722,-0.0964 -0.0963,-0.0964 -0.0722,-0.0963 -0.0722,-0.0964 -0.0722,-0.0963 -0.0481,-0.12045 -0.0482,-0.0963 -0.0481,-0.12043 -0.0481,-0.12043 -0.0241,-0.12043 -0.0481,-0.12045 -0.0241,-0.12043 v -0.12043 l -0.0241,-0.12043 v -0.12043 0 z"
          id="path2544-2-3"
          inkscape:connector-curvature="0"
-         style="visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.68031979;stroke-linejoin:round;filter:url(#filter6863-6)" />
+         style="visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.68032;stroke-linejoin:round;filter:url(#filter6863-6)" />
       <path
          d="m 187.53044,152.02477 v 0 -0.12043 l 0.0241,-0.12044 v -0.12043 l 0.0241,-0.12044 0.0241,-0.12043 0.0481,-0.12043 0.0481,-0.12044 0.0241,-0.12042 0.0722,-0.0964 0.0482,-0.12043 0.0722,-0.0964 0.0722,-0.12042 0.0722,-0.0964 0.0722,-0.0964 0.0963,-0.0723 0.0722,-0.0964 0.0963,-0.0723 0.0963,-0.0722 0.12039,-0.0723 0.0963,-0.0723 0.12038,-0.0482 0.0963,-0.0722 0.12038,-0.0241 0.1204,-0.0481 0.12038,-0.0481 0.12039,-0.0241 0.12039,-0.0241 h 0.12038 l 0.1204,-0.0241 h 0.12038 v 0 h 0.12039 l 0.12038,0.0241 h 0.12039 l 0.12039,0.0241 0.12039,0.0241 0.12038,0.0481 0.12039,0.0481 0.12038,0.0241 0.0963,0.0722 0.12039,0.0482 0.0963,0.0723 0.1204,0.0723 0.0963,0.0722 0.0963,0.0723 0.0722,0.0964 0.0963,0.0723 0.0722,0.0964 0.0722,0.0964 0.0722,0.12042 0.0722,0.0964 0.0481,0.12043 0.0722,0.0964 0.0241,0.12042 0.0481,0.12044 0.0481,0.12043 0.0241,0.12043 0.0241,0.12044 v 0.12043 l 0.0241,0.12044 v 0.12043 h -0.0241 v 0.12044 l -0.0241,0.12043 v 0.12043 l -0.0241,0.12043 -0.0241,0.12045 -0.0481,0.12043 -0.0241,0.12042 -0.0481,0.12044 -0.0722,0.0963 -0.0481,0.12044 -0.0722,0.0963 -0.0481,0.0964 -0.0963,0.0963 -0.0722,0.0964 -0.0722,0.0964 -0.0963,0.0723 -0.0963,0.0963 -0.0963,0.0723 -0.0963,0.0722 -0.0963,0.0723 -0.12038,0.0481 -0.0963,0.0481 -0.12039,0.0482 -0.12039,0.0481 -0.12038,0.0241 -0.12039,0.0481 -0.12039,0.0241 h -0.12039 l -0.12038,0.0241 h -0.12039 v -0.0241 h -0.12038 l -0.1204,-0.0241 h -0.12039 l -0.12038,-0.0241 -0.12039,-0.0241 -0.12038,-0.0481 -0.1204,-0.0241 -0.12038,-0.0482 -0.0963,-0.0723 -0.12038,-0.0481 -0.0963,-0.0723 -0.0963,-0.0481 -0.0963,-0.0964 -0.0963,-0.0723 -0.0963,-0.0723 -0.0722,-0.0964 -0.0963,-0.0964 -0.0722,-0.0963 -0.0722,-0.0964 -0.0722,-0.0963 -0.0482,-0.12045 -0.0481,-0.0963 -0.0481,-0.12043 -0.0481,-0.12043 -0.0241,-0.12043 -0.0481,-0.12045 -0.0241,-0.12043 v -0.12043 l -0.0241,-0.12043 v -0.12043 0 z"
          id="path2553-9-7"
          inkscape:connector-curvature="0"
-         style="visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.68031979;stroke-linejoin:round;filter:url(#filter6863-6)" />
+         style="visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.68032;stroke-linejoin:round;filter:url(#filter6863-6)" />
       <path
-         style="visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.68031979;stroke-linejoin:round;filter:url(#filter6863-6)"
+         style="visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.68032;stroke-linejoin:round;filter:url(#filter6863-6)"
          inkscape:connector-curvature="0"
          id="path2562-13-8"
          d="m 197.53046,141.02445 v 0 -0.12043 l 0.0241,-0.12044 v -0.12042 l 0.0241,-0.12044 0.0241,-0.12043 0.0481,-0.12043 0.0481,-0.12043 0.0241,-0.12044 0.0722,-0.0963 0.0481,-0.12042 0.0722,-0.0964 0.0722,-0.12043 0.0722,-0.0964 0.0722,-0.0963 0.0963,-0.0723 0.0722,-0.0964 0.0963,-0.0723 0.0963,-0.0723 0.1204,-0.0722 0.0963,-0.0723 0.12038,-0.0481 0.0963,-0.0723 0.12037,-0.0241 0.1204,-0.0482 0.12037,-0.0482 0.1204,-0.0241 0.12039,-0.0241 h 0.12039 l 0.12038,-0.0241 h 0.12039 v 0 h 0.12039 l 0.12038,0.0241 h 0.12039 l 0.12038,0.0241 0.12039,0.0241 0.12039,0.0482 0.12039,0.0482 0.12038,0.0241 0.0963,0.0723 0.12038,0.0481 0.0963,0.0723 0.12038,0.0722 0.0963,0.0723 0.0963,0.0723 0.0722,0.0964 0.0963,0.0723 0.0722,0.0963 0.0722,0.0964 0.0722,0.12043 0.0722,0.0964 0.0482,0.12042 0.0722,0.0963 0.0241,0.12044 0.0481,0.12043 0.0481,0.12043 0.0241,0.12043 0.0241,0.12044 v 0.12042 l 0.0241,0.12044 v 0.12043 h -0.0241 v 0.12044 l -0.0241,0.12043 v 0.12043 l -0.0241,0.12042 -0.0241,0.12043 -0.0481,0.12044 -0.0241,0.12043 -0.0481,0.12044 -0.0722,0.0963 -0.0482,0.12043 -0.0722,0.0964 -0.0481,0.0963 -0.0963,0.0964 -0.0722,0.0963 -0.0722,0.0964 -0.0963,0.0722 -0.0963,0.0964 -0.0963,0.0722 -0.0963,0.0723 -0.0963,0.0723 -0.12039,0.0481 -0.0963,0.0481 -0.12038,0.0482 -0.12039,0.0481 -0.12039,0.0241 -0.12038,0.0482 -0.12039,0.0241 h -0.12038 l -0.12039,0.0241 h -0.12039 v -0.0241 h -0.12039 l -0.12039,-0.0241 h -0.12039 l -0.12038,-0.0241 -0.1204,-0.0241 -0.12039,-0.0481 -0.12038,-0.0241 -0.12039,-0.0482 -0.0963,-0.0723 -0.1204,-0.0481 -0.0963,-0.0723 -0.0963,-0.0482 -0.0963,-0.0963 -0.0963,-0.0723 -0.0963,-0.0722 -0.0722,-0.0964 -0.0963,-0.0963 -0.0722,-0.0964 -0.0722,-0.0963 -0.0722,-0.0963 -0.0481,-0.12044 -0.0481,-0.0963 -0.0481,-0.12044 -0.0481,-0.12042 -0.0241,-0.12045 -0.0481,-0.12042 -0.0241,-0.12043 v -0.12043 l -0.0241,-0.12043 v -0.12044 0 z" />
       <path
-         style="visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.68031979;stroke-linejoin:round;filter:url(#filter6863-6)"
+         style="visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.68032;stroke-linejoin:round;filter:url(#filter6863-6)"
          inkscape:connector-curvature="0"
          id="path2571-4-5"
          d="m 197.53045,163.02444 v 0 -0.12044 l 0.0241,-0.12044 v -0.12043 l 0.0241,-0.12043 0.0241,-0.12043 0.0481,-0.12044 0.0481,-0.12043 0.0241,-0.12043 0.0722,-0.0964 0.0481,-0.12044 0.0722,-0.0963 0.0722,-0.12043 0.0722,-0.0964 0.0722,-0.0964 0.0963,-0.0722 0.0722,-0.0964 0.0963,-0.0723 0.0963,-0.0722 0.1204,-0.0723 0.0963,-0.0723 0.12039,-0.0481 0.0963,-0.0723 0.12037,-0.0241 0.1204,-0.0482 0.12037,-0.0481 0.1204,-0.0241 0.12039,-0.0241 h 0.12038 l 0.12038,-0.0241 h 0.12039 v 0 h 0.12039 l 0.12038,0.0241 h 0.12039 l 0.12038,0.0241 0.12039,0.0241 0.12039,0.0481 0.12039,0.0482 0.12038,0.0241 0.0963,0.0723 0.12038,0.0481 0.0963,0.0723 0.12039,0.0723 0.0963,0.0722 0.0963,0.0723 0.0722,0.0964 0.0963,0.0722 0.0722,0.0964 0.0722,0.0964 0.0722,0.12043 0.0722,0.0963 0.0482,0.12044 0.0722,0.0964 0.0241,0.12043 0.0481,0.12043 0.0481,0.12044 0.0241,0.12043 0.0241,0.12043 v 0.12043 l 0.0241,0.12044 v 0.12044 h -0.0241 v 0.12043 l -0.0241,0.12043 v 0.12043 l -0.0241,0.12044 -0.0241,0.12043 -0.0481,0.12044 -0.0241,0.12043 -0.0481,0.12044 -0.0722,0.0963 -0.0482,0.12043 -0.0722,0.0964 -0.0481,0.0963 -0.0963,0.0964 -0.0722,0.0964 -0.0722,0.0964 -0.0963,0.0723 -0.0963,0.0964 -0.0963,0.0723 -0.0963,0.0722 -0.0963,0.0723 -0.12039,0.0481 -0.0963,0.0481 -0.12038,0.0481 -0.12039,0.0481 -0.12039,0.0241 -0.12038,0.0481 -0.12039,0.0241 h -0.12038 l -0.12039,0.0241 h -0.12038 v -0.0241 h -0.12039 l -0.12039,-0.0241 h -0.12039 l -0.12038,-0.0241 -0.1204,-0.0241 -0.12039,-0.0482 -0.12038,-0.0241 -0.12039,-0.0482 -0.0963,-0.0723 -0.1204,-0.0481 -0.0963,-0.0723 -0.0963,-0.0481 -0.0963,-0.0963 -0.0963,-0.0723 -0.0963,-0.0723 -0.0722,-0.0963 -0.0963,-0.0964 -0.0722,-0.0964 -0.0722,-0.0963 -0.0722,-0.0964 -0.0481,-0.12044 -0.0481,-0.0963 -0.0481,-0.12043 -0.0481,-0.12043 -0.0241,-0.12044 -0.0481,-0.12044 -0.0241,-0.12043 v -0.12043 l -0.0241,-0.12044 v -0.12043 0 z" />
       <g
          transform="matrix(0.73725938,0,0,0.73537578,-125.41374,-231.06999)"
          id="text2754-6-1"
-         style="font-size:0.42519981px;visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:40.88384628;stroke-linejoin:round;filter:url(#filter6863-6)">
+         style="font-size:0.4252px;visibility:hidden;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:40.8838;stroke-linejoin:round;filter:url(#filter6863-6)">
         <path
            sodipodi:nodetypes="cscsccsscccccccccccssscccccscccccccccsscccccccccccccccccccccscccccszssaacccccccccccccccccccccscccccccccccsccccccccccsccccccccccccc"
            inkscape:connector-curvature="0"
            id="path29602-6"
-           style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.40743324;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.407433;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 447.70789,496.38638 c -0.25223,-1.71114 0.0829,-2.90785 0.26264,-3.44563 0.12826,-0.38384 0.0606,-1.28199 0.0606,-1.28199 0,0 0.25363,-0.97017 0.69315,-1.32663 1.69144,-1.3718 5.87739,-2.49005 5.87739,-2.49005 0.4419,-0.74865 0.72178,-1.59494 0.83962,-2.53888 0.11784,-0.97649 0.23569,-1.93671 0.35353,-2.88066 0.11784,-0.94394 0.17676,-1.90416 0.17676,-2.88065 v -2.92948 l -2.3863,-2.83183 h -9.63362 c -1.38465,0.22785 -2.71038,0.40688 -3.97718,0.53707 -1.23734,0.0976 -2.48942,0.27668 -3.75623,0.53708 -1.26681,0.22785 -2.47469,0.65099 -3.62366,1.26944 -1.14896,0.58589 -2.41577,0.87884 -3.80041,0.87884 v -1.07414 l 0.66286,-2.53888 -0.30934,-3.22243 0.70706,-5.02893 c -0.47137,-0.2604 -0.76598,-0.56962 -0.88382,-0.92767 l -0.35352,-1.07414 c -0.11784,-0.35805 -0.17677,-0.7161 -0.17677,-1.07415 v -1.26944 l 0.70705,-2.49005 2.73984,-1.07414 c 0.23569,0.45569 0.51556,0.86256 0.83963,1.22061 0.35352,0.35805 0.58921,0.78119 0.70705,1.26944 0.14731,0.48825 0.22096,1.04159 0.22096,1.66004 v 1.56239 h 0.66286 l 5.47968,-1.07414 0.35352,-2.49006 -2.38631,-0.73237 -3.09336,1.07414 -0.35353,-3.27125 1.01639,-1.75768 9.98714,-0.73237 c 0.47138,0.22785 0.98694,0.34177 1.54669,0.34177 0.55975,0 1.07531,0.0651 1.54668,0.1953 0.47137,0.1302 0.86908,0.30922 1.19315,0.53707 0.35353,0.22785 0.75125,0.60217 1.19316,1.12297 l 0.35352,2.14828 h -4.8168 l -1.0164,-0.3906 -1.06058,0.3906 v 0.68354 l 0.35353,2.14829 5.8774,0.73237 0.30933,1.46473 -1.32573,0.34178 -4.861,-0.34178 -1.36991,0.34178 v 2.88065 l 2.43049,0.3906 1.0164,-0.3906 4.10975,1.07414 0.35352,1.46474 -8.21951,0.68354 v 1.85534 h 4.28652 4.46329 c 1.50249,0 2.93133,0.11392 4.28651,0.34177 1.38465,0.22785 2.63673,0.69983 3.75623,1.41592 l 0.75124,2.14828 c -0.50083,1.69259 -0.86908,3.38517 -1.10477,5.07776 -0.20623,1.69259 -0.42718,3.3689 -0.66286,5.02894 -0.20622,1.66003 -0.42718,3.38517 -0.66286,5.17541 -0.23569,1.79023 -1.147,2.41929 -2.0669,3.04792 -0.91989,0.62864 -0.87493,0.56711 -2.74991,1.44394 -0.47381,0.22157 -0.94365,0.40293 -1.41412,0.53707 -0.44284,0.12626 -0.91043,0.16268 -1.36991,0.1953 -0.4557,0.0324 -0.91609,-0.0559 -1.36991,0 -0.46526,0.0573 -0.89856,0.11392 -1.36993,0.34177 z m -23.37699,-5.32188 -1.01639,-1.46474 h -0.66286 l -0.70705,-3.95479 0.35353,-2.19711 -0.35353,-1.07414 3.04917,-0.29295 1.10477,2.49006 z m 9.63362,-0.73237 v -0.34177 l -1.72344,-1.07414 v -0.7812 h -0.66287 l -1.72344,-6.83544 0.35352,-0.68355 h 1.36992 l 2.07697,1.07414 c 0.20622,0.2604 0.36826,0.56962 0.4861,0.92767 0.11784,0.35805 0.23568,0.65099 0.35353,0.87884 0.11784,0.22785 0.17676,0.5859 0.17676,1.07415 v 1.07414 z m 14.45042,-1.80651 -3.09336,-3.61302 -1.06058,-5.76131 h 1.41411 l 2.73983,3.22243 0.30934,6.1519 z m -9.63361,-0.3906 c -0.23569,-0.45569 -0.58922,-0.97649 -1.06058,-1.56238 -0.44192,-0.61845 -0.66287,-1.28572 -0.66287,-2.00181 0,-0.74865 -0.11784,-1.41592 -0.35353,-2.00181 -0.23568,-0.5859 -0.35352,-1.2369 -0.35352,-1.95299 l 1.4141,-0.3906 2.03279,1.07415 1.01639,3.61302 -1.32573,3.22242 z m 1.72344,-17.28391 0.30934,-0.34178 c -0.20623,-0.22785 -0.42718,-0.45569 -0.66287,-0.68354 -0.23568,-0.2604 -0.47136,-0.3906 -0.70705,-0.3906 h -0.83963 -0.83963 l -4.50747,1.41592 -0.66286,2.53888 h 1.36992 z m -1.36991,-5.02894 0.66286,-1.41591 h -1.36992 l -4.10976,1.80651 -0.35352,1.07414 h 1.06058 z" />
       </g>
       <path
@@ -9245,11 +9246,11 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          d="m 199.88979,147.07119 -2.98402,0.97869 -1.40085,8.92807 8.76969,-4e-5 -1.40096,-8.92791 z"
          id="path5763-6-6-2-4-6"
          inkscape:connector-curvature="0"
-         style="opacity:0.98999999;fill:#ff0000;fill-opacity:1;stroke-width:1.66307735;filter:url(#filter6863-6)" />
+         style="opacity:0.99;fill:#ff0000;fill-opacity:1;stroke-width:1.66308;filter:url(#filter6863-6)" />
       <g
          transform="translate(-0.3012336,91.924595)"
          id="g4440-8-4"
-         style="opacity:0.98999999;stroke:#ff0000;stroke-opacity:1;filter:url(#filter6863-6)">
+         style="opacity:0.99;stroke:#ff0000;stroke-opacity:1;filter:url(#filter6863-6)">
         <path
            style="visibility:hidden;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            inkscape:connector-curvature="0"

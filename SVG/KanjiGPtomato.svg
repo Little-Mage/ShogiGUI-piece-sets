@@ -12,9 +12,9 @@
    height="360"
    version="1.1"
    id="svg1717"
-   sodipodi:docname="CtomatoKanjiGP.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="C:\Users\Alan\Documents\GitHub\ShogiGUI-piece-sets\PNG\CtomatoKanjiGP.png"
+   sodipodi:docname="KanjiGPtomato.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="C:\Users\ninja\Documents\GitHub\ShogiGUI-piece-sets\PNG\KanjiGPtomato.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -5344,15 +5344,16 @@
      inkscape:window-height="705"
      id="namedview1719"
      showgrid="false"
-     inkscape:zoom="2.5618055"
-     inkscape:cx="317.16888"
+     inkscape:zoom="1.2746914"
+     inkscape:cx="324"
      inkscape:cy="180"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:snap-global="true"
-     showguides="false" />
+     showguides="false"
+     inkscape:document-rotation="0" />
   <!--
 Created by Hari Seldon and modified by orangain, licensed under Creative Commons Attribution-Share Alike 3.0 Unported.
 See: https://creativecommons.org/licenses/by-sa/3.0/deed.en

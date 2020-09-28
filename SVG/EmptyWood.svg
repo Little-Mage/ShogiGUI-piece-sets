@@ -13,7 +13,7 @@
    version="1.1"
    id="svg1717"
    sodipodi:docname="EmptyWood.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="C:\Users\Alan\Documents\GitHub\ShogiGUI-piece-sets\PNG\CtomatoKanjiP.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -1541,7 +1541,8 @@
      inkscape:snap-global="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:lockguides="false">
+     inkscape:lockguides="false"
+     inkscape:document-rotation="0">
     <sodipodi:guide
        position="0,360"
        orientation="0,1"
@@ -2139,7 +2140,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g3790"
        style="filter:url(#filter4059)"
-       transform="translate(0,-2)">
+       transform="translate(0.75,-2)">
       <g
          id="g3995">
         <g
@@ -2164,19 +2165,19 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
            inkscape:connector-curvature="0"
            id="path1890-5-62"
            d="m 168.26651,80.049134 v 5.66852 l 63.77953,-3.7e-5 v -5.668749 z"
-           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:0.29999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#c3983c;fill-opacity:0.992157;stroke:none;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <path
          sodipodi:nodetypes="cccccc"
          d="m 200.15828,8.0012637 -21.70197,7.1178103 -10.18796,64.93132 63.77953,-2.6e-4 -10.18873,-64.93022 z"
          id="path5763-6-7-6"
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:url(#linearGradient54948-6-5);fill-opacity:1;stroke-width:1.66307735" />
+         style="opacity:1;fill:url(#linearGradient54948-6-5);fill-opacity:1;stroke-width:1.66308" />
     </g>
     <g
        id="g3850"
        style="filter:url(#filter4047)"
-       transform="translate(0,-2)">
+       transform="translate(0.75,-2)">
       <g
          id="g4054">
         <g
@@ -2200,10 +2201,10 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
            inkscape:connector-curvature="0"
            id="path1890-5-9"
            d="m 168.00001,170.04913 v 5.66852 l 63.77953,-3e-5 v -5.66875 z"
-           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:0.29999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#c3983c;fill-opacity:0.992157;stroke:none;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <path
-         style="opacity:1;fill:url(#linearGradient54948-22);fill-opacity:1;stroke-width:1.59275889"
+         style="opacity:1;fill:url(#linearGradient54948-22);fill-opacity:1;stroke-width:1.59276"
          inkscape:connector-curvature="0"
          id="path5763-72-5"
          d="M 199.89152,97.999374 178.80344,104.57626 168,170.0485 l 63.77953,-2.6e-4 -10.8036,-65.47313 z"
@@ -2284,7 +2285,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g3917"
        style="filter:url(#filter4299)"
-       transform="translate(0,-2)">
+       transform="translate(0.75,-2)">
       <g
          id="g3890">
         <g
@@ -2307,11 +2308,11 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
              inkscape:connector-curvature="0"
              id="path9418-4-6-3-8-9-6"
              d="m 178.81047,259.20188 v -3.77953 l 21.34598,6.79812 21.34565,-6.79801 V 259.202 L 200.15645,266 Z"
-             style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="opacity:1;fill:#c3983c;fill-opacity:0.992157;stroke:none;stroke-width:1.58881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              sodipodi:nodetypes="ccccccc" />
         </g>
         <path
-           style="opacity:1;fill:url(#linearGradient14805);fill-opacity:1;stroke-width:1.57525122"
+           style="opacity:1;fill:url(#linearGradient14805);fill-opacity:1;stroke-width:1.57525"
            inkscape:connector-curvature="0"
            d="m 200.15829,262.21984 21.34565,-6.79801 10.54394,-65.25095 -63.77953,-1.7e-4 10.54396,65.25101 z"
            id="path7760-8"
@@ -2321,7 +2322,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g3973"
        style="filter:url(#filter4287)"
-       transform="translate(0,-2)">
+       transform="translate(0.75,-2)">
       <g
          id="g4166">
         <g
@@ -2340,7 +2341,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
         </g>
         <path
            sodipodi:nodetypes="ccccccc"
-           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="opacity:1;fill:#c3983c;fill-opacity:0.992157;stroke:none;stroke-width:1.58881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 178.82239,349.43947 v -3.77953 l 21.06721,6.56053 21.06744,-6.5606 v 3.77954 L 199.8896,356 Z"
            id="path9418-4-6-3-8-9-6-6"
            inkscape:connector-curvature="0" />
@@ -2350,7 +2351,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          id="path7760-29-9"
          d="m 199.8896,352.22173 21.06743,-6.56059 10.8225,-65.48838 -63.77953,-1.7e-4 10.82238,65.48862 z"
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:url(#linearGradient31968);fill-opacity:1;stroke-width:1.57523978" />
+         style="opacity:1;fill:url(#linearGradient31968);fill-opacity:1;stroke-width:1.57524" />
     </g>
     <g
        id="g3882"
