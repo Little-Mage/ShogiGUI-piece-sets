@@ -1530,7 +1530,7 @@
      inkscape:window-height="705"
      id="namedview1719"
      showgrid="false"
-     inkscape:zoom="1.3222222"
+     inkscape:zoom="1.4305556"
      inkscape:cx="324"
      inkscape:cy="180"
      inkscape:window-x="-8"
@@ -1542,34 +1542,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:lockguides="false"
-     inkscape:document-rotation="0">
-    <sodipodi:guide
-       position="0,360"
-       orientation="0,1"
-       id="guide1818"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="0,360"
-       orientation="1,0"
-       id="guide1820"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="0,1"
-       id="guide1854"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="648,360"
-       orientation="1,0"
-       id="guide2243"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-  </sodipodi:namedview>
+     inkscape:document-rotation="0" />
   <!--
 Created by Hari Seldon and modified by orangain, licensed under Creative Commons Attribution-Share Alike 3.0 Unported.
 See: https://creativecommons.org/licenses/by-sa/3.0/deed.en
