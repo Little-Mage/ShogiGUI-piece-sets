@@ -10,10 +10,8 @@
 
 The sets are scaled 5/8 the size of physical pieces.
 
-A Custom Hidetchi set with filled in pieces made by me with a little inspiration from this set made by CouchTomato.
+Western set made by me with a little inspiration from this set made by CouchTomato.
 https://preview.redd.it/rjpex8xjogx21.png?width=648&format=png&auto=webp&s=9cc6b1e1ef606683a91f5da92a86767be1c2ed81
-
-Hidetchi made by CouchTomato, but I made many fixes such as symmetry and remade some symbols from scratch.
 
 CouchTomato's latest international sets
 
