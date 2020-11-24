@@ -11,7 +11,7 @@
    height="360"
    version="1.1"
    id="svg1717"
-   sodipodi:docname="HidetchiD.svg"
+   sodipodi:docname="Hidetchi.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="C:\Users\ninja\Documents\GitHub\ShogiGUI-piece-sets\PNG\HidetchiD.png"
    inkscape:export-xdpi="96"
@@ -15819,7 +15819,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g3995"
        style="filter:url(#filter4339)"
-       transform="translate(0.75,-2)">
+       transform="translate(1.7334435,-2)">
       <g
          style="opacity:1"
          transform="matrix(1.05,0,0,1.05,-10.233486,-5.1033343)"
@@ -15853,7 +15853,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g4093"
        style="filter:url(#filter4483)"
-       transform="translate(0.75,-2)">
+       transform="translate(1.7334365,-2)">
       <g
          style="opacity:1"
          transform="matrix(1.0403371,0,0,1.0102223,-8.6420546,-2.1920241)"
@@ -16118,7 +16118,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g4054"
        style="filter:url(#filter4219)"
-       transform="translate(0.75,-2)">
+       transform="translate(1.9999478,-2)">
       <g
          style="opacity:1"
          transform="matrix(1.05,0,0,1.05,-10.504781,-8.7700256)"
@@ -16269,7 +16269,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g4166"
        style="filter:url(#filter4423)"
-       transform="translate(0.75,-2)">
+       transform="translate(1.9999454,-2)">
       <g
          style="opacity:1"
          transform="matrix(1.05,0,0,1.05,-10.550134,-15.281045)"
@@ -16579,7 +16579,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.966437;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5981)"
-       transform="matrix(1.8107759,0,0,-1.8107759,-32.20575,467.05307)"
+       transform="matrix(1.8107759,0,0,-1.8107759,-31.222306,467.05307)"
        id="g21047">
       <g
          transform="matrix(0.37232884,0,0,-0.37232884,39.916857,261.54039)"
@@ -17697,7 +17697,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g4841"
-       transform="translate(-1.2203662,-3.645845)"
+       transform="translate(0.02958162,-3.645845)"
        style="opacity:0.99;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter3014)">
       <g
          id="g4734"
@@ -18102,7 +18102,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g21047-0"
-       transform="matrix(-1.8107759,0,0,1.8107759,434.01831,-200.8326)"
+       transform="matrix(-1.8107759,0,0,1.8107759,435.00175,-200.8326)"
        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.966437;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5981-1)">
       <g
          style="fill:none;stroke:#000000;stroke-width:2.59565;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -18822,7 +18822,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        style="opacity:0.99;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter3122)"
-       transform="rotate(180,201.56629,224.93315)"
+       transform="rotate(180,202.19126,224.93315)"
        id="g4841-1">
       <g
          style="stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none"

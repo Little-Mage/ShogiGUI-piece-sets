@@ -11,7 +11,7 @@
    height="360"
    version="1.1"
    id="svg1717"
-   sodipodi:docname="HidetchiFD.svg"
+   sodipodi:docname="HidetchiBF.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="C:\Users\ninja\Documents\GitHub\ShogiGUI-piece-sets\PNG\HidetchiFDP.png"
    inkscape:export-xdpi="96"
@@ -12221,7 +12221,7 @@
      id="namedview1719"
      showgrid="false"
      inkscape:zoom="1.1512346"
-     inkscape:cx="324"
+     inkscape:cx="175.89813"
      inkscape:cy="180"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -13264,7 +13264,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g3995"
        style="filter:url(#filter4339)"
-       transform="translate(0.75,-2)">
+       transform="translate(1.733487,-2)">
       <g
          style="opacity:1"
          transform="matrix(1.05,0,0,1.05,-10.233486,-5.1033343)"
@@ -13296,7 +13296,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
-       transform="matrix(0.0351,0,0,0.0351,164.96347,6.9070149)"
+       transform="matrix(0.0351,0,0,0.0351,165.94696,6.9070149)"
        id="g4528"
        style="filter:url(#filter8568)">
       <path
@@ -13309,7 +13309,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g4093"
        style="filter:url(#filter4483)"
-       transform="translate(0.75,-2)">
+       transform="translate(1.7334365,-2)">
       <g
          style="opacity:1"
          transform="matrix(1.0403371,0,0,1.0102223,-8.6420546,-2.1920241)"
@@ -13339,7 +13339,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          sodipodi:nodetypes="ccccccc" />
     </g>
     <g
-       transform="matrix(0.0351,0,0,-0.0351,164.96347,259.31346)"
+       transform="matrix(0.0351,0,0,-0.0351,165.94691,259.31346)"
        id="g4528-3"
        style="filter:url(#filter8460)">
       <path
@@ -14195,7 +14195,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g4054"
        style="filter:url(#filter4219)"
-       transform="translate(0.75,-2)">
+       transform="translate(1.9999478,-2)">
       <g
          style="opacity:1"
          transform="matrix(1.05,0,0,1.05,-10.504781,-8.7700256)"
@@ -14680,7 +14680,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g4166"
        style="filter:url(#filter4423)"
-       transform="translate(0.75,-2)">
+       transform="translate(1.9999454,-2)">
       <g
          style="opacity:1"
          transform="matrix(1.05,0,0,1.05,-10.550134,-15.281045)"
@@ -15864,11 +15864,11 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          d="m 1401.492,1445.022 c -78.866,-27.972 -280.85,-63.49 -361.055,-63.49 -13.573,0 -8.37,-92.938 9.931,-177.41 46.541,-214.815 134.473,-397.66 231.48,-481.337 104.287,-89.958 202.425,-110.292 301.88,-62.55 101.707,48.823 168.857,126.476 192.611,222.736 11.953,48.434 12.507,65.835 3.633,113.995 -20.047,108.8 -81.379,205.359 -221.236,348.304 -109.997,112.425 -114.127,115.045 -157.244,99.752 z m 122.817,-179.66 c 134.761,-141.464 175.483,-214.462 176.192,-315.837 0.468,-67.037 -13.434,-101.836 -61.525,-154.008 -143.41,-155.581 -315.104,-83.452 -434.398,182.49 -42.62,95.015 -76.487,206.097 -82.515,270.65 -5.707,61.109 -10.232,57.493 84.804,67.766 26.597,2.875 83.221,14.376 125.83,25.557 42.609,11.181 81.974,20.75 87.477,21.263 5.502,0.513 52.363,-43.533 104.135,-97.88 z m -1001.616,113.4 C 282.854,1147.829 214.583,976.106 297.004,811.076 c 10.704,-21.434 41.003,-58.671 67.33,-82.75 103.387,-94.555 209.172,-117.574 308.992,-67.237 104.94,52.92 177.349,137.227 237.926,277.025 58.528,135.068 104.07,310.156 104.07,400.101 v 41.936 l -58.576,5.339 c -104.006,9.48 -214.781,29.587 -283.864,51.524 l -67.445,21.418 z m 186.383,-35.874 c 46.727,-11.709 106.436,-23.66 132.687,-26.558 95.023,-10.492 89.914,-6.207 83.92,-70.398 C 919.066,1175.072 869.226,1027.104 819.23,929.884 730.878,758.08 609.162,680.869 499.146,726.837 c -44.16,18.451 -116.437,87.495 -135.752,129.678 -19.051,41.607 -20.987,132.185 -3.852,180.208 22.655,63.493 71.076,130.937 164.149,228.64 51.772,54.347 95.548,98.813 97.28,98.813 1.73,0 41.378,-9.58 88.105,-21.288 z M 1003.374,949.74 C 986.852,899.184 931.321,785.544 906.06,750.596 c -13.352,-18.472 -11.901,-21.121 41.579,-75.933 38.004,-38.95 61.994,-56.792 76.361,-56.792 14.367,0 38.357,17.843 76.361,56.792 53.717,55.055 54.98,57.379 41.28,75.933 -24.021,32.532 -99.744,191.128 -105.47,220.902 -2.984,15.512 -7.919,28.175 -10.967,28.14 -3.049,-0.034 -12.872,-22.488 -21.83,-49.897 z m 56.667,-157.68 31.702,-59.818 -28.533,-31.152 c -15.694,-17.133 -33.338,-31.151 -39.21,-31.151 -5.872,0 -23.516,14.018 -39.21,31.151 l -28.533,31.152 31.702,59.818 c 17.436,32.9 33.655,59.819 36.041,59.819 2.386,0 18.605,-26.918 36.041,-59.819 z m -98.956,795.496 c -32.217,-20.136 -58.543,-38.607 -58.502,-41.046 0.04,-2.44 27.066,-21.087 60.057,-41.438 l 59.983,-37.003 61.434,36.958 c 33.79,20.327 61.434,39.462 61.434,42.522 0,4.915 -115.844,77.235 -123.008,76.792 -1.552,-0.096 -29.181,-16.65 -61.398,-36.785 z m -402.308,64.763 c 2.366,-8.133 6.963,-34.312 10.215,-58.177 8.994,-66 11.04,-67.191 62.33,-36.286 25.058,15.099 45.56,29.911 45.56,32.917 0,3.006 -27.542,21.41 -61.204,40.898 -45.117,26.12 -60.073,31.548 -56.901,20.648 z m 873.087,-20.597 c -31.023,-18.304 -57.392,-36.23 -58.598,-39.834 -2.447,-7.321 86.946,-63.409 92.389,-57.966 3.417,3.417 26.463,128.974 23.928,130.362 -0.721,0.396 -26.695,-14.257 -57.719,-32.562 z m -886.799,101.268 3.546,-30.373 h 950.779 l 3.545,30.373 3.546,30.373 H 541.519 Z" />
     </g>
     <g
-       style="display:inline;opacity:1;stroke-width:1.05495;"
+       style="display:inline;opacity:1;stroke-width:1.05495"
        id="g6025"
-       transform="matrix(-1.2892731,0,0,1.2885055,1211.1214,-112.6989)">
+       transform="matrix(-1.2892731,0,0,1.2885055,1212.3713,-112.6989)">
       <g
-         style="display:inline;stroke:#ff0000;stroke-width:1.05495;"
+         style="display:inline;stroke:#ff0000;stroke-width:1.05495"
          id="g6015-7"
          transform="translate(4.1216652,59.000004)">
         <g
@@ -15885,7 +15885,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
              inkscape:connector-curvature="0"
              id="path5999-4"
              d="m 765.51642,125.46208 c -0.23169,-1.97595 5.47366,-5.25803 5.85669,-7.8125 l -2,-2.875 3.625,1.1875 c 2.19833,-0.36277 8.68963,-3.3176 11.16637,-5.76161 0.40432,-0.39897 0.87725,-1.57719 0.89613,-1.98839 1.09223,1.59996 1.31228,1.54257 1.91678,3.04525 -1.76571,1.9765 -6.34593,3.785 -8.54178,4.81413 -3.83435,2.45525 -5.71045,5.9907 -8.98559,8.93505 z"
-             style="display:inline;fill:#fee572;fill-opacity:1;stroke:#ff0000;stroke-width:1.00862;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+             style="display:inline;fill:#fee572;fill-opacity:1;stroke:#ff0000;stroke-width:1.00862;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <path
              sodipodi:nodetypes="cscssc"
              inkscape:connector-curvature="0"
@@ -15896,13 +15896,13 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
         <g
            id="g5997-7"
            transform="matrix(0.57705753,0,0,0.57705753,833.72141,78.925308)"
-           style="display:inline;stroke:#ff0000;stroke-width:2.74223;stroke-miterlimit:4;stroke-dasharray:none;">
+           style="display:inline;stroke:#ff0000;stroke-width:2.74223;stroke-miterlimit:4;stroke-dasharray:none">
           <path
              sodipodi:nodetypes="ccccc"
              inkscape:connector-curvature="0"
              id="path5995-1"
              d="m -109.93466,84.098408 c -0.65031,1.030186 -0.2801,1.823044 -2.0241,4.697906 0.79591,0.469213 1.45281,0.05645 2.31512,-0.895721 1.3323,-1.578995 1.35473,-1.792373 -0.29099,-3.802185 z"
-             style="fill:#fee572;fill-opacity:1;stroke:#fee572;stroke-width:2.68903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.992157;" />
+             style="fill:#fee572;fill-opacity:1;stroke:#fee572;stroke-width:2.68903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.992157" />
         </g>
         <path
            style="fill:#ff0000;stroke:#ff0000;stroke-width:1.05495px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5344)"
@@ -15911,7 +15911,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccc" />
         <path
-           style="fill:none;stroke:#fee572;stroke-width:1.24138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+           style="fill:none;stroke:#fee572;stroke-width:1.24138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 780.32493,124.39281 c 9.96187,2.57909 6.12399,21.80252 9.23529,28.04287 0.14947,0.29979 0.16056,0.34675 0.22537,0.78516"
            id="path6005-2"
            inkscape:connector-curvature="0"
@@ -15921,19 +15921,19 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
            inkscape:connector-curvature="0"
            id="path6007-4"
            d="m 778.00762,135.16063 c 0.5598,-0.81951 1.40396,-2.88479 1.96375,-5.28773"
-           style="fill:none;stroke:#fee572;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+           style="fill:none;stroke:#fee572;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
            id="path6009-8"
            d="m 772.41547,125.06331 c 1.76518,-1.69811 2.43474,-3.03044 2.41396,-4.9259"
-           style="fill:none;stroke:#fee572;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+           style="fill:none;stroke:#fee572;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            sodipodi:nodetypes="ccc"
            inkscape:connector-curvature="0"
            id="path6011-8"
            d="m 775.11001,127.5748 c 0.31956,-0.076 4.56428,-2.43096 5.21492,-3.18199 -0.94673,-1.51043 0.0945,-2.66885 -10e-6,-3.97747"
-           style="fill:none;stroke:#fee572;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+           style="fill:none;stroke:#fee572;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            sodipodi:nodetypes="ccc"
            inkscape:connector-curvature="0"
@@ -15946,10 +15946,10 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          inkscape:connector-curvature="0"
          id="path6017-2"
          d="m 788.77762,185.24897 c 1.20797,-0.004 3.01257,0.14431 4.22055,0.83969"
-         style="fill:none;stroke:#fee572;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+         style="fill:none;stroke:#fee572;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
-         style="fill:none;stroke:#fee572;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         style="fill:none;stroke:#fee572;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 791.51765,191.08261 c 2.83799,0.29966 3.64163,0.49582 5.17073,1.17114"
          id="path6019-3"
          inkscape:connector-curvature="0" />
@@ -15958,10 +15958,10 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          inkscape:connector-curvature="0"
          id="path6021-9"
          d="m 792.22476,196.82785 c 1.05457,0.0264 2.29574,0.0577 5.12653,0.97227"
-         style="fill:none;stroke:#fee572;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+         style="fill:none;stroke:#fee572;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
-         style="fill:none;stroke:#fee572;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         style="fill:none;stroke:#fee572;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 792.75508,204.25247 c 1.62046,-0.22079 2.6222,0.33721 4.24266,0.79549"
          id="path6023-3"
          inkscape:connector-curvature="0" />
@@ -15969,7 +15969,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        style="display:inline;opacity:1;stroke-width:1.05495"
        id="g6025-4"
-       transform="matrix(1.2892731,0,0,-1.2885055,-809.84191,560.04722)">
+       transform="matrix(1.2892731,0,0,-1.2885055,-808.59196,560.04722)">
       <g
          style="display:inline;stroke:#ff0000;stroke-width:1.05495"
          id="g6015-7-1"
@@ -15988,7 +15988,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
              inkscape:connector-curvature="0"
              id="path5999-4-4"
              d="m 765.51642,125.46208 c -0.23169,-1.97595 5.47366,-5.25803 5.85669,-7.8125 l -2,-2.875 3.625,1.1875 c 2.19833,-0.36277 8.68963,-3.3176 11.16637,-5.76161 0.40432,-0.39897 0.87725,-1.57719 0.89613,-1.98839 1.09223,1.59996 1.31228,1.54257 1.91678,3.04525 -1.76571,1.9765 -6.34593,3.785 -8.54178,4.81413 -3.83435,2.45525 -5.71045,5.9907 -8.98559,8.93505 z"
-             style="display:inline;fill:#feec99;fill-opacity:0.99215686;stroke:#ff0000;stroke-width:1.00862;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+             style="display:inline;fill:#feec99;fill-opacity:0.992157;stroke:#ff0000;stroke-width:1.00862;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <path
              sodipodi:nodetypes="cscssc"
              inkscape:connector-curvature="0"
@@ -16005,7 +16005,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
              inkscape:connector-curvature="0"
              id="path5995-1-1"
              d="m -109.93466,84.098408 c -0.65031,1.030186 -0.2801,1.823044 -2.0241,4.697906 0.79591,0.469213 1.45281,0.05645 2.31512,-0.895721 1.3323,-1.578995 1.35473,-1.792373 -0.29099,-3.802185 z"
-             style="fill:#feec99;fill-opacity:0.99215686;stroke:#feec99;stroke-width:2.68903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99215686" />
+             style="fill:#feec99;fill-opacity:0.992157;stroke:#feec99;stroke-width:2.68903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.992157" />
         </g>
         <path
            style="fill:#ff0000;stroke:#ff0000;stroke-width:1.05495px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5344-4)"
@@ -16014,7 +16014,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccc" />
         <path
-           style="fill:none;stroke:#feec99;stroke-width:1.24138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99215686"
+           style="fill:none;stroke:#feec99;stroke-width:1.24138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.992157"
            d="m 780.32493,124.39281 c 9.96187,2.57909 6.12399,21.80252 9.23529,28.04287 0.14947,0.29979 0.16056,0.34675 0.22537,0.78516"
            id="path6005-2-3"
            inkscape:connector-curvature="0"
@@ -16024,19 +16024,19 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
            inkscape:connector-curvature="0"
            id="path6007-4-9"
            d="m 778.00762,135.16063 c 0.5598,-0.81951 1.40396,-2.88479 1.96375,-5.28773"
-           style="fill:none;stroke:#feec99;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99215686" />
+           style="fill:none;stroke:#feec99;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.992157" />
         <path
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
            id="path6009-8-2"
            d="m 772.41547,125.06331 c 1.76518,-1.69811 2.43474,-3.03044 2.41396,-4.9259"
-           style="fill:none;stroke:#feec99;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99215686" />
+           style="fill:none;stroke:#feec99;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.992157" />
         <path
            sodipodi:nodetypes="ccc"
            inkscape:connector-curvature="0"
            id="path6011-8-3"
            d="m 775.11001,127.5748 c 0.31956,-0.076 4.56428,-2.43096 5.21492,-3.18199 -0.94673,-1.51043 0.0945,-2.66885 -10e-6,-3.97747"
-           style="fill:none;stroke:#feec99;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99215686" />
+           style="fill:none;stroke:#feec99;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.992157" />
         <path
            sodipodi:nodetypes="ccc"
            inkscape:connector-curvature="0"
@@ -16049,10 +16049,10 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          inkscape:connector-curvature="0"
          id="path6017-2-3"
          d="m 788.77762,185.24897 c 1.20797,-0.004 3.01257,0.14431 4.22055,0.83969"
-         style="fill:none;stroke:#feec99;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99215686" />
+         style="fill:none;stroke:#feec99;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.992157" />
       <path
          sodipodi:nodetypes="cc"
-         style="fill:none;stroke:#feec99;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99215686"
+         style="fill:none;stroke:#feec99;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.992157"
          d="m 791.51765,191.08261 c 2.83799,0.29966 3.64163,0.49582 5.17073,1.17114"
          id="path6019-3-4"
          inkscape:connector-curvature="0" />
@@ -16061,10 +16061,10 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          inkscape:connector-curvature="0"
          id="path6021-9-2"
          d="m 792.22476,196.82785 c 1.05457,0.0264 2.29574,0.0577 5.12653,0.97227"
-         style="fill:none;stroke:#feec99;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99215686" />
+         style="fill:none;stroke:#feec99;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.992157" />
       <path
          sodipodi:nodetypes="cc"
-         style="fill:none;stroke:#feec99;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99215686"
+         style="fill:none;stroke:#feec99;stroke-width:1.08621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.992157"
          d="m 792.75508,204.25247 c 1.62046,-0.22079 2.6222,0.33721 4.24266,0.79549"
          id="path6023-3-5"
          inkscape:connector-curvature="0" />
