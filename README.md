@@ -4,7 +4,7 @@
 #### En Español https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/Descripción%20Español.md
 
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/KanjiPtomato.png">
-<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2Kanji.png">
+<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2KanjiW.png">
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/ValdiviaKanjiG.png">
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/CtomatoP.png">
 
