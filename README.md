@@ -33,6 +33,6 @@ The PNG folder contains all mentioned above in picture format.
 
 #### This repository contains CouchTomato's old wood pieces that are unfilled and the lance is also different. https://github.com/CouchTomato87/InternationalizedPieces
 
-The set titled 2kanji were grabbed from here https://github.com/orangain/shogi-piece-images
+The 2-kanji set were grabbed from here https://github.com/orangain/shogi-piece-images
 
 The kanji PNGs were shared by ShogiExplained.
