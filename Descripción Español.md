@@ -29,6 +29,6 @@ El folder PNG contiene todos los sets mencionados arriba en formato PNG.
 
 #### Este repositorio contiene las piezas de madera, no-actuales de CouchTomato que son no-rellena y también la lanza es diferente. https://github.com/CouchTomato87/InternationalizedPieces
 
-El set 2kanji fueron agarradas de aquí https://github.com/orangain/shogi-piece-images 
+Set 2-kanji  https://github.com/orangain/shogi-piece-images 
 
-Los PNGs de kanji fueron compartidos por ShogiExplained.
+Valdivia https://github.com/kleffa/ValdiviaShogiPieces
