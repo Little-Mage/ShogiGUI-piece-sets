@@ -2,8 +2,8 @@
 ## Todos los tipos de sets entán incluidos
 
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/KanjiPtomato.png">
-<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2KanjiW.png">
-<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/ValdiviaKanjiG.png">
+<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2KanjiW%20orangain.png">
+<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/Valdivia2D.png">
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/CtomatoP.png">
 
 Los sets entan hechos a escala de 5/8 del tamaño de piezas físicas.
