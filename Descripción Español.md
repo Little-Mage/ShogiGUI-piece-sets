@@ -9,16 +9,13 @@ Los sets entan hechos a escala de 5/8 del tamaño de piezas físicas.
 
 Hechos con el programa gráfico de vectores gratuito Inkscape
 
-Set estilo ajedrez hecho por mí con un poco de inspiración de este set hecho por CouchTomato.
-https://preview.redd.it/rjpex8xjogx21.png?width=648&format=png&auto=webp&s=9cc6b1e1ef606683a91f5da92a86767be1c2ed81
-
 Sets más recientes de CouchTomato.
 
 La carpeta SVG contiene los sets en formato SVG para que puedas personalizar tus propios sets y compartirlos por favor.
 
 El folder PNG contiene todos los sets mencionados arriba en formato PNG.
 
-#### Crédito: Todas las piezas fueron hechas por CouchTomato, pero yo las acomode en el formato de ShogiGUI.
+#### Crédito: Todas las piezas fueron hechas por CouchTomato, pero yo las hice 3D y las acomode en el formato de ShogiGUI.
 
 #### Piezas diseñadas por peanatsu https://github.com/peanatsu/shogi_printout/releases
 
