@@ -4,13 +4,13 @@
 #### En Español https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/Descripción%20Español.md
 
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/KanjiPtomato.png">
-<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2KanjiW.png">
-<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/ValdiviaKanjiG.png">
+<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2KanjiW%20orangain.png">
+<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/Valdivia2D.png">
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/CtomatoP.png">
 
 The sets are scaled 5/8 the size of physical pieces.
 
-MAde with Inkscape a free vector graphics software.
+Made with Inkscape a free vector graphics software.
 
 Western set made by me with a little inspiration from this set made by CouchTomato.
 https://preview.redd.it/rjpex8xjogx21.png?width=648&format=png&auto=webp&s=9cc6b1e1ef606683a91f5da92a86767be1c2ed81
@@ -33,6 +33,6 @@ The PNG folder contains all mentioned above in picture format.
 
 #### This repository contains CouchTomato's old wood pieces that are unfilled and the lance is also different. https://github.com/CouchTomato87/InternationalizedPieces
 
-The 2-kanji set were grabbed from here https://github.com/orangain/shogi-piece-images
+2-kanji set https://github.com/orangain/shogi-piece-images
 
-The kanji PNGs were shared by ShogiExplained.
+Valdivia https://github.com/kleffa/ValdiviaShogiPieces

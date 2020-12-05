@@ -2,8 +2,8 @@
 ## Todos los tipos de sets entán incluidos
 
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/KanjiPtomato.png">
-<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2KanjiW.png">
-<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/ValdiviaKanjiG.png">
+<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2KanjiW%20orangain.png">
+<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/Valdivia2D.png">
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/CtomatoP.png">
 
 Los sets entan hechos a escala de 5/8 del tamaño de piezas físicas.
@@ -29,6 +29,6 @@ El folder PNG contiene todos los sets mencionados arriba en formato PNG.
 
 #### Este repositorio contiene las piezas de madera, no-actuales de CouchTomato que son no-rellena y también la lanza es diferente. https://github.com/CouchTomato87/InternationalizedPieces
 
-El set 2kanji fueron agarradas de aquí https://github.com/orangain/shogi-piece-images 
+Set 2-kanji  https://github.com/orangain/shogi-piece-images 
 
-Los PNGs de kanji fueron compartidos por ShogiExplained.
+Valdivia https://github.com/kleffa/ValdiviaShogiPieces
