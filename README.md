@@ -11,9 +11,6 @@ The sets are scaled 5/8 the size of physical pieces.
 
 Made with Inkscape a free vector graphics software.
 
-Western set made by me with a little inspiration from this set made by CouchTomato.
-https://preview.redd.it/rjpex8xjogx21.png?width=648&format=png&auto=webp&s=9cc6b1e1ef606683a91f5da92a86767be1c2ed81
-
 CouchTomato's latest sets
 
 Also boards and piece stand.
