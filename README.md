@@ -19,7 +19,7 @@ The SVG folder contains the sets but in SVG format so you can make your own cust
 
 The PNG folder contains all mentioned above in picture format.
 
-#### Credit: All the pieces were made by CouchTomato, but I arranged and edited them onto the ShogiGUI format so enjoy. :)
+#### Credit: All the pieces were made by CouchTomato, but I made them 3D, arranged and edited them onto the ShogiGUI format so enjoy. :)
 
 #### Pieces designed by peanatsu https://github.com/peanatsu/shogi_printout/releases
 
