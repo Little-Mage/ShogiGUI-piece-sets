@@ -1,9 +1,9 @@
 # Sets para ShogiGUI (piezas)
 ## Todos los tipos de sets entán incluidos
 
-<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/KanjiPtomato.png">
-<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2KanjiW%20orangain.png">
-<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/CtomatoP.png">
+<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/Kanji%20P.png">
+<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2-Kanji%20orangain%20W.png">
+<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/International.png">
 
 Los sets entan hechos a escala de 5/8 del tamaño de piezas físicas.
 
