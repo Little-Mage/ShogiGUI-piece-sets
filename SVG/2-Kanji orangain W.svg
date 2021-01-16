@@ -5700,8 +5700,8 @@
      id="namedview1719"
      showgrid="false"
      inkscape:zoom="1.4305556"
-     inkscape:cx="324"
-     inkscape:cy="180"
+     inkscape:cx="69.229512"
+     inkscape:cy="268.37161"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -5924,43 +5924,43 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g3900"
-       style="filter:url(#filter4359)">
+       style="filter:url(#filter4359)"
+       transform="translate(0,-0.99952576)">
       <g
-         style=""
          id="g4079">
         <g
            id="g2423"
            transform="matrix(1.05,0,0,1.05,-4.7146998,-13.388004)"
-           style="opacity:1;">
+           style="opacity:1">
           <g
-             style="stroke-width:0.99009901;"
+             style="stroke-width:0.990099"
              transform="matrix(1.0654945,0,0,0.95739578,-0.66833715,11.244124)"
              id="g1927">
             <g
-               style="fill:url(#linearGradient23783);fill-opacity:1;stroke-width:0.99009901;"
+               style="fill:url(#linearGradient23783);fill-opacity:1;stroke-width:0.990099"
                transform="matrix(1.5218683,0,0,1.5218683,-154.93701,142.74824)"
                id="g7764-0">
               <g
                  transform="rotate(180,45.578499,23.8125)"
                  id="g7762-34"
-                 style="fill:url(#linearGradient23781);fill-opacity:1;stroke-width:0.99009901;" />
+                 style="fill:url(#linearGradient23781);fill-opacity:1;stroke-width:0.990099" />
             </g>
           </g>
           <g
              transform="matrix(-1.6008165,0,0,-1.6008165,83.014694,282.52581)"
              id="text5169-7-7"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:KaiTi;-inkscape-font-specification:KaiTi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:KaiTi;-inkscape-font-specification:KaiTi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
              aria-label="王" />
         </g>
         <path
            sodipodi:nodetypes="ccccccc"
-           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           style="opacity:1;fill:#c3983c;fill-opacity:0.992157;stroke:none;stroke-width:1.58881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 16.26352,258.3741 v -3.77953 l 22.764228,7.6259 22.856448,-7.65493 v 3.77954 L 39.027748,266 Z"
            id="path9418-4-6-3-8-9-6-5-5"
            inkscape:connector-curvature="0" />
       </g>
       <path
-         style="opacity:1;fill:url(#linearGradient23779);fill-opacity:1;stroke-width:1.59796166;"
+         style="opacity:1;fill:url(#linearGradient23779);fill-opacity:1;stroke-width:1.59796"
          inkscape:connector-curvature="0"
          d="M 39.02775,262.22 61.8842,254.56507 72.14173,187.80884 6,187.80866 16.26352,254.5941 Z"
          id="path7760-86-0"
@@ -5968,48 +5968,47 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g3957"
-       style="filter:url(#filter4347)">
+       style="filter:url(#filter4347)"
+       transform="translate(0,-0.99952576)">
       <g
-         style=""
          id="g4183">
         <g
            id="g2448"
            transform="matrix(1.05,0,0,1.05,-5.6333526,-15.423456)"
-           style="opacity:1;">
+           style="opacity:1">
           <g
-             style="stroke-width:0.97014618;"
+             style="stroke-width:0.970146"
              transform="matrix(1.0873912,0,0,0.97710185,-0.96824069,8.0503829)"
              id="g2430">
             <g
-               style="fill:url(#linearGradient2259);fill-opacity:1;stroke-width:0.97014618;"
+               style="fill:url(#linearGradient2259);fill-opacity:1;stroke-width:0.970146"
                transform="matrix(1.4911855,0,0,1.4911855,-150.73264,232.84404)"
                id="g7764-9">
               <g
                  transform="rotate(180,45.578499,23.8125)"
                  id="g7762-2"
-                 style="fill:url(#linearGradient10279);fill-opacity:1;stroke-width:0.97014618;" />
+                 style="fill:url(#linearGradient10279);fill-opacity:1;stroke-width:0.970146" />
             </g>
           </g>
           <g
-             style=""
              transform="translate(2.6187042,2.7552142)"
              id="g2435">
             <g
                aria-label="王"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:KaiTi;-inkscape-font-specification:KaiTi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:KaiTi;-inkscape-font-specification:KaiTi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
                id="text5169-4-3"
                transform="matrix(-1.5858798,0,0,-1.5858798,82.879014,366.92149)" />
           </g>
         </g>
         <path
            sodipodi:nodetypes="ccccccc"
-           style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           style="opacity:1;fill:#c3983c;fill-opacity:0.992157;stroke:none;stroke-width:1.58881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 16.263903,348.37448 v -3.77953 l 22.76408,7.62552 22.855683,-7.65452 v 3.77954 L 39.027983,356 Z"
            id="path9418-4-6-3-8-9-6-5-5-1"
            inkscape:connector-curvature="0" />
       </g>
       <path
-         style="opacity:1;fill:url(#linearGradient10277);fill-opacity:1;stroke-width:1.56574476;"
+         style="opacity:1;fill:url(#linearGradient10277);fill-opacity:1;stroke-width:1.56574"
          inkscape:connector-curvature="0"
          d="m 39.029873,352.22173 22.85569,-7.65452 10.258059,-66.75665 -66.1417322,-1.7e-4 10.2639082,66.78581 z"
          id="path7760-3-6"
@@ -7425,7 +7424,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(-1.5,0,0,-1.5,79.31455,359.83209)"
+       transform="matrix(-1.5,0,0,-1.5,79.31455,358.83256)"
        id="g5621-2"
        style="opacity:0.99;filter:url(#filter15867-7)">
       <path
@@ -7785,7 +7784,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          style="fill:#fe0505" />
     </g>
     <g
-       transform="matrix(-1.5,0,0,-1.5,79.315273,269.83225)"
+       transform="matrix(-1.5,0,0,-1.5,79.315273,268.83272)"
        id="g13185-4"
        style="opacity:0.99;filter:url(#filter16155-3)">
       <path

@@ -1633,8 +1633,8 @@
      id="namedview1719"
      showgrid="false"
      inkscape:zoom="1.4305556"
-     inkscape:cx="324"
-     inkscape:cy="180"
+     inkscape:cx="141.33437"
+     inkscape:cy="208.94514"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1978,7 +1978,8 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g4079"
-       style="filter:url(#filter4459)">
+       style="filter:url(#filter4459)"
+       transform="translate(0,-1.0000458)">
       <g
          style="opacity:1"
          transform="matrix(1.05,0,0,1.05,-4.7146998,-13.388004)"
@@ -1986,13 +1987,13 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
         <g
            id="g1927"
            transform="matrix(1.0654945,0,0,0.95739578,-0.66833715,11.244124)"
-           style="stroke-width:0.99009901">
+           style="stroke-width:0.990099">
           <g
              id="g7764-0"
              transform="matrix(1.5218683,0,0,1.5218683,-154.93701,142.74824)"
-             style="fill:url(#linearGradient23783);fill-opacity:1;stroke-width:0.99009901">
+             style="fill:url(#linearGradient23783);fill-opacity:1;stroke-width:0.990099">
             <g
-               style="fill:url(#linearGradient23781);fill-opacity:1;stroke-width:0.99009901"
+               style="fill:url(#linearGradient23781);fill-opacity:1;stroke-width:0.990099"
                id="g7762-34"
                transform="rotate(180,45.578499,23.8125)">
               <path
@@ -2000,13 +2001,13 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
                  id="path7760-86"
                  d="m -36.753537,-31.009999 -13.424285,5.00361 -6.024562,43.634897 38.847045,1.12e-4 -6.028077,-43.653986 z"
                  inkscape:connector-curvature="0"
-                 style="fill:#feec99;fill-opacity:1;stroke-width:0.99009907" />
+                 style="fill:#feec99;fill-opacity:1;stroke-width:0.990099" />
             </g>
           </g>
         </g>
         <g
            aria-label="王"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:KaiTi;-inkscape-font-specification:KaiTi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:KaiTi;-inkscape-font-specification:KaiTi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
            id="text5169-7-7"
            transform="matrix(-1.6008165,0,0,-1.6008165,83.014694,282.52581)" />
       </g>
@@ -2014,7 +2015,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          inkscape:connector-curvature="0"
          id="path9418-4-6-3-8-9-6-5-5"
          d="m 16.26352,258.3741 v -3.77953 l 22.764228,7.6259 22.856448,-7.65493 v 3.77954 L 39.027748,266 Z"
-         style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:1;fill:#c3983c;fill-opacity:0.992157;stroke:none;stroke-width:1.58881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          sodipodi:nodetypes="ccccccc" />
     </g>
     <g
@@ -2245,7 +2246,8 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g4183"
-       style="filter:url(#filter4447)">
+       style="filter:url(#filter4447)"
+       transform="translate(0,-1.0000458)">
       <g
          style="opacity:1"
          transform="matrix(1.05,0,0,1.05,-5.6333526,-15.423456)"
@@ -2253,13 +2255,13 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
         <g
            id="g2430"
            transform="matrix(1.0873912,0,0,0.97710185,-0.96824069,8.0503829)"
-           style="stroke-width:0.97014618">
+           style="stroke-width:0.970146">
           <g
              id="g7764-9"
              transform="matrix(1.4911855,0,0,1.4911855,-150.73264,232.84404)"
-             style="fill:url(#linearGradient2259);fill-opacity:1;stroke-width:0.97014618">
+             style="fill:url(#linearGradient2259);fill-opacity:1;stroke-width:0.970146">
             <g
-               style="fill:url(#linearGradient10279);fill-opacity:1;stroke-width:0.97014618"
+               style="fill:url(#linearGradient10279);fill-opacity:1;stroke-width:0.970146"
                id="g7762-2"
                transform="rotate(180,45.578499,23.8125)">
               <path
@@ -2267,7 +2269,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
                  id="path7760-3"
                  d="m -36.754157,-31.009999 -13.424169,5.003305 -6.025023,43.634874 38.84801,1.12e-4 -6.028451,-43.653937 z"
                  inkscape:connector-curvature="0"
-                 style="fill:#feec99;fill-opacity:1;stroke-width:0.97014618" />
+                 style="fill:#feec99;fill-opacity:1;stroke-width:0.970146" />
             </g>
           </g>
         </g>
@@ -2277,7 +2279,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
           <g
              transform="matrix(-1.5858798,0,0,-1.5858798,82.879014,366.92149)"
              id="text5169-4-3"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:KaiTi;-inkscape-font-specification:KaiTi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:KaiTi;-inkscape-font-specification:KaiTi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
              aria-label="王" />
         </g>
       </g>
@@ -2285,7 +2287,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
          inkscape:connector-curvature="0"
          id="path9418-4-6-3-8-9-6-5-5-1"
          d="m 16.263903,348.37448 v -3.77953 l 22.76408,7.62552 22.855683,-7.65452 v 3.77954 L 39.027983,356 Z"
-         style="opacity:1;fill:#c3983c;fill-opacity:0.99215686;stroke:none;stroke-width:1.58880842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:1;fill:#c3983c;fill-opacity:0.992157;stroke:none;stroke-width:1.58881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          sodipodi:nodetypes="ccccccc" />
     </g>
     <g
