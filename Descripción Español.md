@@ -5,7 +5,7 @@
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2-Kanji%20orangain%20W.png">
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/International.png">
 
-Los sets entan hechos a escala de 5/8 del tamaño de piezas físicas. Incrementa a un 60% para obtener piezas tamaño físicas.
+Los sets entan hechos a escala de 5/8 del tamaño de piezas físicas. Incrementa por 60% para obtener piezas tamaño físicas.
 
 Hechos con el programa gráfico de vectores gratuito Inkscape
 
