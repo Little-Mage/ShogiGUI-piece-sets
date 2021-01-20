@@ -33,7 +33,7 @@ width(middle), length, thickness
 
 http://shogi-koma.jp/shop/koma.html
 
-My angles Bottom to top 81° and top to middle 18°
+Angles Bottom to top 81° and top to middle 18° or 162°
 
 Manufacturing method 1 (Mikura, Yunnan wood)
 
