@@ -29,11 +29,11 @@ Pawn	19
 
 The exact measurements for each piece.
 Measurements provided in this order:
-width(middle), length, thickness
+height, length, width
 
 http://shogi-koma.jp/shop/koma.html
 
-Angles Bottom to top 81° and top to middle 18° or 162°
+Angles Bottom to top 81° or 99° and top to middle 18° or 162°
 
 Manufacturing method 1 (Mikura, Yunnan wood)
 
