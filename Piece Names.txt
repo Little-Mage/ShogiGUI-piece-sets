@@ -1,0 +1,49 @@
+0 = Up
+1 = Down
+
+FU = P
+GI = S
+GY = K.
+HI = R
+KA = B
+KE = N
+KI = G
+KY = L
+NG = +S
+NK = +N
+NY = +L
+OU = K
+RY = D
+TO = T
+UM = H
+
+- [ ] 0FU
+- [ ] 0GI
+- [ ] 0GY
+- [ ] 0HI
+- [ ] 0KA
+- [ ] 0KE
+- [ ] 0KI
+- [ ] 0KY
+- [ ] 0NG
+- [ ] 0NK
+- [ ] 0NY
+- [ ] 0OU
+- [ ] 0RY
+- [ ] 0TO
+- [ ] 0UM
+- [ ] 1FU
+- [ ] 1GI
+- [ ] 1GY
+- [ ] 1HI
+- [ ] 1KA
+- [ ] 1KE
+- [ ] 1KI
+- [ ] 1KY
+- [ ] 1NG
+- [ ] 1NK
+- [ ] 1NY
+- [ ] 1OU
+- [ ] 1RY
+- [ ] 1TO
+- [ ] 1UM
