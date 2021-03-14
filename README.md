@@ -19,4 +19,5 @@ The PNG folder contains all mentioned above in picture format.
 This repository contains CouchTomato's old wood pieces that are unfilled and the lance is also different. https://github.com/CouchTomato87/InternationalizedPieces
 
 Pieces designed by peanatsu https://github.com/peanatsu/shogi_printout/releases
+
 Various types of pieces https://github.com/yagu0/vchess
