@@ -1,0 +1,19 @@
+https://sites.google.com/site/shogigui/manual/others/bitmap
+Each size is as follows.
+Default size
+Pieces 42x44 pixels
+Board 409x447 pixels
+Komadai 52x322 pixels
+Background 524x447 pixels
+
+Minimum
+Pieces 32x35 pixels
+Board 314x342 pixels
+Komadai 40x245 pixels
+Background 408x342 pixels
+
+Maximum
+Pieces 62x68 pixels
+Board 599x656 pixels
+Komadai 77x476 pixels
+Background 768x658 pixel
