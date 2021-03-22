@@ -12,7 +12,7 @@
    version="1.1"
    id="svg1717"
    sodipodi:docname="Kanji P.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    inkscape:export-filename="C:\Users\ninja\Documents\GitHub\ShogiGUI-piece-sets\PNG\Kanji P.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -5774,8 +5774,8 @@
      inkscape:window-height="705"
      id="namedview1719"
      showgrid="false"
-     inkscape:zoom="1.0115556"
-     inkscape:cx="473.55311"
+     inkscape:zoom="1.20679"
+     inkscape:cx="98.187513"
      inkscape:cy="180"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -5945,7 +5945,8 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g4070"
-       style="filter:url(#filter4195)">
+       style="filter:url(#filter4195)"
+       transform="translate(1.0001737)">
       <g
          style="opacity:1"
          transform="matrix(1.05,0,0,1.05,-3.2268455,-10.469804)"
@@ -6063,7 +6064,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g4079"
        style="filter:url(#filter4459)"
-       transform="translate(0,-1.0000458)">
+       transform="translate(1.0001737,-1.0000458)">
       <g
          style="opacity:1"
          transform="matrix(1.05,0,0,1.05,-4.7146998,-13.388004)"
@@ -6305,7 +6306,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        id="g4183"
        style="filter:url(#filter4447)"
-       transform="translate(0,-1.0000455)">
+       transform="translate(1.0001737,-1.0000455)">
       <g
          style="opacity:1"
          transform="matrix(1.05,0,0,1.05,-5.6333526,-15.423456)"
@@ -6546,7 +6547,8 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g3979"
-       style="filter:url(#filter4363)">
+       style="filter:url(#filter4363)"
+       transform="translate(1.0001737)">
       <path
          style="opacity:0.99;fill:#fee572;fill-opacity:1;stroke-width:1.58228"
          inkscape:connector-curvature="0"
@@ -6562,7 +6564,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g15473"
-       transform="matrix(1.6391892,0,0,1.6434659,40.91682,140.43769)"
+       transform="matrix(1.6391892,0,0,1.6434659,41.916994,140.43769)"
        style="opacity:0.99;stroke-width:0.8682;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter10428)">
       <path
          inkscape:connector-curvature="0"
@@ -6584,7 +6586,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g15473-2"
-       transform="matrix(1.6782825,0,0,1.6828307,31.575508,52.114143)"
+       transform="matrix(1.6782825,0,0,1.6828307,32.575682,52.114143)"
        style="opacity:1;stroke:#000000;stroke-width:0.847934;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter10392)">
       <g
          transform="translate(-21.91312,-38.895837)"
@@ -6601,7 +6603,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g15473-2-9"
-       transform="matrix(-1.6782825,0,0,-1.6828307,46.566225,213.02642)"
+       transform="matrix(-1.6782825,0,0,-1.6828307,47.566399,213.02642)"
        style="opacity:1;stroke:#000000;stroke-width:0.847934;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter10104)">
       <g
          transform="translate(-21.91312,-38.895837)"
@@ -6618,7 +6620,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g3397"
-       transform="matrix(-0.9975,0,0,-0.9975,14.929691,625.09564)"
+       transform="matrix(-0.9975,0,0,-0.9975,15.929865,625.09564)"
        style="opacity:1;stroke-width:1.42857;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter10068)">
       <g
          style="stroke-width:1.50615;stroke-miterlimit:4;stroke-dasharray:none"
@@ -6794,7 +6796,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        style="filter:url(#filter4351)"
        id="g3987"
-       transform="translate(0,-2)">
+       transform="translate(1.0001737,-2)">
       <g
          id="g1896"
          transform="matrix(1.0235727,0,0,0.98789764,-3.5321295,0.8780241)"
@@ -6831,7 +6833,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
        id="text5803"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:KaiTi;-inkscape-font-specification:KaiTi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter10356)"
        aria-label="飛"
-       transform="matrix(1.5,0,0,1.5,80.132063,-5.8743289)">
+       transform="matrix(1.5,0,0,1.5,81.132237,-5.8743289)">
       <path
          id="path6428-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'cwTeX Q Kai';-inkscape-font-specification:'cwTeX Q Kai';stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -6874,7 +6876,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        style="filter:url(#filter4207)"
        id="g4058"
-       transform="translate(0,-2.0000014)">
+       transform="translate(1.0001737,-2.0000014)">
       <path
          style="opacity:0.99;fill:#fee572;fill-opacity:1;stroke-width:1.66308"
          inkscape:connector-curvature="0"
@@ -6892,7 +6894,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
        id="text7088"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:KaiTi;-inkscape-font-specification:KaiTi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter13502)"
        aria-label="龍"
-       transform="matrix(1.65,0,0,1.65,77.243482,78.472644)">
+       transform="matrix(1.65,0,0,1.65,78.243656,78.472644)">
       <path
          sodipodi:nodetypes="ccsscccscccccscccssccccscsscsscccccccccscccccccccccccccsccccccscccccccccscccccscscscccccccccccsscccccsccccccccccscccccscccccccccccccsccccccssccscsscccccsscscccccccsccsscccscsccccccccscccccss"
          inkscape:connector-curvature="0"
@@ -7085,7 +7087,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     </g>
     <g
        id="g4086"
-       transform="translate(0,-2.0000009)"
+       transform="translate(1.0001737,-2.0000009)"
        style="filter:url(#filter4471)">
       <g
          id="g15677"
@@ -7119,7 +7121,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
        id="text5803-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:KaiTi;-inkscape-font-specification:KaiTi;letter-spacing:0px;word-spacing:0px;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter10356-0)"
        aria-label="飛"
-       transform="matrix(-1.5,0,0,-1.5,159.64747,272.0948)">
+       transform="matrix(-1.5,0,0,-1.5,160.64764,272.0948)">
       <path
          id="path6428-8-2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'cwTeX Q Kai';-inkscape-font-specification:'cwTeX Q Kai';stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -7173,7 +7175,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
     <g
        style="filter:url(#filter4435)"
        id="g4173"
-       transform="translate(0,-1.9999992)">
+       transform="translate(1.0001737,-1.9999992)">
       <g
          id="g11448"
          transform="matrix(1.05,0,0,1.05,-5.8953719,-12.597057)"
@@ -7206,7 +7208,7 @@ Original file is available at: https://commons.wikimedia.org/wiki/File:Shogi_gyo
        id="text7088-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:KaiTi;-inkscape-font-specification:KaiTi;letter-spacing:0px;word-spacing:0px;opacity:0.99;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter13502-4)"
        aria-label="龍"
-       transform="matrix(-1.65,0,0,-1.65,163.53596,365.74782)">
+       transform="matrix(-1.65,0,0,-1.65,164.53613,365.74782)">
       <path
          sodipodi:nodetypes="ccsscccscccccscccssccccscsscsscccccccccscccccccccccccccsccccccscccccccccscccccscscscccccccccccsscccccsccccccccccscccccscccccccccccccsccccccssccscsscccccsscscccccccsccsscccscsccccccccscccccss"
          inkscape:connector-curvature="0"
