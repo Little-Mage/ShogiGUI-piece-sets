@@ -1,15 +1,12 @@
-
 Hidetchi https://www.youtube.com/watch?v=h9zb5udfeWo
 Sun	1/33m	3.0303 cm
 Length	12 sun	36.3636 cm
 Width	11 sun	33.333 cm
 
 Nekomado board measurements:
-Size: 351 mm x 297 mm
-
-Other measurements for the board:
-Length	33.66 cm
-Width	33.33 cm
+Width: 1 shaku 1.2 sun
+Depth: 1 shaku 2.2 sun
+Height: 6.7 sun
 
 Measurements for the squares in the board:
 Length	3.818 cm = (36.3636 - 2)/9
@@ -25,13 +22,12 @@ Knight	4
 Lance	4
 Pawn	19
 
-The exact measurements for each piece.
 Measurements provided in this order:
-height, length, width
+width, height, length 
 
 http://shogi-koma.jp/shop/koma.html
 
-Angles (my) Bottom to top 81° or 99° and top to middle 18° or 162°
+Angles Bottom to top 81° or 99° and top to middle 18° or 162°
 
 Manufacturing method 1 (Mikura, Yunnan wood)
 
@@ -51,14 +47,5 @@ Manufacturing method 2 (sham material)
 27.5 mm	22.0 mm	7.5 mm	Lance
 26.5 mm	21.0 mm	6.5 mm	Pawn
 
-Other dimensions:
-32mm	28.7 mm	9.7 mm	81° 85°	King
-31mm	27.7 mm	9.3 mm	81° 85°	Rook & Bishop
-30mm	26.7 mm	8.8 mm	81° 85°	Gold & Silver
-29mm	25.5 mm	8.3 mm	81° 85°	Knight
-28mm	23.5 mm	8.0 mm	81° 85°	Lance
-27mm	22.5 mm	7.75 mm	81° 85°	Pawn
-angle (general, bottom > top)
-angle (thickness, bottom > top)
-
-The golden proportion (with 20 pawns) for the Shogi piece is determined by each angular of the pentagon. Let’s put any Shogi piece on the board correctly. If your piece has the shape with the top at an angle of 144 degrees, the middles at an angle of 117 degrees, and the bottoms of 81 degrees, it means you got ideal pieces. Those angles have also a good reason.
+The golden proportion (with 20 pawns) for the Shogi piece is determined by each angular of the pentagon. If your piece has the shape with the top at an angle of 144 degrees, the middles at an angle of 117 degrees, and the bottoms of 81 degrees, it means you got ideal pieces.
+https://www.i-tsu-tsu.co.jp/en/blog/shogi/864
