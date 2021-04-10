@@ -4,8 +4,8 @@ Length	12 sun	36.3636 cm
 Width	11 sun	33.333 cm
 
 Nekomado board measurements:
-Width: 1 shaku 1.2 sun
-Depth: 1 shaku 2.2 sun
+Width: 1 shaku 1.2 sun	33.936 cm
+Depth: 1 shaku 2.2 sun	36.966 cm
 Height: 6.7 sun
 
 Measurements for the squares in the board:
