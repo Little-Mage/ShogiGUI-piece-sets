@@ -47,5 +47,5 @@ Manufacturing method 2 (sham material)
 27.5 mm	22.0 mm	7.5 mm	Lance
 26.5 mm	21.0 mm	6.5 mm	Pawn
 
-The golden proportion (with 20 pawns) for the Shogi piece is determined by each angular of the pentagon. If your piece has the shape with the top at an angle of 144 degrees, the middles at an angle of 117 degrees, and the bottoms of 81 degrees, it means you got ideal pieces.
+"If your piece has the shape with the top at an angle of 144 degrees, the middles at an angle of 117 degrees, and the bottoms of 81 degrees, it means you got ideal pieces."
 https://www.i-tsu-tsu.co.jp/en/blog/shogi/864
