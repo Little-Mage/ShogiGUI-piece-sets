@@ -13,7 +13,7 @@ The PNG folder contains all mentioned above in picture format.
 #### Credit: All the pieces were made by CouchTomato, but I made them 3D, arranged and edited them onto the ShogiGUI format so enjoy. :)
 #### Pieces designed by Ka-Hu https://github.com/Ka-hu/shogi-pieces
 #### 2-kanji set https://github.com/orangain/shogi-piece-images
-#### Wood Textures https://unsplash.com/s/photos/wood-texture
+#### Wood Textures https://unsplash.com/s/photos/wood-texture https://www.pexels.com/
 #### Valdivia https://github.com/kleffa/ValdiviaShogiPieces
 This repository contains CouchTomato's old wood pieces that are unfilled and the lance is also different. https://github.com/CouchTomato87/InternationalizedPieces
 
