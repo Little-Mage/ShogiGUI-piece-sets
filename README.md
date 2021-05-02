@@ -10,7 +10,7 @@ Also boards and piece stand.
 The SVG folder contains the sets but in SVG format so you can make your own custom sets and share them please.
 The PNG folder contains all mentioned above in picture format.
 
-#### Credit: All the pieces were made by CouchTomato, but I made them 3D, arranged and edited them onto the ShogiGUI format so enjoy. :)
+#### Credit: Kanji P and International pieces were made by CouchTomato, but I made them 3D, arranged and edited them onto the ShogiGUI format so enjoy. :)
 #### Pieces designed by Ka-Hu https://github.com/Ka-hu/shogi-pieces
 #### 2-kanji set https://github.com/orangain/shogi-piece-images
 #### Wood Textures https://unsplash.com/s/photos/wood-texture https://www.pexels.com/
