@@ -1,7 +1,7 @@
 # ShogiGUI-piece-sets
 ## All types of sets are included:
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/Kanji%20P.png">
-<img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/2-Kanji%20orangain%20W.png">
+<img src="https://github.com/Little-Mage/ShogiGUI-piece-sets/blob/master/PNG/2-Kanji%20orangain.png">
 <img src="https://github.com/Little-Magician/ShogiGUI-piece-sets/blob/master/PNG/International.png">
 
 #### The sets are scaled 5/8 the size of physical pieces. Increase by 60% to get the size of physical pieces.
