@@ -14,6 +14,7 @@ The PNG folder contains all mentioned above in picture format.
 #### Pieces designed by Ka-Hu https://github.com/Ka-hu/shogi-pieces
 #### 2-kanji set https://github.com/orangain/shogi-piece-images
 #### Wood Textures https://unsplash.com/s/photos/wood-texture https://www.pexels.com/
+#### Nameless & mohumohumouhu http://toro.2ch.sc/test/read.cgi/bgame/1572078063
 #### Valdivia https://github.com/kleffa/ValdiviaShogiPieces
 This repository contains CouchTomato's old wood pieces that are unfilled and the lance is also different. https://github.com/CouchTomato87/InternationalizedPieces
 
