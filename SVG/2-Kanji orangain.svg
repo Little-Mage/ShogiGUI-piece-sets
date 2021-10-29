@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="171.45001mm"
    height="95.25mm"
    version="1.1"
    id="svg1717"
    sodipodi:docname="2-Kanji orangain.svg"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    inkscape:export-filename="C:\Users\ninja\Documents\GitHub\ShogiGUI-piece-sets\PNG\2-Kanji orangain.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata1723">
     <rdf:RDF>
@@ -24,7 +24,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -33,7 +32,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4195">
+       id="filter4195"
+       x="-0.036285714"
+       y="-0.029970082"
+       width="1.1481667"
+       height="1.0974028">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -65,7 +68,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4207">
+       id="filter4207"
+       x="-0.037629628"
+       y="-0.030881016"
+       width="1.1536543"
+       height="1.1003633">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -97,7 +104,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4219">
+       id="filter4219"
+       x="-0.037629626"
+       y="-0.030881016"
+       width="1.1536543"
+       height="1.1003633">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -129,7 +140,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4279">
+       id="filter4279"
+       x="-0.04515395"
+       y="-0.034558206"
+       width="1.1843786"
+       height="1.1123142">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -161,7 +176,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4291">
+       id="filter4291"
+       x="-0.044173912"
+       y="-0.033421412"
+       width="1.1803768"
+       height="1.1086196">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -193,7 +212,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4303">
+       id="filter4303"
+       x="-0.040639998"
+       y="-0.032879755"
+       width="1.1659467"
+       height="1.1068592">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -225,7 +248,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4315">
+       id="filter4315"
+       x="-0.039076923"
+       y="-0.03184896"
+       width="1.1595641"
+       height="1.1035091">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -257,7 +284,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4339">
+       id="filter4339"
+       x="-0.037629626"
+       y="-0.030881014"
+       width="1.1536543"
+       height="1.1003633">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -289,7 +320,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4351">
+       id="filter4351"
+       x="-0.037629628"
+       y="-0.030881015"
+       width="1.1536543"
+       height="1.1003633">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -321,7 +356,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4363">
+       id="filter4363"
+       x="-0.036285714"
+       y="-0.029970083"
+       width="1.1481667"
+       height="1.0974028">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -353,7 +392,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4423">
+       id="filter4423"
+       x="-0.03762963"
+       y="-0.031650299"
+       width="1.1536543"
+       height="1.1028635">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -385,7 +428,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4435">
+       id="filter4435"
+       x="-0.03762963"
+       y="-0.031650298"
+       width="1.1536543"
+       height="1.1028635">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -417,7 +464,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4447">
+       id="filter4447"
+       x="-0.036285715"
+       y="-0.030694122"
+       width="1.1481667"
+       height="1.0997559">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -449,7 +500,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4459">
+       id="filter4459"
+       x="-0.036285714"
+       y="-0.030694122"
+       width="1.1481667"
+       height="1.0997559">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -481,7 +536,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4471">
+       id="filter4471"
+       x="-0.03762963"
+       y="-0.031650302"
+       width="1.1536543"
+       height="1.1028635">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -513,7 +572,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4483">
+       id="filter4483"
+       x="-0.03762963"
+       y="-0.031650301"
+       width="1.1536543"
+       height="1.1028635">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -545,7 +608,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4495">
+       id="filter4495"
+       x="-0.039076923"
+       y="-0.032667967"
+       width="1.1595641"
+       height="1.1061709">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -577,7 +644,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4507">
+       id="filter4507"
+       x="-0.039076925"
+       y="-0.032667966"
+       width="1.1595641"
+       height="1.1061709">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -609,7 +680,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4519">
+       id="filter4519"
+       x="-0.040640001"
+       y="-0.033753253"
+       width="1.1659467"
+       height="1.1096981">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -641,7 +716,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4531">
+       id="filter4531"
+       x="-0.044173915"
+       y="-0.034324324"
+       width="1.1803768"
+       height="1.1115541">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -673,7 +752,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4375-1">
+       id="filter4375-1"
+       x="-0.04515395"
+       y="-0.035524476"
+       width="1.1843786"
+       height="1.1154545">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -705,7 +788,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4315-6">
+       id="filter4315-6"
+       x="-0.039076923"
+       y="-0.03184896"
+       width="1.1595641"
+       height="1.1035091">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -739,7 +826,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter16119">
+       id="filter16119"
+       x="-0.44993226"
+       y="-0.30117683"
+       width="1.8998645"
+       height="1.6023537">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -858,7 +949,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter16083">
+       id="filter16083"
+       x="-0.45067651"
+       y="-0.30788848"
+       width="1.901353"
+       height="1.615777">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -977,7 +1072,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter16047">
+       id="filter16047"
+       x="-0.44916292"
+       y="-0.3121234"
+       width="1.8983258"
+       height="1.6242468">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -1096,7 +1195,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter16011">
+       id="filter16011"
+       x="-0.43765479"
+       y="-0.3181788"
+       width="1.8753096"
+       height="1.6363576">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -1215,7 +1318,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter15975">
+       id="filter15975"
+       x="-0.55162846"
+       y="-0.33237031"
+       width="2.1032569"
+       height="1.6647406">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -1334,7 +1441,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter15939">
+       id="filter15939"
+       x="-0.49863304"
+       y="-0.31859758"
+       width="1.9972661"
+       height="1.6371952">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -1453,7 +1564,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter15903">
+       id="filter15903"
+       x="-0.65340691"
+       y="-0.38142659"
+       width="2.3068138"
+       height="1.7628532">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -1572,7 +1687,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter5901">
+       id="filter5901"
+       x="-0.54494018"
+       y="-0.33118667"
+       width="2.0898804"
+       height="1.6623733">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -1731,7 +1850,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter5937">
+       id="filter5937"
+       x="-0.50732157"
+       y="-0.31979653"
+       width="2.0146431"
+       height="1.6395931">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -1890,7 +2013,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter15867">
+       id="filter15867"
+       x="-0.40060333"
+       y="-0.32934986"
+       width="1.8012067"
+       height="1.6586997">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -2009,7 +2136,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter16155-3">
+       id="filter16155-3"
+       x="-0.40061506"
+       y="-0.32934814"
+       width="1.8012301"
+       height="1.6586963">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -2128,7 +2259,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter16119-1">
+       id="filter16119-1"
+       x="-0.44993226"
+       y="-0.30117683"
+       width="1.8998645"
+       height="1.6023537">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -2247,7 +2382,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter16083-3">
+       id="filter16083-3"
+       x="-0.45067651"
+       y="-0.30788848"
+       width="1.901353"
+       height="1.615777">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -2366,7 +2505,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter16047-3">
+       id="filter16047-3"
+       x="-0.44916292"
+       y="-0.3121234"
+       width="1.8983258"
+       height="1.6242468">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -2485,7 +2628,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter16011-1">
+       id="filter16011-1"
+       x="-0.43765479"
+       y="-0.3181788"
+       width="1.8753096"
+       height="1.6363576">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -2604,7 +2751,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter15975-2">
+       id="filter15975-2"
+       x="-0.55162846"
+       y="-0.33237031"
+       width="2.1032569"
+       height="1.6647406">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -2723,7 +2874,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter15939-2">
+       id="filter15939-2"
+       x="-0.49863304"
+       y="-0.31859758"
+       width="1.9972661"
+       height="1.6371952">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -2842,7 +2997,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter15903-8">
+       id="filter15903-8"
+       x="-0.65340691"
+       y="-0.38142659"
+       width="2.3068138"
+       height="1.7628532">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -2961,7 +3120,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter5829">
+       id="filter5829"
+       x="-0.54494018"
+       y="-0.33118667"
+       width="2.0898804"
+       height="1.6623733">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -3120,7 +3283,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter5865">
+       id="filter5865"
+       x="-0.50732157"
+       y="-0.31979653"
+       width="2.0146431"
+       height="1.6395931">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -3279,7 +3446,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter15867-7">
+       id="filter15867-7"
+       x="-0.40060333"
+       y="-0.32934986"
+       width="1.8012067"
+       height="1.6586997">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -3398,7 +3569,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter16155-37">
+       id="filter16155-37"
+       x="-0.40953676"
+       y="-0.33355902"
+       width="1.8190735"
+       height="1.667118">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -3515,7 +3690,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4243-8">
+       id="filter4243-8"
+       x="-0.039076923"
+       y="-0.03184896"
+       width="1.1595641"
+       height="1.1035091">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -3547,7 +3726,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4231-1">
+       id="filter4231-1"
+       x="-0.040639999"
+       y="-0.032879757"
+       width="1.1659467"
+       height="1.1068592">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -3579,7 +3762,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4255-5">
+       id="filter4255-5"
+       x="-0.044173912"
+       y="-0.033421413"
+       width="1.1803768"
+       height="1.1086196">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -3613,7 +3800,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter13466">
+       id="filter13466"
+       x="-0.56238341"
+       y="-0.52305976"
+       width="2.1247668"
+       height="2.0461195">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -3772,7 +3963,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter13430">
+       id="filter13430"
+       x="-0.57223737"
+       y="-0.52514508"
+       width="2.1444747"
+       height="2.0502902">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -3931,7 +4126,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter13394">
+       id="filter13394"
+       x="-0.87013843"
+       y="-0.44114698"
+       width="2.7402769"
+       height="1.882294">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -4088,7 +4287,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4279-6-4">
+       id="filter4279-6-4"
+       x="-0.04515395"
+       y="-0.034558206"
+       width="1.1843786"
+       height="1.1123142">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -4122,7 +4325,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter13358-6">
+       id="filter13358-6"
+       x="-1.4602292"
+       y="-0.47655699"
+       width="3.9204584"
+       height="1.953114">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -4279,7 +4486,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4375-5">
+       id="filter4375-5"
+       x="-0.04515395"
+       y="-0.035524476"
+       width="1.1843786"
+       height="1.1154545">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -4311,7 +4522,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4399-9">
+       id="filter4399-9"
+       x="-0.04064"
+       y="-0.033753252"
+       width="1.1659467"
+       height="1.1096981">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -4343,7 +4558,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4411-1">
+       id="filter4411-1"
+       x="-0.039076923"
+       y="-0.03266797"
+       width="1.1595641"
+       height="1.1061709">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -4375,7 +4594,11 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter4387-1">
+       id="filter4387-1"
+       x="-0.044173913"
+       y="-0.034324324"
+       width="1.1803768"
+       height="1.1115541">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -4409,7 +4632,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter13466-5">
+       id="filter13466-5"
+       x="-0.56238341"
+       y="-0.52305976"
+       width="2.1247668"
+       height="2.0461195">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -4568,7 +4795,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter13430-4">
+       id="filter13430-4"
+       x="-0.57223737"
+       y="-0.52514508"
+       width="2.1444747"
+       height="2.0502902">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -4727,7 +4958,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter13394-6">
+       id="filter13394-6"
+       x="-0.87013843"
+       y="-0.44114698"
+       width="2.7402769"
+       height="1.882294">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -4886,7 +5121,11 @@
        inkscape:menu="Bumps"
        inkscape:menu-tooltip="Bumps effect with a bevel, color flood and complex lighting"
        style="color-interpolation-filters:sRGB"
-       id="filter13358-8">
+       id="filter13358-8"
+       x="-1.4602292"
+       y="-0.47655699"
+       width="3.9204584"
+       height="1.953114">
       <feGaussianBlur
          stdDeviation="5"
          result="result8"
@@ -5055,8 +5294,8 @@
      id="namedview1719"
      showgrid="false"
      inkscape:zoom="1.20679"
-     inkscape:cx="324.00002"
-     inkscape:cy="180"
+     inkscape:cx="324.41436"
+     inkscape:cy="180.2302"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -5070,7 +5309,8 @@
      inkscape:document-units="mm"
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="true"
-     inkscape:snap-nodes="true" />
+     inkscape:snap-nodes="true"
+     inkscape:pagecheckerboard="0" />
   <!--
 Created by Hari Seldon and modified by orangain, licensed under Creative Commons Attribution-Share Alike 3.0 Unported.
 See: https://creativecommons.org/licenses/by-sa/3.0/deed.en
