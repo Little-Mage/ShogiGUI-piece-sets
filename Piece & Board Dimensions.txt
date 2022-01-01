@@ -13,11 +13,6 @@ Sun	1/33 m	3.0303 cm
 Length	12 sun	36.3636 cm
 Width	11 sun	33.3333 cm
 
-Nekomado board measurements:
-Width: 1 shaku, 1.2 sun	33.9394 cm
-Depth: 1 shaku, 2.2 sun	36.9697 cm
-Height: 6.7 sun	20.303 cm
-
 The number of pieces in a set:
 King	2
 Rook	2
