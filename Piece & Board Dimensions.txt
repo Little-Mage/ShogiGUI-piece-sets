@@ -26,7 +26,7 @@ Pawn	19
 Measurements provided in this order:
 width, height, length 
 
-http://shogi-koma.jp/shop/koma.html
+https://shogi-koma.jp/?mode=f5
 
 Manufacturing method 1 (Mikura, Yunnan wood)
 
