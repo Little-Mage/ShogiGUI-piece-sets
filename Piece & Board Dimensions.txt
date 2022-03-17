@@ -8,11 +8,6 @@ Margins: 2.5 Bu	分: 0.7576 cm
 Length	3.8721 cm = (36.3636 - 1.5152)/9
 Width	3.5354 cm = (33.3333 - 1.5152)/9
 
-Hidetchi https://www.youtube.com/watch?v=h9zb5udfeWo
-Sun	1/33 m	3.0303 cm
-Length	12 sun	36.3636 cm
-Width	11 sun	33.3333 cm
-
 The number of pieces in a set:
 King	2
 Rook	2
@@ -23,12 +18,9 @@ Knight	4
 Lance	4
 Pawn	19
 
-Measurements provided in this order:
-width, height, length 
-
 https://shogi-koma.jp/?mode=f5
 
-Manufacturing method 1 (Mikura, Yunnan wood)
+Manufacturing method 1 (御蔵・雲南材)
 
 31.5 mm	28 mm	9.5 mm	King
 30.5 mm	27 mm	9.0 mm	Rook & Bishop 
@@ -37,7 +29,7 @@ Manufacturing method 1 (Mikura, Yunnan wood)
 28 mm	23 mm	8.0 mm	Lance
 27 mm	22.5 mm	7.75 mm	Pawn
 
-Manufacturing method 2 (sham material)
+Manufacturing method 2 (シャム材)
 
 30.5 mm	26.5 mm	8.5 mm	King
 29.5 mm	25.5 mm	8.3 mm	Rook & Bishop
