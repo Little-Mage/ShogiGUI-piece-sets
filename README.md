@@ -21,3 +21,7 @@ This repository contains CouchTomato's old wood pieces that are unfilled and the
 Pieces designed by peanatsu https://github.com/peanatsu/shogi_printout/releases
 
 Various types of pieces https://github.com/yagu0/vchess
+
+http://toro.2ch.sc/test/read.cgi/bgame/1572078063
+
+http://shineleckoma.web.fc2.com/index.html
