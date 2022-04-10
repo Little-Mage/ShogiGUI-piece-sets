@@ -1,7 +1,7 @@
 JSA: https://www.shogi.or.jp/faq/item/
 Standard sizes:
-1 shaku, 2 sun	36.363 cm vertically
-1 shaku, 1 sun	33.333 cm horizontally
+12 sun	36.3636 cm vertically
+11 sun	33.333 cm horizontally
 Margins: 2.5 Bu	分: 0.758 cm
 
 1 square:
