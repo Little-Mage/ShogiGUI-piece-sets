@@ -1,12 +1,12 @@
 JSA: https://www.shogi.or.jp/faq/item/
 Standard sizes:
-1 shaku, 2 sun	36.3636 cm vertically
-1 shaku, 1 sun	33.3333 cm horizontally
-Margins: 2.5 Bu	分: 0.7576 cm
+1 shaku, 2 sun	36.363 cm vertically
+1 shaku, 1 sun	33.333 cm horizontally
+Margins: 2.5 Bu	分: 0.758 cm
 
 1 square:
-Length	3.8721 cm = (36.3636 - 1.5152)/9
-Width	3.5354 cm = (33.3333 - 1.5152)/9
+Length	3.872 cm = (36.363 - 1.515)/9
+Width	3.535 cm = (33.333 - 1.515)/9
 
 The number of pieces in a set:
 King	2
